@@ -1,0 +1,94 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/* Layer */
+#bwrap {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 1000;
+}
+
+#layer {
+	position: absolute;
+	width: 100%;
+	z-index: 1100;
+}
+#layer li a {
+	text-align: left;
+	padding: 10px;
+	font-size: 13px; font-size: 1.3rem;
+	margin: 0;
+	padding-left: 20px;
+	width: 100%;
+}
+#layer li a:hover {
+	text-decoration: none;
+}
+#layer li a::before {
+	font-family: 'Font Awesome 5 Free';
+	content: "\f0da";
+	font-weight: 900;
+	padding-right: 10px;
+}
+#layer li[class*="children"] span {
+	pointer-events: none;
+}
+#layer li[class*="children"] a {
+	padding-left: 16px;
+}
+#layer li[class*="children"] li a {
+	padding-left: 35px;
+}
+#layer li li[class*="children"] a {
+	padding-left: 32px;
+}
+#layer li li[class*="children"] li a {
+	padding-left: 55px;
+}
+#layer li ul {
+	border-bottom: 0;
+}
+#layer li li a::before{
+	content: "-";
+}
+#layer li li li a::before{
+	content: "\0b7";
+}
+
+/* Mobile Close button */
+#close {
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	width: 34px;
+	height: 34px;
+	box-sizing: content-box;
+	color: #fff;
+	background: #000;
+	border: 2px solid #ddd;
+	border-radius: 4px;
+	opacity: .7;
+	text-align: center;
+	cursor: pointer;
+	z-index: 1200
+}
+#close i {
+	font-size: 20px;
+	line-height: 34px;
+}
+#close:hover {
+	opacity: 1.0;
+}

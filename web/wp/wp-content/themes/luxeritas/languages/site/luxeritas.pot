@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Luxeritas\n"
+"POT-Creation-Date: 2018-12-16 02:42+0900\n"
+"PO-Revision-Date: 2018-12-18 15:09+0900\n"
+"Last-Translator: \n"
+"Language-Team: Thought is Free\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: translations.php:2
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr ""
+
+#: translations.php:3
+msgid "Sponsored Links"
+msgstr ""
+
+#: translations.php:4
+msgid "Advertisement"
+msgstr ""
+
+#: translations.php:5
+msgid "Home"
+msgstr ""
+
+#: translations.php:6
+msgid "F j, Y"
+msgstr ""
+
+#: translations.php:7
+msgid "F Y"
+msgstr ""
+
+#: translations.php:8
+msgid "Y"
+msgstr ""
+
+#: translations.php:9
+#, php-format
+msgid "Search results of [%s]"
+msgstr ""
+
+#: translations.php:10
+msgid "Page not found"
+msgstr ""
+
+#: translations.php:11
+msgid "Discussion"
+msgstr ""
+
+#: translations.php:12
+msgid "New Comments"
+msgstr ""
+
+#: translations.php:13
+msgid "says:"
+msgstr ""
+
+#: translations.php:14
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: translations.php:15
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: translations.php:16
+msgid "(Edit)"
+msgstr ""
+
+#: translations.php:17
+msgid "No comments yet.  Be the first one!"
+msgstr ""
+
+#: translations.php:18
+msgid "New Pnigbacks &amp; Trackbacks"
+msgstr ""
+
+#: translations.php:19
+msgid "Name"
+msgstr ""
+
+#: translations.php:20
+msgid "Email"
+msgstr ""
+
+#: translations.php:21
+msgid "Website"
+msgstr ""
+
+#: translations.php:22
+msgid "CAPTCHA"
+msgstr ""
+
+#: translations.php:23
+msgid "Leave a Reply"
+msgstr ""
+
+#: translations.php:24
+msgid "Comment"
+msgstr ""
+
+#: translations.php:25
+msgid "To comment"
+msgstr ""
+
+#: translations.php:26
+msgid "Hatena Bookmark"
+msgstr ""
+
+#: translations.php:27
+#, php-format
+msgid " : %s"
+msgstr ""
+
+#: translations.php:28
+msgid "Read more"
+msgstr ""
+
+#: translations.php:29
+msgid "Sorry, the requested post was not found."
+msgstr ""
+
+#: translations.php:30
+msgid " Menu"
+msgstr ""
+
+#: translations.php:31
+msgid "Edit This"
+msgstr ""
+
+#: translations.php:32
+msgid "No posts yet"
+msgstr ""
+
+#: translations.php:33
+msgid "Posted by"
+msgstr ""
+
+#: translations.php:34
+msgid "Next"
+msgstr ""
+
+#: translations.php:35
+msgid "Home "
+msgstr ""
+
+#: translations.php:36
+msgid "Prev"
+msgstr ""
+
+#: translations.php:37
+msgid "TrackBack URL"
+msgstr ""
+
+#: translations.php:38
+msgid "No related posts yet."
+msgstr ""
+
+#: translations.php:39
+msgid "No search hits"
+msgstr ""
+
+#: translations.php:40
+msgid "Authentication is not valid."
+msgstr ""
+
+#: translations.php:41
+msgid "Please enter image authentication."
+msgstr ""
+
+#: translations.php:42
+msgid "Image authentication is incorrect."
+msgstr ""
+
+#: translations.php:43
+msgid "Search for"
+msgstr ""
+
+#: translations.php:44
+msgid "Search"
+msgstr ""
+
+#: translations.php:45
+msgid "Related Posts"
+msgstr ""
+
+#: translations.php:46
+msgid "Send to LINE"
+msgstr ""
+
+#: translations.php:47
+msgid "This theme is broken."
+msgstr ""
+
+#: translations.php:48
+msgid "Adsense has a mistake. Some adsense is not displayed properly."
+msgstr ""
+
+#: translations.php:49
+msgid "Creating a cache ..."
+msgstr ""
+
+#: translations.php:50
+msgid "Category"
+msgstr ""
+
+#: translations.php:51
+#, php-format
+msgid ""
+"Luxeritas requires at least %s version %s. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: translations.php:52
+msgid "Table of Contents"
+msgstr ""
+
+#: translations.php:53
+msgid "Please share this if you liked it!"
+msgstr ""
+
+#: translations.php:54
+#, php-format
+msgid "%s Category"
+msgstr ""
+
+#: translations.php:55
+msgid "QR Code"
+msgstr ""
+
+#: translations.php:56
+msgid "Title:"
+msgstr ""
+
+#: translations.php:57
+msgid "Recent Comments"
+msgstr ""
+
+#: translations.php:58
+#, php-format
+msgid "%s&apos; website"
+msgstr ""
+
+#: translations.php:59
+msgid "Post of this comment"
+msgstr ""
+
+#: translations.php:60
+msgid "The latest comments to all posts"
+msgstr ""
+
+#: translations.php:61
+msgid "Anonymous"
+msgstr ""
+
+#: translations.php:62
+msgid "Recent posts"
+msgstr ""
+
+#: translations.php:63
+msgid "No new posts"
+msgstr ""
+
+#: translations.php:64
+msgid "Follow me!"
+msgstr ""
+
+#: translations.php:65
+msgid "Subscribe to this blog"
+msgstr ""
+
+#: translations.php:66
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: translations.php:67
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: translations.php:68
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: translations.php:69
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: translations.php:70
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: translations.php:71
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: translations.php:72
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: translations.php:73
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: translations.php:74
+msgid "Could not delete cache directory."
+msgstr ""
+
+#: translations.php:75
+msgid "Sitemap"
+msgstr ""
+
+#: translations.php:76
+msgid "Pages"
+msgstr ""

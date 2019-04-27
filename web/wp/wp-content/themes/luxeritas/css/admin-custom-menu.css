@@ -1,0 +1,256 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+*/
+
+li[id*="luxe-custom"] .wp-menu-image::before {
+	color: #00a0dd !important;
+}
+.wp-full-overlay-sidebar {
+	background: #f7f6f5;	/* pearl white */
+}
+#customize-theme-controls .control-section-default .accordion-section-title {
+	background: #fff;	/* white */
+}
+#customize-theme-controls .control-section-default .accordion-section-title:hover {
+	background: #fdede4;	/* baby pink */
+}
+
+.borderb,
+#customize-control-overall_image,
+#customize-control-pagination_visible,
+#customize-control-trackback_page_visible,
+#customize-control-container_max_width,
+#customize-control-title_position,
+#customize-control-head_padding_left,
+#customize-control-cont_padding_left,
+#customize-control-breadcrumb_view,
+#customize-control-breadcrumb_left_right_padding,
+#customize-control-grid_archive_widget,
+#customize-control-posts_list_middle_widget_wide,
+#customize-control-grid_tile_order,
+#customize-control-dummy2,
+#customize-control-excerpt_opacity_card,
+#customize-control-short_title_length,
+#customize-control-short_title_length_tile,
+#customize-control-column_archive,
+#customize-control-column3_reverse,
+#customize-control-side_discrete,
+#customize-control-content_side_discrete,
+#customize-control-header_border_wide,
+#customize-control-hide_mobile_footer,
+#customize-control-header_catchphrase_visible,
+#customize-control-home_text,
+#customize-control-thumbnail_border,
+#customize-control-thumbnail_layout,
+#customize-control-thumbnail_is_size_card,
+#customize-control-body_hover_color,
+#customize-control-head_hover_color,
+#customize-control-body_transparent,
+#customize-control-cont_transparent,
+#customize-control-side_transparent,
+#customize-control-head_transparent,
+#customize-control-foot_transparent,
+#customize-control-one_point_img,
+#customize-control-body_img_size,
+#customize-control-side_bg_img,
+#customize-control-head_img_size,
+#customize-control-global_navi_open_close,
+#customize-control-global_navi_scroll_up_sticky,
+#customize-control-gnavi_separator_color,
+#customize-control-head_band_border_bottom_width,
+#customize-control-head_search_transparent,
+#customize-control-title_sep,
+#customize-control-title_top_list,
+#customize-control-title_front_page,
+#customize-control-atom_feed_enable,
+#customize-control-top_description,
+#customize-control-meta_keywords,
+#customize-control-facebook_app_id,
+#customize-control-jquery_load,
+#customize-control-bootstrap_js_load_type,
+#customize-control-awesome_load,
+#accordion-section-compress_section .description.customize-section-description,
+#customize-control-html_compress,
+#customize-control-child_css_compress,
+#customize-control-add_class_external,
+#customize-control-external_icon_color,
+#customize-control-sns_count_weekly_cleanup,
+#customize-control-sns_tops_multiple,
+#customize-control-sns_bottoms_multiple,
+#customize-control-sns_bottoms_msg,
+#customize-control-add_role_attribute,
+#customize-control-remove_hentry_class,
+#customize-control-user_scalable,
+#customize-control-archives_a_inner,
+#customize-control-lazyload_spinner,
+#customize-control-lazyload_threshold,
+#customize-control-lazyload_effectspeed {
+	padding-bottom: 18px;
+	border-bottom: 2px dotted #c9c9c4;	/* pearl gray */
+}
+#customize-control-excerpt_priority,
+#customize-control-head_band_fixed,
+#customize-control-buffering_enable,
+#customize-control-lazyload_crawler {
+	border-bottom: 2px dotted #c9c9c4;	/* pearl gray */
+}
+hr,
+#customize-control-next_prev_nav_visible .description,
+#customize-control-trackback_visible .description,
+#customize-control-tag_meta_u_visible .description,
+#customize-control-feedly_share_tops_button .description {
+	border-top: 2px dotted #c9c9c4;		/* pearl gray */
+	margin-top: 23px;
+	padding-top: 0;
+	margin-left: -23px;
+	padding-left: 23px;
+}
+
+li label {
+	padding-top: 5px !important;
+	padding-bottom: 0 !important;
+}
+
+input[type="number"] {
+	max-width: 65px;
+}
+
+.f09em {
+	font-size: 0.9em
+}
+
+.f11em {
+	font-size: 1.1em
+}
+.bold {
+	font-weight: bold;
+}
+.wnormal {
+	font-weight: normal;
+}
+.snormal {
+	font-style: normal;
+}
+.m0t {
+	margin-top: 0;
+}
+.m5t {
+	margin-top: 5px;
+}
+.m10t {
+	margin-top: 10px;
+}
+.m0b {
+	margin-bottom: 0;
+}
+.m23t {
+	margin-top: 23px;
+}
+.m23b {
+	margin-bottom: 23px;
+}
+.mm23l {
+	margin-left: -23px;
+}
+.mm5b {
+	margin-bottom: -5px !important;
+}
+.mm10b {
+	margin-bottom: -10px !important;
+}
+.mm15b {
+	margin-bottom: -10px !important;
+}
+
+#customize-control-head_band_search label {
+	font-weight: bold;
+}
+#customize-control-head_band_color .customize-control-title,
+#customize-control-head_band_hover_color .customize-control-title,
+#customize-control-head_band_bg_color .customize-control-title,
+#customize-control-head_band_border_bottom_color .customize-control-title,
+#customize-control-head_band_border_bottom_width .customize-control-title,
+#customize-control-head_search_color .customize-control-title,
+#customize-control-head_search_bg_color .customize-control-title,
+#customize-control-head_search_transparent .customize-control-title {
+	font-weight: normal;
+}
+
+#customize-control-head_margin_top,
+#customize-control-head_padding_top,
+#customize-control-head_padding_right,
+#customize-control-head_padding_bottom,
+#customize-control-head_padding_left,
+#customize-control-cont_padding_top,
+#customize-control-cont_padding_right,
+#customize-control-cont_padding_bottom,
+#customize-control-cont_padding_left,
+#customize-control-short_title_length,
+#customize-control-short_title_length_tile,
+#customize-control-short_title_length_card,
+#customize-control-grid_home_first,
+#customize-control-grid_home_widget,
+#customize-control-grid_archive_first,
+#customize-control-grid_archive_widget,
+#customize-control-grid_category_first,
+#customize-control-grid_category_widget,
+#customize-control-excerpt_length,
+#customize-control-excerpt_length_tile,
+#customize-control-excerpt_length_card,
+#customize-control-breadcrumb_top_buttom_padding,
+#customize-control-breadcrumb_left_right_padding,
+li[id^='customize-control-font_size_'] {
+	position: relative;
+}
+#customize-control-head_margin_top .description,
+#customize-control-head_padding_top .description,
+#customize-control-cont_padding_top .description,
+#customize-control-excerpt_length .description,
+#customize-control-breadcrumb_top_buttom_padding .description,
+#customize-control-breadcrumb_left_right_padding .description,
+li[id^='customize-control-font_size_'] .description {
+	position: absolute;
+	bottom: 0;
+	left: 73px;
+}
+#customize-control-breadcrumb_left_right_padding .description {
+	bottom: 20px;
+}
+#customize-control-head_padding_right .description,
+#customize-control-head_padding_bottom .description,
+#customize-control-head_padding_left .description,
+#customize-control-cont_padding_right .description,
+#customize-control-cont_padding_bottom .description,
+#customize-control-cont_padding_left .description,
+#customize-control-short_title_length .description,
+#customize-control-short_title_length_tile .description,
+#customize-control-short_title_length_card .description,
+#customize-control-grid_home_first .description,
+#customize-control-grid_home_widget .description,
+#customize-control-grid_archive_first .description,
+#customize-control-grid_archive_widget .description,
+#customize-control-grid_category_first .description,
+#customize-control-grid_category_widget .description,
+#customize-control-excerpt_length_tile .description,
+#customize-control-excerpt_length_card .description {
+	position: absolute;
+	top: 3px;
+	left: 73px;
+}
+
+*[id*='-dummy'] p {
+	margin: 0;
+}
+li[id*='-dummy'] {
+	margin-bottom: 12px;
+}

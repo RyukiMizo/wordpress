@@ -1,0 +1,8 @@
+{"balloon
+right img=&quot;&lt;!-- sbr
+image
+url --&gt;&quot; caption=&quot;&lt;!-- sbr
+caption --&gt;&quot;":{"label":"balloon
+right","php":true,"close":true,"hide":false,"active":true,"contents":"s:593:\"<?php\nadd
+shortcode('balloon
+right',function($args,$contents){\n$before = '<div class=\"balloon\"><div class=\"balloon-img-right\">';\n\nif( isset( $args['img'] ) ) {\n\t$before .= '<figure><img src=\"' . $args['img'] . '\" width=\"60\" height=\"60\" alt=\"';\n\t$before .= isset( $args['caption'] ) ? $args['caption'] : '';\n\t$before .= '\" \/><\/figure>';\n}\nif( isset( $args['caption'] ) ) {\n\t$before .= '<span class=\"balloon-img-caption\">' . $args['caption'] .'<\/span>';\n}\n\n$before .= '<\/div><div class=\"balloon-right\">';\n$after = '<\/div><\/div>';\n\n$contents = $before . $contents . $after;\nreturn $contents;\n});\n\";"}}

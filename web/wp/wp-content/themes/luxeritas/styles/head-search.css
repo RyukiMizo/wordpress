@@ -1,0 +1,102 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+#head-search {
+	float: right;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	font-size: 1px;
+	white-space: nowrap;
+}
+#head-search form {
+	position: relative;
+	display: inline-block;
+	margin: 0;
+	line-height: 1.0;
+	vertical-align: middle;
+	background-color: rgba(200, 200, 200, 0.3);
+}
+#head-search form:hover {
+	transition: all ease-in-out 0.4s;
+}
+#head-search input[type="text"]:hover,
+#head-search input[type="text"]:focus {
+	color: #000;
+	background-color: rgba(255, 255, 255, 1.0);
+}
+#head-search input[type="text"],
+#head-search button[type="submit"] {
+	color: #bbb;
+	background: none;
+	border: none;
+	height: 24px;
+}
+#head-search input[type="text"] {
+	margin: 0 -5px 0 0;
+	padding: 0 10px;
+	transition: all ease-in-out 0.4s;
+	font-size: 13px; font-size: 1.3rem;
+	font-weight: bold;
+	width: 140px;
+}
+#head-search button[type="submit"] {
+	font-size: 18px; font-size: 1.8rem;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 0;
+	margin: 0 0 0 -30px;
+	width: 30px;
+}
+#head-search button[type="submit"]:before {
+	font-family: 'Font Awesome 5 Free';
+	content: "\f002";
+	font-weight: 900;
+}
+.head-search-field::-webkit-input-placeholder { color: #bbb; }
+.head-search-field::-moz-placeholder { color: #bbb; }
+.head-search-field:-moz-placeholder { color: #bbb; }
+.head-search-field:-ms-input-placeholder { color: #bbb; }
+.head-search-field:placeholder-shown { color: #bbb; }
+
+.band-menu ul {
+	right: 150px;
+	transition: all ease-in-out 0.4s;
+}
+
+@media screen and (max-width: 540px) {
+	.band-menu ul {
+		top: 32px; /* 小デバイスでのタップターゲットが近くなるため form の高さ defalt値 + 4px */
+		right: 5px;
+		margin: 0;
+	}
+	div[id*="head-band"] {
+		height: 60px; /* defalt値 + 上記 top */
+	}
+	#head-search button[type="submit"] {
+		display: block;
+		right: 5px;
+	}
+	#head-search {
+		padding: 5px 0;
+	}
+	#head-search, #head-search form, #head-search input[type="text"] {
+		display: block;
+		min-width: 100%;
+		width: 100%;
+		transition: all ease-in-out 0.4s;
+	}
+}

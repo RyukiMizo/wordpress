@@ -1,0 +1,137 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This CSS has been developed on the basis of the following.
+ */
+ /*
+ * Bootstrap v3.3.6 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+ /* normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+/**
+------------------------------------
+ Code Mirror
+------------------------------------ */
+#template, .CodeMirror, #luxe-customize #template textarea {
+	width: 100%;
+	max-width: 1400px;
+}
+#luxe-customize #template textarea {
+	margin: 0;
+}
+#template #edit-file-name,
+#template span.edit-file-name,
+#template span.save-button,
+#template span.commands-button,
+#template span.codemirror-settings-button {
+	margin: 0;
+	width: auto;
+	padding: 5px 10px;
+	background: #f7f7f7;
+	border: 1px solid #ddd;
+	border-bottom: 0;
+	font-size: 13px;
+	vertical-align: middle;
+}
+#template .dashicons {
+	font-size: 17px;
+	width: 17px;
+	height: 17px;
+	vertical-align: -.25em;
+}
+#template span.edit-file-name,
+#template span.save-button,
+#template span.commands-button,
+#template span.codemirror-settings-button {
+	display: inline-block;
+	margin: 3px 0;
+	padding: 5px 10px;
+	background: #fff;
+	border: 1px solid #ddd;
+	box-shadow: 1px 1px 0 #bbb inset;
+}
+#template .CodeMirror, #template textarea {
+	border-top: 0;
+}
+#template span.edit-file-name {
+	display: inline-block;
+	margin-right: 5px;
+}
+#template span.save-button,
+#template span.commands-button,
+#template span.codemirror-settings-button {
+	cursor: pointer;
+	-moz-box-shadow:inset 0px 1px 0px 0px #fff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fff;
+	box-shadow:inset 0px 1px 0px 0px #fff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9));
+	background:-moz-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
+	background:-webkit-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
+	background:-o-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
+	background:-ms-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9',GradientType=0);
+	background-color:#f9f9f9;
+	border:1px solid #dcdcdc;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+}
+#template span.save-button:hover,
+#template span.commands-button:hover,
+#template span.codemirror-settings-button:hover {
+	cursor: pointer;
+	-moz-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bddbfa), color-stop(1, #80b5ea));
+	background:-moz-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-webkit-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-o-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:-ms-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);
+	background:linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bddbfa', endColorstr='#80b5ea',GradientType=0);
+	background-color:#bddbfa;
+	border:1px solid #84bbf3;
+	color:#fff;
+	text-shadow:0px 1px 0px #528ecc;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+}
+#template #commands table,
+#template #codemirror-settings table {
+	width: 100%;
+	max-width: 485px;
+	margin: 10px 0;
+	border-collapse: collapse;
+}
+#template #commands table td,
+#template #codemirror-settings table td {
+	padding: 5px 10px;
+	background: #fff;
+	border: 1px solid #ddd;
+}
+#luxe-customize p.submit {
+	display: none;
+}
+#template .close {
+	position: absolute;
+	cursor: pointer;
+	right: 0;
+	font-weight: normal;
+	background: #fff;
+	border: 1px solid #ddd;
+}

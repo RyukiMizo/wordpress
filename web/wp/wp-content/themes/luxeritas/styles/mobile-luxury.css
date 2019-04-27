@@ -1,0 +1,40 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/* Mobile Search Form */
+#sform {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 98%;
+	height: 36px;
+	max-width: 600px;
+	margin: auto;
+	padding: 2px;
+	background: rgba( 0, 0, 0, .5 );
+	border-radius: 5px;
+	z-index: 1200;
+}
+#sform .search-form {
+	position: relative;
+	width: 100%;
+	margin: auto;
+}
+#sform .search-field {
+	height: 32px;
+	font-size: 18px;
+}

@@ -1,0 +1,58 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/* Adsense */
+.ps-widget {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	max-width: 336px;
+	max-height: 280px;
+	overflow: hidden;
+}
+.ps-col { max-width: 690px; }
+p.ps-label {
+	text-align: left;
+	margin: 0 auto 5px auto;
+	font-size: 14px; font-size: 1.4rem;
+}
+.ps-widget {
+	display: inline-block;
+}
+.rectangle-1-row {
+	margin-bottom: 10px;
+}
+.rectangle-1-col {
+	margin-right: 10px;
+}
+@media (min-width: 541px) and (max-width: 1200px) {
+	.rectangle-1-col,
+	.rectangle-2-col {
+		margin: 0 0 10px 0;
+	}
+	rectangle-2-col {
+		margin-bottom: 20px;
+	}
+	.ps-col { max-width: 336px; }
+}
+@media (max-width: 540px) {
+	.rectangle-2-col,
+	.rectangle-2-row {
+		display: none;
+	}
+	.ps-col { max-width: 336px; }
+}
+div.ps-wrap { max-height: none; }
+p.al-c, div.al-c { text-align: center; margin-left: auto; margin-right: auto; }

@@ -1,0 +1,150 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+*/
+
+div[id^="tile-"], div[id^="card-"] {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-box-pack: space-between;
+	-ms-flex-pack: space-between;
+	justify-content: space-between;
+}
+div[id^="tile-"] .toc, div[id^="card-"] .toc {
+	max-width: 100%;
+	width: 100%;
+}
+div[id^="tile-"] .toc:not(#bottom-area):not(.posts-list-middle-widget):not(#bottom-area):not(.posts-list-under-widget),
+div[id^="card-"] .toc:not(#bottom-area):not(.posts-list-middle-widget):not(#bottom-area):not(.posts-list-under-widget) {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	min-width: 1px;
+}
+@media (min-width: 1200px) {
+	#tile-4 .toc,
+	#card-4 .toc {
+		max-width: 24.5%;
+		width: 24.5%;
+	}
+	#tile-3 .toc,
+	#card-3 .toc {
+		max-width: 32.5%;
+		width: 32.5%;
+	}
+	#tile-2 .toc,
+	#card-2 .toc {
+		max-width: 49%;
+		width: 49%;
+	}
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+	#tile-4 .toc,
+	#card-4 .toc {
+		max-width: 32.5%;
+		width: 32.5%;
+	}
+	#tile-3 .toc,
+	#card-3 .toc,
+	#tile-2 .toc,
+	#card-2 .toc {
+		max-width: 49%;
+		width: 49%;
+	}
+}
+@media (min-width: 576px) and (max-width: 767px) {
+	#tile-4 .toc,
+	#card-4 .toc,
+	#tile-3 .toc,
+	#card-3 .toc,
+	#tile-2 .toc,
+	#card-2 .toc {
+		max-width: 49%;
+		width: 49%;
+	}
+}
+#list #bottom-area,
+#list .posts-list-under-widget {
+	max-width: 100%;
+	width: 100%;
+}
+
+div[id^="tile-"] .toc:not(#bottom-area):not(.posts-list-middle-widget):not(#bottom-area):not(.posts-list-under-widget) {
+	padding: 15px;
+}
+div[id^="card-"] .toc:not(#bottom-area):not(.posts-list-middle-widget):not(#bottom-area):not(.posts-list-under-widget) {
+	padding: 0 15px;
+}
+
+div[id^="tile-"] .meta, div[id^="card-"] .meta {
+	font-size: 13px; font-size: 1.3rem;
+	margin-bottom: 10px;
+}
+div[id^="tile-"] .meta {
+	margin-bottom: 10px;
+}
+div[id^="card-"] .meta {
+	margin-bottom: 15px;
+	padding: 15px 10px 10px 10px;
+	border: none;
+	border-bottom: 1px solid #ddd;
+}
+div[id^="tile-"] .term, div[id^="card-"] .term {
+	margin: 0;
+}
+div[id^="card-"] .term {
+	max-width: 40%;
+	padding: 0 20px 0 0;
+	overflow: hidden;
+	float: left;
+}
+#list div[id^="tile-"] .term img, #list div[id^="card-"] .term img {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
+#list div[id^="tile-"] .term img {
+	box-sizing: border-box;
+	float: none;
+}
+#list div[id^="card-"] .term img {
+	border: none;
+}
+
+#list div[id^="tile-"] .exsp, #list div[id^="card-"] .exsp {
+	opacity: .6;
+}
+
+#list div[id^="tile-"] .excerpt, #list div[id^="card-"] .excerpt {
+	padding-bottom: 30px;
+	font-size: 13px; font-size: 1.3rem;
+	line-height: 1.4;
+}
+#list div[id^="card-"] .excerpt {
+	padding-bottom: 10px;
+}
+
+#list div[id^="tile-"] .read-more {
+	position: absolute;
+	bottom: 20px;
+	right: 15px;
+	left: 15px;
+}
+#list div[id^="card-"] .read-more {
+	margin-bottom: 20px;
+}
+div[id^="tile-"] h2, div[id^="card-"] h2 {
+	font-size: 16px; font-size: 1.6rem;
+}

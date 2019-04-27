@@ -1,0 +1,70 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/* Calendar */
+.calendar_wrap {
+	margin-bottom: 10px;
+}
+#wp-calendar {
+	table-layout: fixed;
+	line-height: 2.0;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 12px; font-size: 1.2rem;
+}
+#side #wp-calendar, #col3 #wp-calendar {
+	margin: 0 auto -10px auto;
+}
+#wp-calendar caption{
+	padding: 2px;
+	width: auto;
+	text-align: center;
+	font-weight: bold;
+	border: thin solid #ccc;
+	border-radius: 3px 3px 0 0;
+	caption-side: top;
+}
+#wp-calendar #today {
+	font-weight: bold;
+}
+#wp-calendar th,
+#wp-calendar td{
+	line-height: 2.0;
+	vertical-align: middle;
+	text-align: center;
+}
+
+#wp-calendar td {
+	border: thin solid #ccc;
+}
+#wp-calendar th {
+	font-style: normal;
+	font-weight: bold;
+	color: #fff;
+	border-left: thin solid #ccc;
+	border-right: thin solid #ccc;
+	background: #333;
+}
+#wp-calendar a {
+	font-size: 12px; font-size: 1.2rem;
+	color: #3969FF;
+	text-decoration: underline;
+}
+#wp-calendar a:hover {
+	color: #c3251d;
+}

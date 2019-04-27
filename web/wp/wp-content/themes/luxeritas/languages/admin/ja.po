@@ -1,0 +1,6355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Luxeritas\n"
+"POT-Creation-Date: 2019-01-29 00:17+0900\n"
+"PO-Revision-Date: 2019-01-29 00:17+0900\n"
+"Last-Translator: \n"
+"Language-Team: Thought is Free\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ../..\n"
+"X-Poedit-SearchPath-1: ../../inc\n"
+
+#: ../../404.php:71 ../../languages/site/translations.php:2
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "お探しのページは見つかりませんでした。"
+
+#: ../../breadcrumb.php:117 ../../inc/json-ld.php:327 ../../inc/widget.php:144
+#: ../../languages/site/translations.php:6
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: ../../breadcrumb.php:120 ../../inc/description.php:47
+#: ../../inc/json-ld.php:330 ../../languages/site/translations.php:7
+msgid "F Y"
+msgstr "Y年n月"
+
+#: ../../breadcrumb.php:123 ../../inc/json-ld.php:333
+#: ../../languages/site/translations.php:8
+msgid "Y"
+msgstr "Y年"
+
+#: ../../breadcrumb.php:129 ../../search.php:24 ../../inc/json-ld.php:340
+#: ../../languages/site/translations.php:9
+#, php-format
+msgid "Search results of [%s]"
+msgstr "「%s」の検索結果"
+
+#: ../../breadcrumb.php:141 ../../languages/site/translations.php:10
+msgid "Page not found"
+msgstr "ページが見つかりませんでした"
+
+#: ../../comments.php:30 ../../inc/custom.php:1248
+#: ../../languages/site/translations.php:11
+msgid "Discussion"
+msgstr "ディスカッション"
+
+#: ../../comments.php:68 ../../languages/site/translations.php:13
+msgid "says:"
+msgstr "より:"
+
+#: ../../comments.php:74 ../../languages/site/translations.php:14
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: ../../comments.php:82 ../../languages/site/translations.php:15
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: ../../comments.php:82 ../../languages/site/translations.php:16
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: ../../comments.php:133 ../../comments.php:213
+#: ../../languages/site/translations.php:12
+msgid "New Comments"
+msgstr "コメント一覧"
+
+#: ../../comments.php:144 ../../languages/site/translations.php:18
+msgid "New Pnigbacks &amp; Trackbacks"
+msgstr "ピンバック &amp; トラックバック一覧"
+
+#: ../../comments.php:214 ../../languages/site/translations.php:17
+msgid "No comments yet.  Be the first one!"
+msgstr "まだ、コメントがありません"
+
+#: ../../comments.php:227 ../../inc/sections/thumbnail-manage.php:27
+#: ../../languages/site/translations.php:19
+msgid "Name"
+msgstr "名前"
+
+#: ../../comments.php:229 ../../languages/site/translations.php:20
+msgid "Email"
+msgstr "メールアドレス"
+
+#: ../../comments.php:231 ../../languages/site/translations.php:21
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: ../../comments.php:312 ../../inc/customize.php:44
+#: ../../inc/customize.php:313 ../../languages/site/translations.php:22
+msgid "CAPTCHA"
+msgstr "画像認証"
+
+#: ../../comments.php:334 ../../languages/site/translations.php:23
+msgid "Leave a Reply"
+msgstr "コメントをどうぞ"
+
+#: ../../comments.php:335 ../../languages/site/translations.php:24
+msgid "Comment"
+msgstr "コメント"
+
+#: ../../comments.php:343 ../../languages/site/translations.php:25
+msgid "To comment"
+msgstr "コメントする"
+
+#: ../../functions.php:153
+msgid "Header Nav (Global Nav)"
+msgstr "ヘッダーナビ（グローバルナビ）"
+
+#: ../../functions.php:154 ../../inc/custom.php:3465
+msgid "Header Band Menu"
+msgstr "ヘッダーの上の帯状メニュー"
+
+#: ../../functions.php:278 ../../functions.php:282 ../../functions.php:287
+#: ../../languages/site/translations.php:40
+msgid "Authentication is not valid."
+msgstr "認証が無効です。"
+
+#: ../../functions.php:294 ../../languages/site/translations.php:41
+msgid "Please enter image authentication."
+msgstr "画像認証を入力してください。"
+
+#: ../../functions.php:300 ../../languages/site/translations.php:42
+msgid "Image authentication is incorrect."
+msgstr "画像認証が間違っています。"
+
+#: ../../head-band.php:45 ../../searchform.php:24
+#: ../../languages/site/translations.php:43
+msgid "Search for"
+msgstr "サイト内検索"
+
+#: ../../head-band.php:46 ../../searchform.php:26 ../../inc/codemirror.php:99
+#: ../../inc/customize.php:43 ../../inc/theme-editor-script.php:62
+#: ../../languages/site/translations.php:44
+msgid "Search"
+msgstr "検索"
+
+#: ../../head-band.php:115 ../../inc/custom.php:3780 ../../inc/custom.php:3793
+#: ../../inc/custom.php:5091 ../../inc/custom.php:5222
+#: ../../inc/widget.php:394 ../../inc/widget.php:496
+#: ../../languages/site/translations.php:26
+msgid "Hatena Bookmark"
+msgstr "はてブ"
+
+#: ../../loop-grid.php:158 ../../loop-normal.php:155 ../../loop.php:154
+#: ../../search.php:50 ../../languages/site/translations.php:29
+msgid "Sorry, the requested post was not found."
+msgstr "お探しの記事は見つかりませんでした。"
+
+#: ../../navi.php:25 ../../navi.php:56
+#: ../../languages/site/translations.php:30
+msgid " Menu"
+msgstr " メニュー"
+
+#: ../../page.php:135 ../../page.php:139 ../../single.php:121
+#: ../../single.php:125 ../../languages/site/translations.php:33
+msgid "Posted by"
+msgstr "Posted by"
+
+#: ../../page.php:146 ../../single.php:132
+#: ../../languages/site/translations.php:31
+msgid "Edit This"
+msgstr "編集"
+
+#: ../../page.php:207 ../../single.php:192
+#: ../../languages/site/translations.php:32
+msgid "No posts yet"
+msgstr "記事がありません"
+
+#: ../../page.php:241 ../../single.php:226
+#: ../../languages/site/translations.php:34
+msgid "Next"
+msgstr "Next"
+
+#: ../../page.php:246 ../../page.php:274 ../../single.php:231
+#: ../../single.php:259 ../../languages/site/translations.php:35
+msgid "Home "
+msgstr "Home"
+
+#: ../../page.php:269 ../../single.php:254
+#: ../../languages/site/translations.php:36
+msgid "Prev"
+msgstr "Prev"
+
+#: ../../page.php:291 ../../single.php:337
+#: ../../languages/site/translations.php:37
+msgid "TrackBack URL"
+msgstr "この記事のトラックバックURL"
+
+#: ../../related.php:115 ../../single.php:297
+#: ../../languages/site/translations.php:45
+msgid "Related Posts"
+msgstr "関連記事"
+
+#: ../../related.php:124 ../../languages/site/translations.php:38
+msgid "No related posts yet."
+msgstr "関連記事はありませんでした"
+
+#: ../../search.php:25 ../../languages/site/translations.php:27
+#, php-format
+msgid " : %s"
+msgstr " %s 件"
+
+#: ../../search.php:49 ../../languages/site/translations.php:39
+msgid "No search hits"
+msgstr "検索結果 0 件"
+
+#: ../../sns-front.php:251 ../../sns-front.php:252 ../../sns.php:298
+#: ../../sns.php:299 ../../languages/site/translations.php:46
+msgid "Send to LINE"
+msgstr "ラインで送る"
+
+#: ../../inc/admin-common-func.php:83 ../../inc/post-meta-boxes.php:152
+#: ../../inc/sections/amp.php:100 ../../inc/sections/design-create.php:43
+#: ../../inc/sections/ogp.php:70 ../../inc/sections/seo.php:498
+#: ../../inc/sections/seo.php:540
+msgid "Set image"
+msgstr "画像を設定"
+
+#: ../../inc/admin-common-func.php:125 ../../inc/tinymce-settings.php:59
+#: ../../inc/tinymce-settings.php:78
+msgid "Paragraph"
+msgstr "段落"
+
+#: ../../inc/admin-common-func.php:126 ../../inc/customize.php:73
+#: ../../inc/phrase-post.php:200 ../../inc/phrase-post.php:287
+#: ../../inc/sections/phrase-regist.php:109
+msgid "Fixed phrase"
+msgstr "定型文"
+
+#: ../../inc/admin-common-func.php:127 ../../inc/admin-common-func.php:231
+#: ../../inc/customize.php:72 ../../inc/customize.php:74
+#: ../../inc/customize.php:379 ../../inc/customize.php:380
+#: ../../inc/shortcode-post.php:200 ../../inc/shortcode-post.php:277
+#: ../../inc/sections/shortcode-regist.php:60
+#: ../../inc/sections/shortcode-regist.php:84
+#: ../../inc/sections/shortcode-regist.php:145
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: ../../inc/admin-common-func.php:128 ../../inc/admin-common-func.php:232
+#: ../../inc/blogcard-post-func.php:146 ../../inc/blogcard-post-func.php:217
+#: ../../inc/custom.php:4548
+msgid "Blog Card"
+msgstr "ブログカード"
+
+#: ../../inc/admin-common-func.php:129
+msgid "Show blocks"
+msgstr "ブロックを表示"
+
+#: ../../inc/admin-common-func.php:130 ../../inc/sections/search.php:73
+msgid "Bold"
+msgstr "太字"
+
+#: ../../inc/admin-common-func.php:131
+msgid "Italic"
+msgstr "イタリック"
+
+#: ../../inc/admin-common-func.php:132 ../../inc/phrase-sample.php:20
+#: ../../inc/sections/phrase-sample.php:35
+msgid "Bulleted list"
+msgstr "番号なしリスト"
+
+#: ../../inc/admin-common-func.php:133 ../../inc/phrase-sample.php:21
+#: ../../inc/sections/phrase-sample.php:40
+msgid "Numbered list"
+msgstr "番号付きリスト"
+
+#: ../../inc/admin-common-func.php:134
+msgid "Blockquote"
+msgstr "引用"
+
+#: ../../inc/admin-common-func.php:135
+msgid "Align left"
+msgstr "左寄せ"
+
+#: ../../inc/admin-common-func.php:136 ../../inc/custom.php:1907
+#: ../../inc/custom.php:1920 ../../inc/custom.php:3265
+#: ../../inc/widget.php:906
+msgid "Align center"
+msgstr "中央揃え"
+
+#: ../../inc/admin-common-func.php:137
+msgid "Align right"
+msgstr "右寄せ"
+
+#: ../../inc/admin-common-func.php:138
+msgid "Insert/edit link"
+msgstr "リンクの挿入/編集"
+
+#: ../../inc/admin-common-func.php:139
+msgid "Remove link"
+msgstr "リンクの削除"
+
+#: ../../inc/admin-common-func.php:140
+msgid "Table"
+msgstr "テーブル"
+
+#: ../../inc/admin-common-func.php:141 ../../inc/tinymce-before-init.php:136
+msgid "Emoji"
+msgstr "絵文字"
+
+#: ../../inc/admin-common-func.php:142
+msgid "Read more..."
+msgstr "続きを読む..."
+
+#: ../../inc/admin-common-func.php:143
+msgid "Page break"
+msgstr "改ページ"
+
+#: ../../inc/admin-common-func.php:157 ../../inc/custom.php:2038
+#: ../../inc/sections/securimage.php:48
+msgid "Font size"
+msgstr "文字サイズ"
+
+#: ../../inc/admin-common-func.php:158
+msgid "Font family "
+msgstr "字体"
+
+#: ../../inc/admin-common-func.php:159
+msgid "Strikethrough"
+msgstr "打ち消し"
+
+#: ../../inc/admin-common-func.php:160
+msgid "Underline"
+msgstr "下線"
+
+#: ../../inc/admin-common-func.php:161
+msgid "Horizontal line"
+msgstr "横ライン"
+
+#: ../../inc/admin-common-func.php:162 ../../inc/custom.php:1440
+#: ../../inc/custom.php:2382 ../../inc/custom.php:2393
+#: ../../inc/custom.php:2429 ../../inc/custom.php:2465
+#: ../../inc/custom.php:3296 ../../inc/custom.php:3531
+#: ../../inc/custom.php:3605 ../../inc/custom.php:4139
+#: ../../inc/custom.php:4175 ../../inc/tinymce-settings.php:45
+#: ../../inc/sections/balloon-css.php:35 ../../inc/sections/balloon-css.php:54
+#: ../../inc/sections/securimage.php:64
+msgid "Text color"
+msgstr "文字色"
+
+#: ../../inc/admin-common-func.php:163 ../../inc/custom.php:1452
+#: ../../inc/custom.php:2498 ../../inc/custom.php:2509
+#: ../../inc/custom.php:2534 ../../inc/custom.php:2571
+#: ../../inc/custom.php:2608 ../../inc/custom.php:2645
+#: ../../inc/custom.php:2682 ../../inc/custom.php:3308
+#: ../../inc/custom.php:3320 ../../inc/custom.php:3555
+#: ../../inc/custom.php:3617 ../../inc/custom.php:4151
+#: ../../inc/custom.php:4187 ../../inc/tinymce-settings.php:49
+#: ../../inc/widget.php:1241 ../../inc/sections/balloon-css.php:39
+#: ../../inc/sections/balloon-css.php:58 ../../inc/sections/pwa-theme.php:40
+#: ../../inc/sections/search.php:98 ../../inc/sections/securimage.php:77
+msgid "Background color"
+msgstr "背景色"
+
+#: ../../inc/admin-common-func.php:164
+msgid "Paste as text"
+msgstr "テキストとしてペースト"
+
+#: ../../inc/admin-common-func.php:165
+msgid "Clear formatting"
+msgstr "書式設定をクリア"
+
+#: ../../inc/admin-common-func.php:166
+msgid "Special character"
+msgstr "特殊文字"
+
+#: ../../inc/admin-common-func.php:167
+msgid "Decrease indent"
+msgstr "インデントを減らす"
+
+#: ../../inc/admin-common-func.php:168
+msgid "Increase indent"
+msgstr "インデントを増やす"
+
+#: ../../inc/admin-common-func.php:169 ../../inc/codemirror.php:97
+#: ../../inc/theme-editor-script.php:71
+msgid "Undo"
+msgstr "取り消し"
+
+#: ../../inc/admin-common-func.php:170 ../../inc/codemirror.php:98
+#: ../../inc/theme-editor-script.php:72
+msgid "Redo"
+msgstr "やり直し"
+
+#: ../../inc/admin-common-func.php:171
+msgid "Find and replace"
+msgstr "検索置換"
+
+#: ../../inc/admin-common-func.php:172
+msgid "Keyboard Shortcuts"
+msgstr "キーボードショートカット"
+
+#: ../../inc/admin-common-func.php:182 ../../inc/custom.php:3925
+#: ../../inc/widget.php:1319 ../../inc/widget.php:1356
+#: ../../inc/wpfunc.php:721 ../../languages/site/translations.php:52
+msgid "Table of Contents"
+msgstr "目次"
+
+#: ../../inc/admin-common-func.php:183
+msgid "Copy"
+msgstr "コピー"
+
+#: ../../inc/admin-common-func.php:184
+msgid "Paste"
+msgstr "貼り付け"
+
+#: ../../inc/admin-common-func.php:185
+msgid "Cut"
+msgstr "切り取り"
+
+#: ../../inc/admin-common-func.php:186
+msgid "Nonbreaking space"
+msgstr "改行なしスペース"
+
+#: ../../inc/admin-common-func.php:187
+msgid "Anchor"
+msgstr "アンカー"
+
+#: ../../inc/admin-common-func.php:188
+msgid "Insert date/time"
+msgstr "日時を挿入"
+
+#: ../../inc/admin-common-func.php:189
+msgid "Left to right"
+msgstr "左から右"
+
+#: ../../inc/admin-common-func.php:190
+msgid "Right to left"
+msgstr "右から左"
+
+#: ../../inc/admin-common-func.php:191
+msgid "Source code"
+msgstr "ソースコード"
+
+#: ../../inc/admin-common-func.php:192
+msgid "Justify"
+msgstr "両端揃え"
+
+#: ../../inc/admin-common-func.php:193
+msgid "Show invisible characters"
+msgstr "非表示文字を表示"
+
+#: ../../inc/admin-common-func.php:194
+msgid "Superscript"
+msgstr "上付き"
+
+#: ../../inc/admin-common-func.php:195
+msgid "Subscript"
+msgstr "下付き"
+
+#: ../../inc/admin-common-func.php:196
+msgid "Insert/edit image"
+msgstr "画像の挿入/編集"
+
+#: ../../inc/admin-common-func.php:197
+msgid "Insert/edit video"
+msgstr "動画の挿入/編集"
+
+#: ../../inc/admin-common-func.php:198
+msgid "Print"
+msgstr "印刷"
+
+#: ../../inc/admin-common-func.php:199
+msgid "Fullscreen"
+msgstr "フルスクリーン"
+
+#: ../../inc/admin-common-func.php:230 ../../inc/customize.php:71
+#: ../../inc/customize.php:374 ../../inc/customize.php:375
+msgid "Fixed phrases"
+msgstr "定型文"
+
+#: ../../inc/admin-common-func.php:233
+msgid "close tags"
+msgstr "タグを閉じる"
+
+#: ../../inc/admin-func.php:52
+msgid ""
+"Address (URL) of &quot;Settings -&gt; General&quot; is not set to SSL "
+"(https://). Please check the setting."
+msgstr ""
+"「設定 -&gt; 一般」のアドレス (URL) が SSL (https://) になっていないようで"
+"す。設定をチェックしてください。"
+
+#: ../../inc/admin-func.php:282 ../../inc/admin-func.php:292
+msgid "Customizer"
+msgstr "カスタマイザー"
+
+#: ../../inc/admin-func.php:293 ../../inc/admin-func.php:301
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: ../../inc/admin-func.php:301
+msgid "Appearance"
+msgstr "外観"
+
+#: ../../inc/admin-func.php:308 ../../inc/admin-func.php:309
+msgid "Management features"
+msgstr "管理機能"
+
+#: ../../inc/admin-func.php:316 ../../inc/admin-func.php:317
+msgid "Registration phrases"
+msgstr "定型文登録"
+
+#: ../../inc/admin-func.php:325
+msgid "Design select"
+msgstr "デザイン選択"
+
+#: ../../inc/admin-func.php:332 ../../inc/admin-func.php:333
+#: ../../inc/customize.php:109
+msgid "Speed settings"
+msgstr "高速化一括設定"
+
+#: ../../inc/admin-func.php:340 ../../inc/admin-func.php:341
+#: ../../inc/customize.php:103
+msgid "Counter"
+msgstr "カウンター"
+
+#: ../../inc/admin-func.php:348 ../../inc/admin-func.php:349
+#: ../../inc/customize.php:131
+msgid "Child Theme Editor"
+msgstr "子テーマの編集"
+
+#: ../../inc/admin-func.php:372 ../../inc/admin-func.php:774
+#: ../../inc/admin-func.php:936 ../../inc/customize.php:196
+#: ../../inc/design-editor.php:88 ../../inc/theme-editor.php:134
+msgid "The theme selected is not the child theme, but the parent theme"
+msgstr "現在使用中のテーマは子テーマではありません"
+
+#: ../../inc/admin-func.php:775 ../../inc/admin-func.php:937
+#: ../../inc/customize.php:198 ../../inc/design-editor.php:89
+#: ../../inc/theme-editor.php:135
+msgid "This feature can only be used when the child theme is selected."
+msgstr "この機能は子テーマでのみ使用できます。"
+
+#: ../../inc/admin-func.php:781
+msgid "Filename is not entered."
+msgstr "ファイル名が入力されていません。"
+
+#: ../../inc/admin-func.php:795
+msgid "The filename contains characters that can&apos;t be used."
+msgstr "ファイル名に使用できない文字が含まれています。"
+
+#: ../../inc/admin-func.php:906 ../../inc/create-javascript.php:1315
+#: ../../inc/design-editor.php:98 ../../inc/theme-editor.php:144
+#: ../../languages/site/translations.php:47
+msgid "This theme is broken."
+msgstr "このテーマは壊れています。"
+
+#: ../../inc/admin-func.php:910 ../../inc/optimize.php:747
+#: ../../inc/optimize.php:751 ../../inc/phrase-regist.php:62
+#: ../../inc/restore.php:43 ../../inc/shortcode-regist.php:132
+msgid "Error saving file."
+msgstr "ファイルの保存に失敗しました。"
+
+#: ../../inc/admin-func.php:979
+msgid "Changes are properly reflected"
+msgstr "変更を反映しました"
+
+#: ../../inc/admin-func.php:1005
+#, php-format
+msgid ""
+"Stylesheet for AMP is too long. we saw %s bytes whereas the limit is 50000 "
+"bytes."
+msgstr ""
+"AMP のスタイルが大きすぎます。AMP で許容されているのは 50000 byte ですが、%s "
+"byte あります。"
+
+#: ../../inc/admin-func.php:1018 ../../inc/admin-func.php:1032
+#, php-format
+msgid "The %s logo is too large."
+msgstr "%sロゴが大きすぎます。"
+
+#: ../../inc/admin-func.php:1018
+msgid "Site"
+msgstr "サイト"
+
+#: ../../inc/admin-func.php:1018 ../../inc/admin-func.php:1032
+#: ../../inc/sections/amp.php:81 ../../inc/sections/seo.php:484
+msgid "* the image must be within 600px width, height 60px."
+msgstr "※ ロゴ画像は幅 600px 以内、高さ 60px 以内の必要があります。"
+
+#: ../../inc/admin-func.php:1140
+msgid "Jetpack plugin and Luxeritas theme&apos;s Lazy Load function conflict."
+msgstr ""
+"Jetpack プラグインと Luxeritas テーマの Lazy Load の機能が競合しています。"
+
+#: ../../inc/admin-func.php:1143
+msgid "Jetpack plugin and Luxeritas theme&apos;s OGP conflict."
+msgstr "Jetpack プラグインと Luxeritas テーマの OGP の機能が競合しています。"
+
+#: ../../inc/admin-func.php:1394 ../../inc/design-create.php:32
+msgid ""
+"Failed to create temporary file with PHP. Check the setting of &quot;"
+"upload_tmp_dir&quot; in PHP."
+msgstr ""
+"PHPで一時ファイルを作成できませんでした。 PHPの &quot;upload_tmp_dir&quot; の"
+"設定を確認してください。"
+
+#: ../../inc/admin-func.php:1497 ../../inc/admin-func.php:1510
+#, php-format
+msgid ""
+"Web font CSS Not Found.<br />%s It seems that CSS download of the font "
+"failed. Please reset web font."
+msgstr ""
+"Web フォントの CSS が見つかりませんでした。<br />%s CSS のダウンロードに失敗"
+"したようです。Web フォントを再設定してください。"
+
+#: ../../inc/admin-func.php:1718 ../../inc/phrase-regist.php:69
+#: ../../inc/restore.php:49 ../../inc/shortcode-regist.php:139
+msgid "You do not have permission to create and save files."
+msgstr "ファイルを作成・保存できる権限がありません。"
+
+#: ../../inc/admin-func.php:1719 ../../inc/phrase-regist.php:70
+#: ../../inc/restore.php:50 ../../inc/shortcode-regist.php:140
+msgid ""
+"Please check the owner and permissions of the following file or directory."
+msgstr ""
+"以下のファイルもしくはディレクトリの所有者およびパーミッションを確認してくだ"
+"さい。"
+
+#: ../../inc/admin-func.php:1737
+msgid "Maximum stack depth exceeded."
+msgstr "スタックの深さの最大値を超えました。"
+
+#: ../../inc/admin-func.php:1740
+msgid "Underflow or the modes mismatch."
+msgstr "JSON の形式が無効、あるいは壊れています。"
+
+#: ../../inc/admin-func.php:1743
+msgid "Unexpected control character found."
+msgstr "制御文字エラー。おそらくエンコーディングが違います。"
+
+#: ../../inc/admin-func.php:1746
+msgid "Syntax error, malformed JSON."
+msgstr "構文エラー。"
+
+#: ../../inc/admin-func.php:1749
+msgid "Malformed UTF-8 characters, possibly incorrectly encoded."
+msgstr ""
+"正しくエンコードされていないなど、不正な形式の UTF-8 文字が含まれています。"
+
+#: ../../inc/admin-func.php:1755
+msgid "One or more recursive references in the value to be encoded."
+msgstr "エンコード対象の値に再帰参照が含まれています。"
+
+#: ../../inc/admin-func.php:1758
+msgid "One or more NAN or INF values in the value to be encoded."
+msgstr "エンコード対象の値に NAN あるいは INF が含まれています。"
+
+#: ../../inc/admin-func.php:1761
+msgid "A value of a type that cannot be encoded was given."
+msgstr "エンコード不可能な型の値が渡されました。"
+
+#: ../../inc/amp-func.php:470 ../../languages/site/translations.php:48
+msgid "Adsense has a mistake. Some adsense is not displayed properly."
+msgstr ""
+"アドセンスに記述ミスがあります。一部のアドセンスは正しく表示されません。"
+
+#: ../../inc/back-compat.php:23 ../../inc/back-compat.php:24
+#: ../../languages/site/translations.php:51
+#, php-format
+msgid ""
+"Luxeritas requires at least %s version %s. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+"Luxeritas には %s %s 以降のバージョンが必要です。現在ご利用中のバージョンは "
+"%s です。アップグレードしてもう一度お試しください。"
+
+#: ../../inc/blogcard-func.php:135 ../../languages/site/translations.php:49
+msgid "Creating a cache ..."
+msgstr "キャッシュを作成しています ..."
+
+#: ../../inc/blogcard-func.php:212 ../../inc/filters.php:780
+#: ../../languages/site/translations.php:54
+#, php-format
+msgid "%s Category"
+msgstr "%sカテゴリー記事一覧"
+
+#: ../../inc/blogcard-func.php:932 ../../inc/sns-cache.php:46
+msgid "Could not create cache directory."
+msgstr "キャッシュディレクトリの作成に失敗しました。"
+
+#: ../../inc/blogcard-post-func.php:37
+msgid "Insert Blog Card"
+msgstr "ブログカードの挿入"
+
+#: ../../inc/blogcard-post-func.php:45 ../../inc/blogcard-post-func.php:94
+msgid "Link Text"
+msgstr "リンク文字列"
+
+#: ../../inc/blogcard-post-func.php:50 ../../inc/blogcard-post-func.php:99
+msgid "Open link in a new tab"
+msgstr "リンクを新しいタブで開く"
+
+#: ../../inc/blogcard-post-func.php:102
+msgid "Insert"
+msgstr "挿入"
+
+#: ../../inc/blogcard-post-func.php:186
+msgid "Add Link"
+msgstr "リンク追加"
+
+#: ../../inc/blogcard-post-func.php:204 ../../inc/tinymce-settings.php:149
+#: ../../inc/sections/phrase-regist.php:164
+#: ../../inc/sections/shortcode-regist.php:231
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../../inc/codemirror.php:20 ../../inc/tinymce-settings.php:121
+#: ../../inc/sections/editor-t-settings.php:135
+#: ../../inc/sections/editor-v-settings.php:237
+#: ../../inc/sections/phrase-regist.php:153
+#: ../../inc/sections/shortcode-regist.php:212
+msgid "Save"
+msgstr "保存"
+
+#: ../../inc/codemirror.php:24 ../../inc/codemirror.php:37
+#: ../../inc/customize.php:98 ../../inc/sections/pagination.php:20
+msgid "Settings"
+msgstr "設定"
+
+#: ../../inc/codemirror.php:25
+msgid "Commands"
+msgstr "コマンド"
+
+#: ../../inc/codemirror.php:31
+msgid "File editing"
+msgstr "編集中のファイル"
+
+#: ../../inc/codemirror.php:46
+msgid "Show line numbers"
+msgstr "行番号表示"
+
+#: ../../inc/codemirror.php:50
+msgid "Autocomplete"
+msgstr "自動補完"
+
+#: ../../inc/codemirror.php:53
+msgid "Auto indent"
+msgstr "自動インデント"
+
+#: ../../inc/codemirror.php:57
+msgid "Auto close brackets"
+msgstr "自動で括弧を閉じる"
+
+#: ../../inc/codemirror.php:61
+msgid "CSS / Javascript grammar check"
+msgstr "CSS / Javascript の文法チェック"
+
+#: ../../inc/codemirror.php:65
+msgid "Change background color of active line"
+msgstr "アクティブ行に背景色をつける"
+
+#: ../../inc/codemirror.php:69
+msgid "Wrap at the right end"
+msgstr "右端で折り返す"
+
+#: ../../inc/codemirror.php:71
+msgid "Indentation character"
+msgstr "インデント文字"
+
+#: ../../inc/codemirror.php:74
+msgid "Tabs"
+msgstr "タブ"
+
+#: ../../inc/codemirror.php:76
+msgid "Spaces"
+msgstr "スペース"
+
+#: ../../inc/codemirror.php:80
+msgid "Indent and tab character width"
+msgstr "インデントとタブ文字の幅"
+
+#: ../../inc/codemirror.php:81
+msgid "Save settings"
+msgstr "設定を保存"
+
+#: ../../inc/codemirror.php:91
+msgid "Commands list"
+msgstr "コマンド一覧"
+
+#: ../../inc/codemirror.php:100 ../../inc/theme-editor-script.php:67
+msgid "Replace"
+msgstr "置換"
+
+#: ../../inc/codemirror.php:101
+msgid "Toggle comment line"
+msgstr "コメント行切り替え"
+
+#: ../../inc/custom.php:26
+msgid "Site Identity / Site Icon"
+msgstr "サイト情報 / サイトアイコン"
+
+#: ../../inc/custom.php:34
+msgid "The Entire Layout"
+msgstr "全体レイアウト"
+
+#: ../../inc/custom.php:45
+msgid "The maximum width of the container"
+msgstr "コンテナの最大幅"
+
+#: ../../inc/custom.php:46 ../../inc/custom.php:4587
+msgid "* 0 would be full width"
+msgstr "※ 0 で画面幅いっぱい"
+
+#: ../../inc/custom.php:46 ../../inc/custom.php:3686 ../../inc/custom.php:3713
+#: ../../inc/custom.php:3740 ../../inc/custom.php:3767
+#: ../../inc/custom.php:3794 ../../inc/custom.php:3821
+#: ../../inc/custom.php:3848 ../../inc/custom.php:3862
+#: ../../inc/custom.php:3889 ../../inc/sections/jquery.php:41
+#: ../../inc/sections/pagination.php:20
+#: ../../inc/sections/speedup-items.php:74
+msgid "* "
+msgstr "※ "
+
+#: ../../inc/custom.php:46 ../../inc/custom.php:3025 ../../inc/custom.php:3039
+#: ../../inc/sections/pagination.php:20 ../../inc/sections/pagination.php:30
+#: ../../inc/sections/pagination.php:47 ../../inc/sections/pagination.php:64
+#: ../../inc/sections/pagination.php:81
+msgid "default value"
+msgstr "デフォルト"
+
+#: ../../inc/custom.php:59
+msgid "The entire image"
+msgstr "全体イメージ"
+
+#: ../../inc/custom.php:63 ../../inc/custom.php:4789 ../../inc/custom.php:4791
+#: ../../inc/custom.php:4864 ../../inc/custom.php:4866
+msgid "White"
+msgstr "ホワイト"
+
+#: ../../inc/custom.php:64
+msgid "Black"
+msgstr "ブラック"
+
+#: ../../inc/custom.php:76
+msgid "Display layout of the article list"
+msgstr "記事一覧の表示方法"
+
+#: ../../inc/custom.php:80
+msgid "Excerpt + Thumbnail display"
+msgstr "抜粋＋サムネイル表示"
+
+#: ../../inc/custom.php:81
+msgid "Full article display (Until more tag)"
+msgstr "記事全文表示(more タグまで)"
+
+#: ../../inc/custom.php:93
+msgid "Sticky post to show all content"
+msgstr "先頭固定の投稿は全文表示にする"
+
+#: ../../inc/custom.php:94
+msgid ""
+"* Use this feature when you want to show Latest Updates or News as your "
+"first post."
+msgstr "※ 新着情報やNEWSなどの記事を先頭固定にする場合にご使用ください。"
+
+#: ../../inc/custom.php:107
+msgid "Display Pager"
+msgstr "ページャー表示"
+
+#: ../../inc/custom.php:116 ../../inc/custom.php:1249
+#: ../../inc/custom.php:3998 ../../inc/customize.php:95
+#: ../../inc/widget.php:641 ../../inc/widget.php:970
+#: ../../inc/sections/widget-area.php:29 ../../inc/sections/widget-area.php:51
+#: ../../inc/sections/widget-body.php:37 ../../inc/sections/widget-body.php:59
+msgid "Post page"
+msgstr "投稿ページ"
+
+#: ../../inc/custom.php:129
+msgid "Display Related Articles"
+msgstr "関連記事表示"
+
+#: ../../inc/custom.php:142 ../../inc/custom.php:156
+msgid "Display Next / Prev Navigation"
+msgstr "Next / Prev ナビゲーション表示"
+
+#: ../../inc/custom.php:143 ../../inc/custom.php:715 ../../inc/custom.php:1274
+#: ../../inc/custom.php:4011 ../../inc/customize.php:96
+#: ../../inc/widget.php:640 ../../inc/widget.php:971
+#: ../../inc/sections/widget-area.php:30 ../../inc/sections/widget-area.php:52
+#: ../../inc/sections/widget-body.php:38 ../../inc/sections/widget-body.php:60
+msgid "Static page"
+msgstr "固定ページ"
+
+#: ../../inc/custom.php:169
+msgid "Display post title of static front page"
+msgstr "固定フロントページの記事タイトル表示"
+
+#: ../../inc/custom.php:179 ../../inc/custom.php:1867
+#: ../../inc/custom.php:1933
+msgid "Grid layout"
+msgstr "グリッドレイアウト"
+
+#: ../../inc/custom.php:190 ../../inc/sections/pagination.php:23
+msgid "Top page of list type"
+msgstr "リスト型トップページ"
+
+#: ../../inc/custom.php:194 ../../inc/custom.php:244 ../../inc/custom.php:307
+#: ../../inc/custom.php:397 ../../inc/custom.php:525 ../../inc/custom.php:1791
+#: ../../inc/custom.php:1853
+msgid "Normal style"
+msgstr "通常スタイル"
+
+#: ../../inc/custom.php:195 ../../inc/custom.php:196 ../../inc/custom.php:197
+#: ../../inc/custom.php:198 ../../inc/custom.php:245 ../../inc/custom.php:246
+#: ../../inc/custom.php:247 ../../inc/custom.php:248 ../../inc/custom.php:308
+#: ../../inc/custom.php:309 ../../inc/custom.php:310 ../../inc/custom.php:311
+#: ../../inc/custom.php:435 ../../inc/custom.php:565 ../../inc/custom.php:1867
+msgid "Tile type"
+msgstr "タイル型"
+
+#: ../../inc/custom.php:195 ../../inc/custom.php:196 ../../inc/custom.php:197
+#: ../../inc/custom.php:198 ../../inc/custom.php:199 ../../inc/custom.php:200
+#: ../../inc/custom.php:201 ../../inc/custom.php:202 ../../inc/custom.php:245
+#: ../../inc/custom.php:246 ../../inc/custom.php:247 ../../inc/custom.php:248
+#: ../../inc/custom.php:249 ../../inc/custom.php:250 ../../inc/custom.php:251
+#: ../../inc/custom.php:252 ../../inc/custom.php:308 ../../inc/custom.php:309
+#: ../../inc/custom.php:310 ../../inc/custom.php:311 ../../inc/custom.php:312
+#: ../../inc/custom.php:313 ../../inc/custom.php:314 ../../inc/custom.php:315
+#, php-format
+msgid "Up to %s cols"
+msgstr "最大 %s 列"
+
+#: ../../inc/custom.php:199 ../../inc/custom.php:200 ../../inc/custom.php:201
+#: ../../inc/custom.php:202 ../../inc/custom.php:249 ../../inc/custom.php:250
+#: ../../inc/custom.php:251 ../../inc/custom.php:252 ../../inc/custom.php:312
+#: ../../inc/custom.php:313 ../../inc/custom.php:314 ../../inc/custom.php:315
+#: ../../inc/custom.php:473 ../../inc/custom.php:605 ../../inc/custom.php:1933
+msgid "Card type"
+msgstr "カード型"
+
+#: ../../inc/custom.php:214 ../../inc/custom.php:264 ../../inc/custom.php:327
+msgid "First X post is normal style"
+msgstr "最初の X 件は通常スタイル"
+
+#: ../../inc/custom.php:227 ../../inc/custom.php:277 ../../inc/custom.php:340
+msgid "Position of &quot;Middle of Posts List Widget&quot; (Automatic if 0)"
+msgstr "記事一覧中央ウィジェットの配置 (0 で自動計算)"
+
+#: ../../inc/custom.php:240 ../../inc/custom.php:734 ../../inc/widget.php:639
+#: ../../inc/widget.php:968 ../../inc/sections/pagination.php:40
+#: ../../inc/sections/widget-area.php:31 ../../inc/sections/widget-area.php:53
+#: ../../inc/sections/widget-body.php:39 ../../inc/sections/widget-body.php:61
+#: ../../languages/site/translations.php:50 ../../pages/sitemap.php:48
+msgid "Category"
+msgstr "カテゴリー"
+
+#: ../../inc/custom.php:290
+msgid "Insert description at beginning of category list (HTML enabled)"
+msgstr "カテゴリ一覧の最初に説明文を挿入する (HTML 記述可)"
+
+#: ../../inc/custom.php:303 ../../inc/custom.php:734 ../../inc/widget.php:638
+#: ../../inc/widget.php:969 ../../inc/sections/pagination.php:57
+#: ../../inc/sections/widget-area.php:32 ../../inc/sections/widget-area.php:54
+#: ../../inc/sections/widget-body.php:40 ../../inc/sections/widget-body.php:62
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: ../../inc/custom.php:353
+msgid "Middle of Posts List Widget to be full width"
+msgstr "記事一覧中央ウィジェットは横幅いっぱい"
+
+#: ../../inc/custom.php:366
+msgid "Tile type order"
+msgstr "タイル型の並び順"
+
+#: ../../inc/custom.php:370 ../../inc/custom.php:371 ../../inc/custom.php:372
+#: ../../inc/custom.php:373
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: ../../inc/custom.php:370 ../../inc/custom.php:371 ../../inc/custom.php:372
+#: ../../inc/custom.php:373 ../../inc/custom.php:4083
+#: ../../inc/customize.php:36
+msgid "Title"
+msgstr "タイトル"
+
+#: ../../inc/custom.php:370 ../../inc/custom.php:371 ../../inc/custom.php:372
+#: ../../inc/custom.php:373
+msgid "Meta"
+msgstr "メタ情報"
+
+#: ../../inc/custom.php:382 ../../inc/custom.php:1733
+#: ../../inc/widget.php:1216
+msgid "Thumbnail (Featured Image)"
+msgstr "サムネイル (アイキャッチ)"
+
+#: ../../inc/custom.php:383
+msgid "* Thumbnails can be set with &quot;thumbnail&quot; item."
+msgstr "※ サムネイルは「サムネイル」の項目で設定できます。"
+
+#: ../../inc/custom.php:396
+msgid "Number of characters and color density in excerpt on post list"
+msgstr "記事一覧の抜粋の文字数と色濃度"
+
+#: ../../inc/custom.php:410 ../../inc/custom.php:448 ../../inc/custom.php:486
+msgid "No line break in excerpt"
+msgstr "抜粋を改行しない"
+
+#: ../../inc/custom.php:511
+msgid "Excerpt on each post will be prioritized and displayed"
+msgstr "投稿・編集画面の抜粋を優先表示"
+
+#: ../../inc/custom.php:512
+msgid ""
+"* Description will always prioritize and display the excerpts from the blog "
+"post."
+msgstr "※ description は常に投稿・編集画面の抜粋が優先されます。"
+
+#: ../../inc/custom.php:520 ../../inc/custom.php:525 ../../inc/custom.php:560
+#: ../../inc/custom.php:565 ../../inc/custom.php:600 ../../inc/custom.php:605
+#: ../../inc/defaults.php:65 ../../languages/site/translations.php:28
+msgid "Read more"
+msgstr "記事を読む"
+
+#: ../../inc/custom.php:526 ../../inc/custom.php:566 ../../inc/custom.php:606
+msgid "* Can hide the link if kept blank."
+msgstr "※ 空白にするとリンクを非表示にできます。"
+
+#: ../../inc/custom.php:539 ../../inc/custom.php:579 ../../inc/custom.php:619
+msgid "Put a short title to the link of &quot;Read more&quot;"
+msgstr "&quot;記事を読む&quot; に短いタイトル付ける"
+
+#: ../../inc/custom.php:552 ../../inc/custom.php:592 ../../inc/custom.php:632
+msgid "Number of characters in the short title"
+msgstr "短いタイトルの文字数"
+
+#: ../../inc/custom.php:642
+msgid "Column adjustment"
+msgstr "カラム操作"
+
+#: ../../inc/custom.php:653
+msgid "Number of column"
+msgstr "カラム数"
+
+#: ../../inc/custom.php:654 ../../inc/custom.php:2050
+#: ../../inc/custom.php:2064 ../../inc/custom.php:2078
+#: ../../inc/custom.php:2092 ../../inc/custom.php:2106
+#: ../../inc/custom.php:2120 ../../inc/custom.php:2134
+#: ../../inc/custom.php:2148 ../../inc/custom.php:2162
+#: ../../inc/custom.php:2176 ../../inc/custom.php:2190
+#: ../../inc/custom.php:2204 ../../inc/custom.php:2218
+#: ../../inc/custom.php:2232 ../../inc/custom.php:2246
+#: ../../inc/custom.php:2260 ../../inc/custom.php:2274
+#: ../../inc/custom.php:2288 ../../inc/custom.php:2302
+#: ../../inc/custom.php:2316 ../../inc/custom.php:2330
+#: ../../inc/custom.php:2344 ../../inc/custom.php:2358
+#: ../../inc/custom.php:2372
+msgid "default"
+msgstr "デフォルト"
+
+#: ../../inc/custom.php:658 ../../inc/custom.php:659 ../../inc/custom.php:660
+#: ../../inc/custom.php:678 ../../inc/custom.php:679 ../../inc/custom.php:680
+#: ../../inc/custom.php:697 ../../inc/custom.php:698 ../../inc/custom.php:699
+#: ../../inc/custom.php:716 ../../inc/custom.php:717 ../../inc/custom.php:718
+#: ../../inc/custom.php:735 ../../inc/custom.php:736 ../../inc/custom.php:737
+msgid "column"
+msgstr "カラム"
+
+#: ../../inc/custom.php:673
+msgid "Number of columns in each template"
+msgstr "テンプレート毎のカラム数"
+
+#: ../../inc/custom.php:677
+msgid "Front page"
+msgstr "フロントページ"
+
+#: ../../inc/custom.php:696
+msgid "Posts page"
+msgstr "投稿ページ"
+
+#: ../../inc/custom.php:749 ../../inc/custom.php:1198
+msgid "Position of the side bar"
+msgstr "サイドバーの位置"
+
+#: ../../inc/custom.php:750
+msgid "2 column"
+msgstr "2カラム"
+
+#: ../../inc/custom.php:754 ../../inc/custom.php:772
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: ../../inc/custom.php:755 ../../inc/custom.php:773
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: ../../inc/custom.php:767
+msgid "3 column"
+msgstr "3カラム"
+
+#: ../../inc/custom.php:771
+msgid "Both sides sidebar"
+msgstr "両脇サイドバー"
+
+#: ../../inc/custom.php:785
+msgid "3 column left and right side bar reversal"
+msgstr "3カラム左右サイドバー反転"
+
+#: ../../inc/custom.php:798
+msgid "Merge and separate areas"
+msgstr "領域の分離と結合"
+
+#: ../../inc/custom.php:799 ../../inc/custom.php:1069
+msgid "Content area"
+msgstr "コンテンツ領域"
+
+#: ../../inc/custom.php:803
+msgid "Separate content area for each element"
+msgstr "コンテンツ領域を項目ごとに分離"
+
+#: ../../inc/custom.php:804
+msgid "Merge the elements in content area"
+msgstr "コンテンツ領域の項目を結合"
+
+#: ../../inc/custom.php:816 ../../inc/custom.php:2315
+#: ../../inc/custom.php:2329 ../../inc/custom.php:2343
+#: ../../inc/custom.php:2571 ../../inc/custom.php:2583
+#: ../../inc/custom.php:2595 ../../inc/custom.php:2848
+msgid "Sidebar "
+msgstr "サイドバー"
+
+#: ../../inc/custom.php:820
+msgid "Separate the side bar for each element"
+msgstr "サイドバーを項目ごとに分離"
+
+#: ../../inc/custom.php:821
+msgid "Merge the elements in side bar"
+msgstr "サイドバーの項目を結合"
+
+#: ../../inc/custom.php:833
+msgid "Merge and separate content area and side bar"
+msgstr "コンテンツとサイドバーの分離・結合"
+
+#: ../../inc/custom.php:837
+msgid "Separate content area and side bar"
+msgstr "コンテンツ領域とサイドバーを分離"
+
+#: ../../inc/custom.php:838
+msgid "Merge content area and side bar"
+msgstr "コンテンツ領域とサイドバーを結合"
+
+#: ../../inc/custom.php:846
+msgid ""
+"* When they are merged, some configuration of content area will overwrite "
+"the side bar configuration."
+msgstr ""
+"※ コンテンツ領域とサイドバーを結合した場合、一部の設定（枠線に関する設定な"
+"ど）は、コンテンツ領域の設定が優先されます。"
+
+#: ../../inc/custom.php:856 ../../inc/custom.php:886 ../../inc/custom.php:900
+#: ../../inc/custom.php:913 ../../inc/custom.php:926 ../../inc/custom.php:939
+#: ../../inc/custom.php:2429 ../../inc/custom.php:2441
+#: ../../inc/custom.php:2453 ../../inc/custom.php:2608
+#: ../../inc/custom.php:2620 ../../inc/custom.php:2632
+#: ../../inc/custom.php:2860
+msgid "Header "
+msgstr "ヘッダー"
+
+#: ../../inc/custom.php:856 ../../inc/custom.php:2357
+#: ../../inc/custom.php:2371 ../../inc/customize.php:122
+#: ../../inc/theme-editor.php:48
+msgid "Footer"
+msgstr "フッター"
+
+#: ../../inc/custom.php:867
+msgid "Title layout"
+msgstr "タイトルの配置"
+
+#: ../../inc/custom.php:871 ../../inc/custom.php:939 ../../inc/custom.php:1161
+#: ../../inc/custom.php:4805 ../../inc/custom.php:4880
+msgid "left"
+msgstr "左"
+
+#: ../../inc/custom.php:872 ../../inc/custom.php:4806
+#: ../../inc/custom.php:4881
+msgid "center"
+msgstr "中央"
+
+#: ../../inc/custom.php:873 ../../inc/custom.php:913 ../../inc/custom.php:1135
+#: ../../inc/custom.php:4807 ../../inc/custom.php:4882
+msgid "right"
+msgstr "右"
+
+#: ../../inc/custom.php:885
+msgid "Header margin"
+msgstr "ヘッダーのマージン"
+
+#: ../../inc/custom.php:886 ../../inc/custom.php:900 ../../inc/custom.php:1122
+msgid "top"
+msgstr "上"
+
+#: ../../inc/custom.php:899
+msgid "Header padding"
+msgstr "ヘッダーのパディング"
+
+#: ../../inc/custom.php:926 ../../inc/custom.php:1148
+msgid "bottom"
+msgstr "下"
+
+#: ../../inc/custom.php:952
+msgid "Position of the header"
+msgstr "ヘッダーの位置"
+
+#: ../../inc/custom.php:956 ../../inc/custom.php:1000
+msgid "Inside the Container"
+msgstr "コンテナの内側"
+
+#: ../../inc/custom.php:957 ../../inc/custom.php:1001
+msgid "Outside the Container"
+msgstr "コンテナの外側"
+
+#: ../../inc/custom.php:969
+msgid "Surround the header with border"
+msgstr "ヘッダーを枠線で囲む"
+
+#: ../../inc/custom.php:982
+msgid "Full width for the header border"
+msgstr "ヘッダーの枠線を横幅いっぱい"
+
+#: ../../inc/custom.php:983
+msgid "(Valid only when outside the container)"
+msgstr "(コンテナの外側の時のみ有効)"
+
+#: ../../inc/custom.php:996
+msgid "Position of footer"
+msgstr "フッターの位置"
+
+#: ../../inc/custom.php:1013
+msgid "Surround the footer with border"
+msgstr "フッターを枠線で囲む"
+
+#: ../../inc/custom.php:1026
+msgid "Put a line above the copyright area"
+msgstr "コピーライト表示部の上に線を入れる"
+
+#: ../../inc/custom.php:1039 ../../inc/custom.php:1212
+msgid "Hide in mobile or smartphone"
+msgstr "モバイル・スマホで非表示にする"
+
+#: ../../inc/custom.php:1052
+msgid "Footer widget area display"
+msgstr "フッターウィジェットエリア表示数"
+
+#: ../../inc/custom.php:1056
+msgid "3 rows (left, center, and right)"
+msgstr "横3列（左・中央・右）"
+
+#: ../../inc/custom.php:1057
+msgid "2 rows (left and right)"
+msgstr "横2列（左・右）"
+
+#: ../../inc/custom.php:1058
+msgid "Horizontal row (center)"
+msgstr "横1列（中央）"
+
+#: ../../inc/custom.php:1059 ../../inc/sections/shortcode-regist.php:86
+#: ../../inc/sections/shortcode-regist.php:113
+#: ../../inc/sections/shortcode-regist.php:173
+msgid "Hide"
+msgstr "非表示"
+
+#: ../../inc/custom.php:1068
+msgid "Content area and side bar"
+msgstr "コンテンツ領域とサイドバー"
+
+#: ../../inc/custom.php:1080
+msgid "Put border around the content area"
+msgstr "コンテンツ領域に枠線をつける"
+
+#: ../../inc/custom.php:1093
+msgid "Apply frame border around pagination area"
+msgstr "ページャー表示領域に枠線をつける"
+
+#: ../../inc/custom.php:1094
+msgid "* Only when content area is separated"
+msgstr "※ コンテンツ領域分離時のみ"
+
+#: ../../inc/custom.php:1107 ../../inc/custom.php:1238
+#: ../../inc/custom.php:1427 ../../inc/custom.php:3089
+#: ../../inc/sections/search.php:117
+msgid "Border radius"
+msgstr "角の丸み"
+
+#: ../../inc/custom.php:1120
+msgid "Content area padding"
+msgstr "コンテンツ領域のパディング"
+
+#: ../../inc/custom.php:1122
+msgid "* The actual width will vary depending on the screen width."
+msgstr "※ 実際の幅は画面幅によって変動します"
+
+#: ../../inc/custom.php:1122 ../../inc/custom.php:1135
+#: ../../inc/custom.php:1148 ../../inc/custom.php:1161
+msgid "Content "
+msgstr "コンテンツ"
+
+#: ../../inc/custom.php:1174
+msgid "Sidebar Widget width"
+msgstr "サイドバーウィジェットの幅"
+
+#: ../../inc/custom.php:1175
+msgid "Second column"
+msgstr "2カラム目"
+
+#: ../../inc/custom.php:1188
+msgid "Third column"
+msgstr "3カラム目"
+
+#: ../../inc/custom.php:1199
+msgid "* You can change the side bar position in the Column adjustment menu."
+msgstr "※ サイドバーの位置は「カラム操作」の項目で変更できます。"
+
+#: ../../inc/custom.php:1225
+msgid "Surround the sidebar with border"
+msgstr "サイドバーを枠線で囲む"
+
+#: ../../inc/custom.php:1260 ../../inc/custom.php:1287
+msgid "Display Comment"
+msgstr "コメント欄表示"
+
+#: ../../inc/custom.php:1273 ../../inc/custom.php:1300
+msgid "Display Trackback URL"
+msgstr "トラックバック URL 表示"
+
+#: ../../inc/custom.php:1313
+msgid "Display layout of the comment list"
+msgstr "コメント一覧の表示方法"
+
+#: ../../inc/custom.php:1317
+msgid "Display comments and pings separated"
+msgstr "コメントとピン(トラック)バックを分けて表示"
+
+#: ../../inc/custom.php:1318
+msgid "Display comments and pings together"
+msgstr "コメントとピン(トラック)バックを一緒に表示"
+
+#: ../../inc/custom.php:1319
+msgid "Do not display pingbacks and trackbacks"
+msgstr "ピンバック・トラックバックを表示しない"
+
+#: ../../inc/custom.php:1331
+msgid "Add reply button to pinback"
+msgstr "ピン(トラック)バックに返信ボタンを付ける"
+
+#: ../../inc/custom.php:1341
+msgid "Style Details"
+msgstr "細部の見た目"
+
+#: ../../inc/custom.php:1352
+msgid "Tagline change on header"
+msgstr "ヘッダーのキャッチフレーズ変更"
+
+#: ../../inc/custom.php:1353
+msgid ""
+"* To overwrite the tagline on the header to something other than what is set "
+"on the Wordpress General Settings."
+msgstr ""
+"※ ヘッダーのタイトル下のキャッチフレーズだけを Wordpress で設定されている"
+"キャッチフレーズとは別の文言に変更します。"
+
+#: ../../inc/custom.php:1366
+msgid "Tagline display on header"
+msgstr "ヘッダーのキャッチフレーズ表示"
+
+#: ../../inc/custom.php:1374 ../../inc/defaults.php:66
+#: ../../inc/sections/widget-area.php:28 ../../inc/sections/widget-area.php:50
+#: ../../inc/sections/widget-body.php:36 ../../inc/sections/widget-body.php:58
+#: ../../languages/site/translations.php:5
+msgid "Home"
+msgstr "ホーム"
+
+#: ../../inc/custom.php:1379
+msgid "Text for &quot;Home&quot;"
+msgstr "&quot;ホーム&quot; のテキスト"
+
+#: ../../inc/custom.php:1392
+msgid "Text for &quot;PAGE TOP&quot; scroll button"
+msgstr "PAGE TOP ボタンのテキスト"
+
+#: ../../inc/custom.php:1393
+msgid "* Only icon will be displayed if kept blank."
+msgstr "※ 空白にするとアイコンのみの表示になります。"
+
+#: ../../inc/custom.php:1406
+msgid "Type of &quot;PAGE TOP&quot; button icon"
+msgstr "PAGE TOP ボタンのアイコン"
+
+#: ../../inc/custom.php:1461
+msgid "Display position of meta information"
+msgstr "メタ情報の表示位置"
+
+#: ../../inc/custom.php:1462
+msgid "Post and Static page"
+msgstr "投稿・固定ページ"
+
+#: ../../inc/custom.php:1462
+msgid ""
+"* If you hide the publish date or the update date, a structured data error "
+"will result."
+msgstr ""
+"※ 投稿日時もしくは更新日時を非表示にすると構造化データエラーになります。"
+
+#: ../../inc/custom.php:1462 ../../inc/custom.php:1592
+msgid "What meta information to dsiplay under the article title"
+msgstr "記事タイトル下のメタ情報"
+
+#: ../../inc/custom.php:1473 ../../inc/custom.php:1539
+#: ../../inc/custom.php:1605 ../../inc/custom.php:1671
+msgid "Published date and time"
+msgstr "投稿日時表示"
+
+#: ../../inc/custom.php:1486 ../../inc/custom.php:1552
+#: ../../inc/custom.php:1618 ../../inc/custom.php:1684
+msgid "Updated date and time"
+msgstr "更新日時表示"
+
+#: ../../inc/custom.php:1499 ../../inc/custom.php:1565
+#: ../../inc/custom.php:1631 ../../inc/custom.php:1697
+msgid "Category name"
+msgstr "カテゴリー名表示"
+
+#: ../../inc/custom.php:1512 ../../inc/custom.php:1578
+#: ../../inc/custom.php:1644 ../../inc/custom.php:1710
+msgid "Tag"
+msgstr "タグ表示"
+
+#: ../../inc/custom.php:1525 ../../inc/custom.php:1591
+#: ../../inc/custom.php:1657 ../../inc/custom.php:1723
+msgid "Taxonomy"
+msgstr "タクソノミー表示"
+
+#: ../../inc/custom.php:1526
+msgid "What meta information to dsiplay under article"
+msgstr "記事下のメタ情報"
+
+#: ../../inc/custom.php:1592
+msgid "List type page"
+msgstr "一覧タイプのページ"
+
+#: ../../inc/custom.php:1658
+msgid "Meta information displayed above excerpt"
+msgstr "抜粋上のメタ情報"
+
+#: ../../inc/custom.php:1734
+msgid "Thumbnail dispay on/off"
+msgstr "サムネイルの表示/非表示切り替え"
+
+#: ../../inc/custom.php:1745
+msgid "Display thumbnail"
+msgstr "サムネイル表示"
+
+#: ../../inc/custom.php:1758
+msgid "Thumbnail display when No Image"
+msgstr "No Image のサムネイル表示"
+
+#: ../../inc/custom.php:1771
+msgid "Add border"
+msgstr "枠線を付ける"
+
+#: ../../inc/custom.php:1784
+msgid "Where to place the text (excerpt) around the image"
+msgstr "画像に対するテキスト(抜粋)の配置"
+
+#: ../../inc/custom.php:1785
+msgid "* It will always wrap around the image in small devices."
+msgstr "※ 小デバイスでの閲覧時は常に回り込み許可になります。"
+
+#: ../../inc/custom.php:1789
+msgid "Text right to image (do not allow the text wrap below the image)"
+msgstr "画像の右 (画像下への回り込み非許可)"
+
+#: ../../inc/custom.php:1790
+msgid "Text right to image (allow the text wrap below the image)"
+msgstr "画像の右 (画像下への回り込み許可)"
+
+#: ../../inc/custom.php:1791
+msgid "Text below the image"
+msgstr "画像の下"
+
+#: ../../inc/custom.php:1852
+msgid "Thumbnail display size"
+msgstr "サムネイルの表示サイズ"
+
+#: ../../inc/custom.php:1853
+msgid ""
+"* To use thumbnails of your own size, please set user thumbnails on "
+"thumbnail management."
+msgstr ""
+"※ 独自のサイズのサムネイルを使用する場合はサムネイル管理画面でユーザーサムネ"
+"イルを設定してください。"
+
+#: ../../inc/custom.php:1881 ../../inc/custom.php:1894
+#: ../../inc/custom.php:2873
+msgid "Full width"
+msgstr "横幅いっぱい"
+
+#: ../../inc/custom.php:1894 ../../inc/custom.php:1920
+msgid "smartphone"
+msgstr "スマホ"
+
+#: ../../inc/custom.php:1956
+msgid "Font family"
+msgstr "字体 ( フォントファミリー )"
+
+#: ../../inc/custom.php:1967
+msgid "Prioritize Latin fonts"
+msgstr "ローマ字フォントを優先する"
+
+#: ../../inc/custom.php:1980
+msgid "Latin fonts"
+msgstr "ローマ字フォント"
+
+#: ../../inc/custom.php:1984 ../../inc/custom.php:2012
+#: ../../inc/widget.php:646
+msgid "Not specified"
+msgstr "指定しない"
+
+#: ../../inc/custom.php:1985 ../../inc/custom.php:1986
+#: ../../inc/custom.php:1987 ../../inc/custom.php:1988
+#: ../../inc/custom.php:1989 ../../inc/custom.php:1990
+#: ../../inc/custom.php:1991 ../../inc/custom.php:1992
+#: ../../inc/custom.php:1993 ../../inc/custom.php:2013
+#: ../../inc/custom.php:2014 ../../inc/custom.php:2015
+#: ../../inc/custom.php:2016 ../../inc/custom.php:2017
+#: ../../inc/custom.php:2018 ../../inc/custom.php:2019
+#: ../../inc/custom.php:2020
+msgid "[ Web font ]"
+msgstr "[ Web フォント ]"
+
+#: ../../inc/custom.php:2008
+msgid "Japanese fonts"
+msgstr "日本語フォント"
+
+#: ../../inc/custom.php:2019
+msgid "Sawarabi Gothic"
+msgstr "さわらびゴシック"
+
+#: ../../inc/custom.php:2020
+msgid "Sawarabi Mincho"
+msgstr "さわらび明朝"
+
+#: ../../inc/custom.php:2021 ../../inc/custom.php:2024
+#: ../../inc/custom.php:2027
+msgid "Yu"
+msgstr "游ゴシック"
+
+#: ../../inc/custom.php:2022 ../../inc/custom.php:2025
+#: ../../inc/custom.php:2028
+msgid "Meiryo"
+msgstr "メイリオ"
+
+#: ../../inc/custom.php:2023 ../../inc/custom.php:2026
+#: ../../inc/custom.php:2029
+msgid "MS PGothic"
+msgstr "MS P ゴシック"
+
+#: ../../inc/custom.php:2024 ../../inc/custom.php:2025
+#: ../../inc/custom.php:2026
+msgid "Hiragino"
+msgstr "ヒラギノ角ゴ"
+
+#: ../../inc/custom.php:2049
+msgid "Scale"
+msgstr "基準値"
+
+#: ../../inc/custom.php:2077
+msgid "Site Title"
+msgstr "サイトのタイトル"
+
+#: ../../inc/custom.php:2091
+msgid "Catchphrase"
+msgstr "キャッチフレーズ"
+
+#: ../../inc/custom.php:2105
+msgid "Post excerpt"
+msgstr "抜粋"
+
+#: ../../inc/custom.php:2119
+msgid "Post content"
+msgstr "記事全体"
+
+#: ../../inc/custom.php:2133
+msgid "Post title"
+msgstr "記事のタイトル"
+
+#: ../../inc/custom.php:2147 ../../inc/custom.php:2161
+#: ../../inc/custom.php:2175 ../../inc/custom.php:2189
+#: ../../inc/custom.php:2203 ../../inc/custom.php:2217
+#: ../../inc/custom.php:2231 ../../inc/custom.php:2245
+msgid "Post content : "
+msgstr "記事内 :"
+
+#: ../../inc/custom.php:2259
+msgid "Meta Infomation"
+msgstr "メタ情報"
+
+#: ../../inc/custom.php:2273
+msgid "Breadcrumb menu link"
+msgstr "パンくずリンク"
+
+#: ../../inc/custom.php:2287 ../../inc/custom.php:3111
+msgid "Global Nav (Header Nav)"
+msgstr "ヘッダーナビ（グローバルナビ）"
+
+#: ../../inc/custom.php:2301
+msgid "Comments"
+msgstr "コメント"
+
+#: ../../inc/custom.php:2405 ../../inc/custom.php:2441
+#: ../../inc/custom.php:2477
+msgid "Link color"
+msgstr "リンク色"
+
+#: ../../inc/custom.php:2417 ../../inc/custom.php:2453
+#: ../../inc/custom.php:2489 ../../inc/custom.php:3332
+#: ../../inc/custom.php:3543
+msgid "Link hover color"
+msgstr "リンクホバー文字色"
+
+#: ../../inc/custom.php:2465 ../../inc/custom.php:2477
+#: ../../inc/custom.php:2489 ../../inc/custom.php:2645
+#: ../../inc/custom.php:2657 ../../inc/custom.php:2669
+msgid "Footer "
+msgstr "フッター"
+
+#: ../../inc/custom.php:2498 ../../inc/custom.php:2546
+#: ../../inc/custom.php:2583 ../../inc/custom.php:2620
+#: ../../inc/custom.php:2657 ../../inc/custom.php:2694
+#: ../../inc/custom.php:4163
+msgid "Border color"
+msgstr "枠線色"
+
+#: ../../inc/custom.php:2521 ../../inc/custom.php:2558
+#: ../../inc/custom.php:2595 ../../inc/custom.php:2632
+#: ../../inc/custom.php:2669 ../../inc/custom.php:3629
+msgid "Background transparent"
+msgstr "背景透過"
+
+#: ../../inc/custom.php:2534 ../../inc/custom.php:2546
+#: ../../inc/custom.php:2558
+msgid "Content area "
+msgstr "コンテンツ領域"
+
+#: ../../inc/custom.php:2682 ../../inc/custom.php:2694
+msgid "Copyright area "
+msgstr "コピーライト表示部"
+
+#: ../../inc/custom.php:2703
+msgid "Images (Background / Title / Logo)"
+msgstr "背景・タイトル・ロゴ画像"
+
+#: ../../inc/custom.php:2714
+msgid "Use image as title"
+msgstr "サイトタイトルを画像にする"
+
+#: ../../inc/custom.php:2726
+msgid "One point logo image"
+msgstr "ワンポイントロゴ画像"
+
+#: ../../inc/custom.php:2727
+msgid "* Display one point image to the left of the site title."
+msgstr "※ サイトタイトルの左にワンポイント画像を表示します。"
+
+#: ../../inc/custom.php:2739 ../../inc/custom.php:2848
+#: ../../inc/custom.php:2860
+msgid "Background image"
+msgstr "背景画像"
+
+#: ../../inc/custom.php:2751
+msgid "Background image transparent"
+msgstr "背景画像透過"
+
+#: ../../inc/custom.php:2764
+msgid "Fixed background"
+msgstr "背景固定"
+
+#: ../../inc/custom.php:2777
+msgid "Background image layout"
+msgstr "背景画像の配置方法"
+
+#: ../../inc/custom.php:2861
+msgid ""
+"* In responsive style, we recommend you to use the Logo Image setting below "
+"this page, rather than using background as logo."
+msgstr ""
+"※ レスポンシブではロゴは背景画像にするよりも、項目下にあるロゴ画像を使用する"
+"方がおすすめです"
+
+#: ../../inc/custom.php:2901
+msgid "Header background image layout"
+msgstr "ヘッダー背景画像の配置方法"
+
+#: ../../inc/custom.php:2902
+msgid ""
+"* display area of ​​the image , please adjust the width and height in the "
+"&quot;Header padding&quot; of &quot;Header / Footer&quot;."
+msgstr ""
+"※ 画像の表示領域は、「ヘッダー / フッター」の「ヘッダーのパディング」で幅や高"
+"さを調整してください。"
+
+#: ../../inc/custom.php:2902
+msgid "* Please check the look in mobile phones by yourself :-)"
+msgstr "※ モバイルでの見た目は要確認"
+
+#: ../../inc/custom.php:2973
+msgid "Logo image"
+msgstr "ロゴ画像"
+
+#: ../../inc/custom.php:2985
+msgid "On top of the global navigation"
+msgstr "グローバルナビの上"
+
+#: ../../inc/custom.php:2995
+msgid "Breadcrumb link"
+msgstr "パンくずリンク"
+
+#: ../../inc/custom.php:3006
+msgid "Position of breadcrumb link"
+msgstr "パンくずリンクの配置"
+
+#: ../../inc/custom.php:3010
+msgid "Outside of the content area"
+msgstr "コンテンツ領域の外"
+
+#: ../../inc/custom.php:3011
+msgid "Inside of the content area"
+msgstr "コンテンツ領域の中"
+
+#: ../../inc/custom.php:3012
+msgid "Do not show"
+msgstr "表示しない"
+
+#: ../../inc/custom.php:3024
+msgid "Padding of breadcrumb menu for above and below"
+msgstr "パンくずリンク上下パディング"
+
+#: ../../inc/custom.php:3038
+msgid "Padding of breadcrumb menu for left and right"
+msgstr "パンくずリンク左右パディング"
+
+#: ../../inc/custom.php:3052
+msgid "Breadcrumb menu link color"
+msgstr "パンくずリンク文字色"
+
+#: ../../inc/custom.php:3064
+msgid "Breadcrumb menu background color"
+msgstr "パンくずリンク背景色"
+
+#: ../../inc/custom.php:3076
+msgid "Surround the breadcrumb menu with border"
+msgstr "パンくずリンクを枠線で囲む"
+
+#: ../../inc/custom.php:3102
+msgid "Breadcrumb menu border color"
+msgstr "パンくずリンク枠線色"
+
+#: ../../inc/custom.php:3122
+msgid "Display Global Navigation"
+msgstr "グローバルナビ表示"
+
+#: ../../inc/custom.php:3135
+msgid "The position of the Global Nav"
+msgstr "グローバルナビの位置"
+
+#: ../../inc/custom.php:3139
+msgid "Below header  ( Normal )"
+msgstr "ヘッダー下部 (ノーマル)"
+
+#: ../../inc/custom.php:3140
+msgid "Above header"
+msgstr "ヘッダー上部"
+
+#: ../../inc/custom.php:3152
+msgid "Type of mobile menu"
+msgstr "モバイルメニューの種類"
+
+#: ../../inc/custom.php:3156
+msgid "Luxury version"
+msgstr "豪華バージョン"
+
+#: ../../inc/custom.php:3157
+msgid "Global menu only"
+msgstr "グローバルナビのみ"
+
+#: ../../inc/custom.php:3169
+msgid "How to open and close the mobile menu"
+msgstr "モバイルメニューの開閉方法"
+
+#: ../../inc/custom.php:3173
+msgid "Individually opening and closing the parent and child"
+msgstr "親と子を個別に開閉"
+
+#: ../../inc/custom.php:3174
+msgid "All opening and closing"
+msgstr "一度に全開閉"
+
+#: ../../inc/custom.php:3186 ../../inc/custom.php:3192
+#: ../../inc/custom.php:3216
+msgid "Make it sticky"
+msgstr "スクロール固定"
+
+#: ../../inc/custom.php:3187 ../../inc/custom.php:3504
+msgid "* may not work properly with old Android (2.x system)"
+msgstr "※ 古いAndroid (2.x系)では動作しません"
+
+#: ../../inc/custom.php:3191
+msgid "Not make it sticky"
+msgstr "スクロール固定しない"
+
+#: ../../inc/custom.php:3193
+msgid "Make it sticky on small devices"
+msgstr "小デバイスだけスクロール固定"
+
+#: ../../inc/custom.php:3194
+msgid "Make it sticky on PC"
+msgstr "PC サイズだけスクロール固定"
+
+#: ../../inc/custom.php:3206
+msgid "Sticky options"
+msgstr "固定オプション"
+
+#: ../../inc/custom.php:3207
+msgid "Shadow density when sticky"
+msgstr "スクロール固定時の影の濃さ"
+
+#: ../../inc/custom.php:3221
+msgid "Semi transparent when sticky"
+msgstr "スクロール固定で半透明にする"
+
+#: ../../inc/custom.php:3234
+msgid "Sticky only when scrolling up"
+msgstr "上スクロールの時だけ表示"
+
+#: ../../inc/custom.php:3247
+msgid "Size of width"
+msgstr "横幅の大きさ"
+
+#: ../../inc/custom.php:3251 ../../inc/custom.php:3252
+msgid "Automatically resize the width"
+msgstr "横幅を自動リサイズ"
+
+#: ../../inc/custom.php:3252
+msgid "full width"
+msgstr "幅いっぱい"
+
+#: ../../inc/custom.php:3253
+msgid "All the same width"
+msgstr "全て同じ幅"
+
+#: ../../inc/custom.php:3278
+msgid "Separator line"
+msgstr "区切り線を付ける"
+
+#: ../../inc/custom.php:3282 ../../inc/widget.php:664 ../../inc/widget.php:996
+#: ../../inc/widget.php:1002 ../../inc/widget.php:1007
+#: ../../inc/sections/shortcode-luxeritas.php:87
+msgid "None"
+msgstr "なし"
+
+#: ../../inc/custom.php:3283
+msgid "Add separator line"
+msgstr "区切り線を付ける"
+
+#: ../../inc/custom.php:3284
+msgid "Add separator line including both ends"
+msgstr "両端を含めて区切り線を付ける"
+
+#: ../../inc/custom.php:3296 ../../inc/custom.php:3320
+#: ../../inc/custom.php:3332 ../../inc/custom.php:3344
+#: ../../inc/custom.php:3356 ../../inc/custom.php:3368
+msgid "Navigation "
+msgstr "ナビ"
+
+#: ../../inc/custom.php:3308
+msgid "Navigation bar "
+msgstr "ナビバー"
+
+#: ../../inc/custom.php:3344
+msgid "Link hover background color"
+msgstr "リンクホバー背景色"
+
+#: ../../inc/custom.php:3356
+msgid "Current color"
+msgstr "カレント文字色"
+
+#: ../../inc/custom.php:3368
+msgid "Current background color"
+msgstr "カレント背景色"
+
+#: ../../inc/custom.php:3380
+msgid "Color of the lines above the Nav"
+msgstr "ナビ上の線の色"
+
+#: ../../inc/custom.php:3392
+msgid "Color of the line bottom to the Nav"
+msgstr "ナビ下の線の色"
+
+#: ../../inc/custom.php:3404
+msgid "Color of the separator line"
+msgstr "区切り線の色"
+
+#: ../../inc/custom.php:3416
+msgid "Thickness of the line above the Nav"
+msgstr "ナビ上の線の太さ"
+
+#: ../../inc/custom.php:3429
+msgid "Thickness of the line bottom to the Nav"
+msgstr "ナビ下の線の太さ "
+
+#: ../../inc/custom.php:3442
+msgid "Padding of Nav for above and below"
+msgstr "ナビ上下パディング"
+
+#: ../../inc/custom.php:3455
+msgid "Padding of Navigation bar for above and below"
+msgstr "ナビバー上下パディング"
+
+#: ../../inc/custom.php:3466
+msgid ""
+"* Menu settings is under &quot;Appearance -&gt; Menus&quot;.  Please create "
+"and save your desired menu,and make sure to select for the location &quot;"
+"Header Band Menu&quot;."
+msgstr ""
+"※ メニューの設定は「外観 → メニュー」で、新しいメニューを作成した後「メニュー"
+"設定」を「ヘッダーの上の帯状メニュー」にチェックを付けて保存してください。"
+
+#: ../../inc/custom.php:3477
+msgid "Display the band menu above the header"
+msgstr "ヘッダーの上に帯状のメニューを表示"
+
+#: ../../inc/custom.php:3490
+msgid "Band menu to be full width"
+msgstr "ヘッダー上の帯状メニューを常に横幅いっぱいにする"
+
+#: ../../inc/custom.php:3503
+msgid "Make band menu sticky"
+msgstr "帯状メニューを固定表示にする"
+
+#: ../../inc/custom.php:3517
+msgid "Appearance of band menu"
+msgstr "帯状メニューの外観"
+
+#: ../../inc/custom.php:3518
+msgid "Height of band menu"
+msgstr "帯状メニューの高さ"
+
+#: ../../inc/custom.php:3531 ../../inc/custom.php:3543
+#: ../../inc/custom.php:3555
+msgid "Band menu "
+msgstr "帯状メニュー"
+
+#: ../../inc/custom.php:3567
+msgid "Color of the line bottom of the band menu"
+msgstr "帯状メニューの下線の色"
+
+#: ../../inc/custom.php:3579
+msgid "Thickness of the line bottom of the band menu"
+msgstr "帯状メニューの下線の太さ"
+
+#: ../../inc/custom.php:3592
+msgid "Display Search Box"
+msgstr "検索ボックス表示"
+
+#: ../../inc/custom.php:3605 ../../inc/custom.php:3617
+#: ../../inc/custom.php:3629
+msgid "Search Box "
+msgstr "検索ボックス"
+
+#: ../../inc/custom.php:3642
+msgid "Display style of social buttons"
+msgstr "フォローボタンの表示方法"
+
+#: ../../inc/custom.php:3646 ../../inc/widget.php:531
+msgid "Icon only"
+msgstr "アイコン"
+
+#: ../../inc/custom.php:3647 ../../inc/widget.php:533
+msgid "Icon + SNS name"
+msgstr "アイコン + SNS名"
+
+#: ../../inc/custom.php:3659
+msgid "Apply color on the follow buttons"
+msgstr "フォローボタンをカラーにする"
+
+#: ../../inc/custom.php:3672 ../../inc/custom.php:3699
+#: ../../inc/custom.php:3726 ../../inc/custom.php:3753
+#: ../../inc/custom.php:3780 ../../inc/custom.php:3807
+#: ../../inc/custom.php:3834 ../../inc/custom.php:3875
+#: ../../inc/widget.php:542
+msgid "follow button display"
+msgstr "フォローボタン表示"
+
+#: ../../inc/custom.php:3686 ../../inc/custom.php:3713
+#: ../../inc/custom.php:3740 ../../inc/custom.php:3767
+#: ../../inc/custom.php:3794 ../../inc/custom.php:3821
+#: ../../inc/custom.php:3848 ../../inc/custom.php:3862
+#: ../../inc/custom.php:3889
+msgid "&nbsp;&nbsp;&nbsp;Enter the XXXXX part"
+msgstr "&nbsp;&nbsp;&nbsp;の XXXXX 部分を入力"
+
+#: ../../inc/custom.php:3902 ../../inc/custom.php:3915
+msgid "button display"
+msgstr "ボタン表示"
+
+#: ../../inc/custom.php:3926
+msgid "Create the table of contents based on the heading tag in the post."
+msgstr "投稿内の見出しタグに基づいて目次を作成します。"
+
+#: ../../inc/custom.php:3937
+msgid "Automatically insert the TOC"
+msgstr "自動で目次を挿入する"
+
+#: ../../inc/custom.php:3950
+msgid "Apply style"
+msgstr "スタイルを適用する"
+
+#: ../../inc/custom.php:3963
+msgid "Automatically insert the TOC also in AMP page"
+msgstr "AMP ページにも自動で目次を挿入する"
+
+#: ../../inc/custom.php:3976
+msgid "Show when: (number of headings)"
+msgstr "表示条件: (見出しの数)"
+
+#: ../../inc/custom.php:3985
+msgid "Post type to display"
+msgstr "表示するポストタイプ"
+
+#: ../../inc/custom.php:4024
+msgid "Heading hierarchy to display"
+msgstr "目次にする見出し階層"
+
+#: ../../inc/custom.php:4044
+msgid "Position of jump destination (Height)"
+msgstr "ジャンプ先の位置 (高さ)"
+
+#: ../../inc/custom.php:4053
+msgid "Items below this do not apply to widgets"
+msgstr "これより下の項目はウィジェットには適用されません"
+
+#: ../../inc/custom.php:4066
+msgid "Start status"
+msgstr "開始状態"
+
+#: ../../inc/custom.php:4070
+msgid "Open state"
+msgstr "開いた状態"
+
+#: ../../inc/custom.php:4071
+msgid "Closed state"
+msgstr "閉じた状態"
+
+#: ../../inc/custom.php:4096
+msgid "Show button"
+msgstr "表示ボタン"
+
+#: ../../inc/custom.php:4109
+msgid "Hide button"
+msgstr "非表示ボタン"
+
+#: ../../inc/custom.php:4122 ../../inc/widget.php:1225
+msgid "Width"
+msgstr "横幅"
+
+#: ../../inc/custom.php:4126
+msgid "Auto"
+msgstr "自動"
+
+#: ../../inc/custom.php:4175 ../../inc/custom.php:4187
+msgid "Button"
+msgstr "ボタン"
+
+#: ../../inc/custom.php:4196
+msgid "Animation"
+msgstr "アニメーション"
+
+#: ../../inc/custom.php:4197
+msgid "Enable animation effects"
+msgstr "アニメーション効果を有効にする"
+
+#: ../../inc/custom.php:4208 ../../inc/sections/title.php:34
+#: ../../inc/sections/title.php:38 ../../inc/sections/title.php:45
+#: ../../inc/sections/title.php:49 ../../inc/sections/title.php:53
+#: ../../inc/sections/title.php:57 ../../inc/sections/title.php:68
+#: ../../inc/sections/title.php:72
+msgid "Site name"
+msgstr "サイト名"
+
+#: ../../inc/custom.php:4212 ../../inc/custom.php:4230
+#: ../../inc/custom.php:4248 ../../inc/custom.php:4267
+msgid "Without animation effect"
+msgstr "アニメーション効果なし"
+
+#: ../../inc/custom.php:4213 ../../inc/custom.php:4231
+#: ../../inc/custom.php:4250
+msgid "Zoom in"
+msgstr "ズームイン"
+
+#: ../../inc/custom.php:4214 ../../inc/custom.php:4232
+#: ../../inc/custom.php:4251
+msgid "Zoom out"
+msgstr "ズームアウト"
+
+#: ../../inc/custom.php:4226
+msgid "Posts List thumbnail"
+msgstr "記事一覧のサムネイル"
+
+#: ../../inc/custom.php:4244 ../../inc/custom.php:4702
+#: ../../inc/custom.php:5014
+msgid "SNS share buttons"
+msgstr "SNS シェアボタン"
+
+#: ../../inc/custom.php:4249 ../../inc/custom.php:4268
+msgid "Upward movement"
+msgstr "上方移動"
+
+#: ../../inc/custom.php:4263
+msgid "Global Nav"
+msgstr "ヘッダーナビ （グローバルナビ）"
+
+#: ../../inc/custom.php:4277 ../../inc/sections/speedup-items.php:77
+msgid "Lazy loading of image"
+msgstr "画像の遅延読み込み"
+
+#: ../../inc/custom.php:4278
+msgid "* This feature uses Intersection Observer API."
+msgstr "※ この機能は Intersection Observer API を使用しています。"
+
+#: ../../inc/custom.php:4289 ../../inc/sections/speedup-items.php:80
+msgid "Enable Lazy Load for various thumbnail images"
+msgstr "各種サムネイル画像の Lazy Load 有効化"
+
+#: ../../inc/custom.php:4302 ../../inc/sections/speedup-items.php:84
+msgid "Enable Lazy Load for post contents"
+msgstr "投稿コンテンツの Lazy Load 有効化"
+
+#: ../../inc/custom.php:4315 ../../inc/sections/speedup-items.php:88
+msgid "Enable Lazy Load for sidebar"
+msgstr "サイドバーの Lazy Load 有効化"
+
+#: ../../inc/custom.php:4316 ../../inc/sections/speedup-items.php:90
+msgid "* The scroll follow sidebar may become strange movement."
+msgstr "※ ウィジェットのスクロール追従領域の動作に異常が出る場合があります。"
+
+#: ../../inc/custom.php:4329 ../../inc/sections/speedup-items.php:93
+msgid "Enable Lazy Load for footer"
+msgstr "フッターの Lazy Load 有効化"
+
+#: ../../inc/custom.php:4342 ../../inc/sections/speedup-items.php:97
+msgid "Enable Lazy Load for Gravatar"
+msgstr "Gravatar の Lazy Load 有効化"
+
+#: ../../inc/custom.php:4355
+msgid "Display images even if Javascript is disabled"
+msgstr "Javascript が無効でも画像を表示する"
+
+#: ../../inc/custom.php:4368
+msgid "Effect"
+msgstr "エフェクト・効果"
+
+#: ../../inc/custom.php:4372
+msgid "Fade-in"
+msgstr "Fade-in (フェードイン)"
+
+#: ../../inc/custom.php:4373
+msgid "Show (No effect)"
+msgstr "Show (エフェクトなし)"
+
+#: ../../inc/custom.php:4382
+msgid "Image gallery"
+msgstr "画像ギャラリー"
+
+#: ../../inc/custom.php:4393
+msgid "Type of image gallery"
+msgstr "画像ギャラリーの種類"
+
+#: ../../inc/custom.php:4397 ../../inc/custom.php:4398
+#: ../../inc/custom.php:4399
+msgid "Responsive"
+msgstr "レスポンシブ"
+
+#: ../../inc/custom.php:4397
+msgid "Most Recommended"
+msgstr "最もおすすめ"
+
+#: ../../inc/custom.php:4398 ../../inc/custom.php:4399
+#: ../../inc/custom.php:4713 ../../inc/sections/jquery.php:24
+#: ../../inc/sections/sns-cache-setting.php:21
+#: ../../inc/sections/speedup-items.php:65
+msgid "Recommend"
+msgstr "おすすめ"
+
+#: ../../inc/custom.php:4399
+msgid "Cannot coexist with &quot;Lazy Load&quot;"
+msgstr "Lazy Load との共存不可"
+
+#: ../../inc/custom.php:4400
+msgid "Do not use the image gallery"
+msgstr "画像ギャラリーを使用しない"
+
+#: ../../inc/custom.php:4409
+msgid "External link"
+msgstr "外部リンク"
+
+#: ../../inc/custom.php:4420 ../../inc/custom.php:4433
+#: ../../inc/custom.php:4475 ../../inc/custom.php:4488
+#, php-format
+msgid "Add %s in the external links of the article"
+msgstr "記事の外部リンクに%s付ける"
+
+#: ../../inc/custom.php:4433
+msgid " icon "
+msgstr "アイコン"
+
+#: ../../inc/custom.php:4446
+msgid "Type of external link icon"
+msgstr "外部リンクアイコンのタイプ"
+
+#: ../../inc/custom.php:4463
+msgid "The color of external link icon"
+msgstr "外部リンクアイコンの色"
+
+#: ../../inc/custom.php:4489
+msgid ""
+"* Not recommended! (such nofollow link in your articles could be a breach in "
+"manners.)"
+msgstr ""
+"※ 非推奨 (記事で紹介しているリンクに nofollow 付けるのはマナー違反です)"
+
+#: ../../inc/custom.php:4499
+msgid "Author (post contributor)"
+msgstr "投稿者名の表示"
+
+#: ../../inc/custom.php:4509
+msgid "Display author (post contributor)"
+msgstr "author (記事投稿者)を表示"
+
+#: ../../inc/custom.php:4510
+msgid "* If you hide the author, a structured data error will result.."
+msgstr "※ 投稿者名を非表示にすると構造化データエラーになります。"
+
+#: ../../inc/custom.php:4522
+msgid "URL spanned the author"
+msgstr "author に張る URL"
+
+#: ../../inc/custom.php:4526
+msgid "Link to the contributor archive page"
+msgstr "投稿者アーカイブページにリンク"
+
+#: ../../inc/custom.php:4527
+msgid "Link to the URL you desire"
+msgstr "自分で作成したページにリンク"
+
+#: ../../inc/custom.php:4538
+msgid "The URL you desire!"
+msgstr "自分で作成したページの URL"
+
+#: ../../inc/custom.php:4559
+msgid "Eanable Blog Card"
+msgstr "ブログカード有効化"
+
+#: ../../inc/custom.php:4572
+msgid "Make embedded URL a blog card"
+msgstr "直書きの URL をブログカード化する"
+
+#: ../../inc/custom.php:4573
+msgid ""
+"* If you check this, Some oEmbed features of WordPress will not be usable."
+msgstr ""
+"※ これにチェックを付けると、一部を除いて WordPress 標準の oEmbed 機能は使えな"
+"くなります。 "
+
+#: ../../inc/custom.php:4586
+msgid "The maximum width of the blog card"
+msgstr "ブログカードの最大幅"
+
+#: ../../inc/custom.php:4587
+msgid "* default value 540"
+msgstr "※ デフォルト 540"
+
+#: ../../inc/custom.php:4600
+msgid "Border radius of Card"
+msgstr "ブログカードの丸み"
+
+#: ../../inc/custom.php:4613
+msgid "Shadow on the card"
+msgstr "カードに影を付ける"
+
+#: ../../inc/custom.php:4626
+msgid "Image position"
+msgstr "画像の位置"
+
+#: ../../inc/custom.php:4630 ../../inc/phrase-sample.php:27
+#: ../../inc/shortcode-sample.php:22 ../../inc/sections/balloon-css.php:54
+#: ../../inc/sections/balloon-css.php:58 ../../inc/sections/balloon-css.php:62
+#: ../../inc/sections/balloon-css.php:68
+#: ../../inc/sections/phrase-luxeritas.php:42
+#: ../../inc/sections/shortcode-luxeritas.php:153
+msgid "Right"
+msgstr "右"
+
+#: ../../inc/custom.php:4631 ../../inc/phrase-sample.php:26
+#: ../../inc/shortcode-sample.php:21 ../../inc/sections/balloon-css.php:35
+#: ../../inc/sections/balloon-css.php:39 ../../inc/sections/balloon-css.php:43
+#: ../../inc/sections/balloon-css.php:49
+#: ../../inc/sections/phrase-luxeritas.php:37
+#: ../../inc/sections/shortcode-luxeritas.php:102
+msgid "Left"
+msgstr "左"
+
+#: ../../inc/custom.php:4643
+msgid "Surround the image with border"
+msgstr "画像を枠線で囲む"
+
+#: ../../inc/custom.php:4656
+msgid "Shadow on the image"
+msgstr "画像に影を付ける"
+
+#: ../../inc/custom.php:4669
+msgid "Border radius of image"
+msgstr "画像の丸み"
+
+#: ../../inc/custom.php:4682
+msgid "Cache expiration time"
+msgstr "キャッシュの有効期間"
+
+#: ../../inc/custom.php:4686 ../../inc/custom.php:4687
+#: ../../inc/custom.php:4751 ../../inc/sections/sns-cache-setting.php:39
+#: ../../inc/sections/speedup-items.php:136
+#, php-format
+msgid "%s day"
+msgstr "%s日"
+
+#: ../../inc/custom.php:4688 ../../inc/custom.php:4689
+#, php-format
+msgid "%s week"
+msgstr "%s週間"
+
+#: ../../inc/custom.php:4690 ../../inc/custom.php:4691
+#: ../../inc/custom.php:4692
+#, php-format
+msgid "%s month"
+msgstr "%sか月"
+
+#: ../../inc/custom.php:4693
+msgid "half year"
+msgstr "半年 (6か月)"
+
+#: ../../inc/custom.php:4713 ../../inc/sections/sns-cache-setting.php:21
+#: ../../inc/sections/speedup-items.php:123
+msgid "Eanable cache for SNS counter"
+msgstr "SNS カウントをキャッシュする"
+
+#: ../../inc/custom.php:4714 ../../inc/sections/sns-cache-setting.php:22
+#: ../../inc/sections/speedup-items.php:124
+msgid "* will not function if normal SNS button is selected."
+msgstr "※ SNS 通常ボタンが選択されてる場合は、動作しません。"
+
+#: ../../inc/custom.php:4714 ../../inc/sections/sns-cache-setting.php:23
+msgid ""
+"* by enabling cache, the SNS counter will work even on WAF enabled servers."
+msgstr ""
+"※ キャッシュを有効にすると、WAF が有効となっているサーバーでも SNS のカウント"
+"数を取得できるようになります。"
+
+#: ../../inc/custom.php:4727 ../../inc/sections/sns-cache-setting.php:27
+msgid "Count and cache the SNS counts even NO display is selected."
+msgstr "SNS カウントを非表示にしていても、カウント数を取得してキャッシュする"
+
+#: ../../inc/custom.php:4740 ../../inc/sections/sns-cache-setting.php:30
+#: ../../inc/sections/speedup-items.php:127
+msgid "Interval for cache restructure"
+msgstr "キャッシュ再構築までのインターバル"
+
+#: ../../inc/custom.php:4744 ../../inc/sections/sns-cache-setting.php:32
+#: ../../inc/sections/speedup-items.php:129
+#, php-format
+msgid "%s seconds"
+msgstr "%s秒"
+
+#: ../../inc/custom.php:4745 ../../inc/custom.php:4746
+#: ../../inc/sections/sns-cache-setting.php:33
+#: ../../inc/sections/sns-cache-setting.php:34
+#: ../../inc/sections/speedup-items.php:130
+#: ../../inc/sections/speedup-items.php:131
+#, php-format
+msgid "%s minutes"
+msgstr "%s分"
+
+#: ../../inc/custom.php:4747 ../../inc/sections/sns-cache-setting.php:35
+#: ../../inc/sections/speedup-items.php:132
+#, php-format
+msgid "%s hour"
+msgstr "%s時間"
+
+#: ../../inc/custom.php:4748 ../../inc/custom.php:4749
+#: ../../inc/custom.php:4750 ../../inc/sections/sns-cache-setting.php:36
+#: ../../inc/sections/sns-cache-setting.php:37
+#: ../../inc/sections/sns-cache-setting.php:38
+#: ../../inc/sections/speedup-items.php:133
+#: ../../inc/sections/speedup-items.php:134
+#: ../../inc/sections/speedup-items.php:135
+#, php-format
+msgid "%s hours"
+msgstr "%s時間"
+
+#: ../../inc/custom.php:4763 ../../inc/sections/sns-cache-setting.php:43
+msgid "Weekly cache cleaning"
+msgstr "週に一度の自動キャッシュ整理"
+
+#: ../../inc/custom.php:4767 ../../inc/sections/sns-cache-setting.php:45
+msgid "Delete trash considered cache"
+msgstr "ゴミと判別できるキャッシュを削除"
+
+#: ../../inc/custom.php:4768 ../../inc/sections/sns-cache-setting.php:46
+msgid "Delete all cache"
+msgstr "キャッシュを全削除"
+
+#: ../../inc/custom.php:4769 ../../inc/sections/recaptcha.php:33
+#: ../../inc/sections/sns-cache-setting.php:47
+msgid "Do nothing"
+msgstr "何もしない"
+
+#: ../../inc/custom.php:4781
+msgid "SNS button above article type and layout"
+msgstr "記事上 SNS ボタンの種類と配置"
+
+#: ../../inc/custom.php:4785 ../../inc/custom.php:4860
+msgid "Normal button"
+msgstr "通常ボタン"
+
+#: ../../inc/custom.php:4786 ../../inc/custom.php:4861
+msgid "Color type"
+msgstr "カラータイプ"
+
+#: ../../inc/custom.php:4787 ../../inc/custom.php:4862
+msgid "White type"
+msgstr "ホワイトタイプ"
+
+#: ../../inc/custom.php:4788 ../../inc/custom.php:4789
+#: ../../inc/custom.php:4863 ../../inc/custom.php:4864
+msgid "Variable width flat type"
+msgstr "可変幅フラットタイプ"
+
+#: ../../inc/custom.php:4788 ../../inc/custom.php:4790
+#: ../../inc/custom.php:4863 ../../inc/custom.php:4865
+#: ../../inc/widget.php:1264
+msgid "Color"
+msgstr "カラー"
+
+#: ../../inc/custom.php:4790 ../../inc/custom.php:4791
+#: ../../inc/custom.php:4865 ../../inc/custom.php:4866
+msgid "Nameless icon type"
+msgstr "名無しアイコンタイプ"
+
+#: ../../inc/custom.php:4818
+msgid "Display SNS button above the articles"
+msgstr "記事上の SNS ボタン表示"
+
+#: ../../inc/custom.php:4830
+msgid "Show the counts on SNS buttons(above)"
+msgstr "記事上の SNS カウント表示"
+
+#: ../../inc/custom.php:4843
+msgid "Show SNS Button in 2 rows(above)"
+msgstr "記事上 SNS ボタン2段組表示"
+
+#: ../../inc/custom.php:4856
+msgid "SNS button beneath article type and layout"
+msgstr "記事下 SNS ボタンの種類と配置"
+
+#: ../../inc/custom.php:4893
+msgid "Display SNS button below the articles"
+msgstr "記事下の SNS ボタン表示"
+
+#: ../../inc/custom.php:4905
+msgid "Show the counts on SNS buttons (below article)"
+msgstr "記事下の SNS カウント表示"
+
+#: ../../inc/custom.php:4918
+msgid "Show SNS Button in 2 rows (below article)"
+msgstr "記事下 SNS ボタン2段組表示"
+
+#: ../../inc/custom.php:4926 ../../inc/defaults.php:64
+#: ../../languages/site/translations.php:53
+msgid "Please share this if you liked it!"
+msgstr "よろしければシェアお願いします"
+
+#: ../../inc/custom.php:4931
+msgid "Tagline for the SNS buttons under articles"
+msgstr "記事下の SNS シェアメッセージ"
+
+#: ../../inc/custom.php:4943
+msgid "Dispplay SNS button at the bottom of top page list"
+msgstr "トップページリスト下に SNS ボタン表示"
+
+#: ../../inc/custom.php:4955
+msgid "Display SNS button on static pages"
+msgstr "固定ページにも SNS ボタン表示"
+
+#: ../../inc/custom.php:4967
+msgid "Display Save button of Pinterest at image hover"
+msgstr "画像ホバー時に Pinterest の保存ボタンを表示する"
+
+#: ../../inc/custom.php:4979
+msgid "Facebook settings"
+msgstr "Facebook の設定"
+
+#: ../../inc/custom.php:4980
+msgid "* Required when acquiring a count value of 5 digits or more."
+msgstr "※ 5桁以上のカウント数を表示する際は設定が必要になります。"
+
+#: ../../inc/custom.php:5015
+msgid "Display / non-display SNS button above articles"
+msgstr "記事上SNSボタンの表示/非表示"
+
+#: ../../inc/custom.php:5026 ../../inc/custom.php:5039
+#: ../../inc/custom.php:5052 ../../inc/custom.php:5065
+#: ../../inc/custom.php:5078 ../../inc/custom.php:5091
+#: ../../inc/custom.php:5104 ../../inc/custom.php:5117
+#: ../../inc/custom.php:5130 ../../inc/custom.php:5143
+#: ../../inc/custom.php:5157 ../../inc/custom.php:5170
+#: ../../inc/custom.php:5183 ../../inc/custom.php:5196
+#: ../../inc/custom.php:5209 ../../inc/custom.php:5222
+#: ../../inc/custom.php:5235 ../../inc/custom.php:5248
+#: ../../inc/custom.php:5261 ../../inc/custom.php:5274
+#: ../../inc/widget.php:561 ../../inc/widget.php:564
+#, php-format
+msgid "%s button display"
+msgstr "%sボタン表示"
+
+#: ../../inc/custom.php:5144
+msgid "Display / non-display SNS button below articles"
+msgstr "記事下SNSボタンの表示/非表示"
+
+#: ../../inc/customize.php:37
+msgid "Pagination"
+msgstr "ページネーション"
+
+#: ../../inc/customize.php:40 ../../inc/sections/speedup-items.php:22
+msgid "Compression and optimization"
+msgstr "圧縮・最適化"
+
+#: ../../inc/customize.php:45
+msgid "Copyright"
+msgstr "コピーライト"
+
+#: ../../inc/customize.php:46 ../../inc/customize.php:323
+#: ../../inc/sections/phrase-sample.php:60 ../../inc/sections/script.php:20
+#: ../../inc/sections/shortcode-sample.php:37
+#: ../../inc/sections/speedup-items.php:113
+msgid "Others"
+msgstr "その他"
+
+#: ../../inc/customize.php:47 ../../inc/customize.php:62
+#: ../../inc/sections/fontawesome.php:30
+msgid "Version"
+msgstr "バージョン"
+
+#: ../../inc/customize.php:56
+msgid "Editor settings"
+msgstr "エディタ設定"
+
+#: ../../inc/customize.php:57
+msgid "Widget management"
+msgstr "ウィジェット管理"
+
+#: ../../inc/customize.php:58 ../../inc/customize.php:337
+msgid "Thumbnail management"
+msgstr "サムネイル管理"
+
+#: ../../inc/customize.php:59
+msgid "Thumbnail regenerate"
+msgstr "サムネイル再作成"
+
+#: ../../inc/customize.php:60 ../../inc/sections/backup-child.php:29
+msgid "Backup"
+msgstr "バックアップ"
+
+#: ../../inc/customize.php:61 ../../inc/sections/design-select.php:129
+msgid "Reset"
+msgstr "リセット"
+
+#: ../../inc/customize.php:73 ../../inc/customize.php:74
+msgid "Sample registration"
+msgstr "サンプル登録"
+
+#: ../../inc/customize.php:83
+msgid "Design Select"
+msgstr "デザイン選択"
+
+#: ../../inc/customize.php:84
+msgid "Design file creation support"
+msgstr "デザインファイル作成支援"
+
+#: ../../inc/customize.php:89
+msgid "Design File Manager"
+msgstr "デザインファイルマネージャー"
+
+#: ../../inc/customize.php:97 ../../inc/widget.php:642
+#: ../../inc/widget.php:967
+msgid "Top page"
+msgstr "トップページ"
+
+#: ../../inc/customize.php:100
+msgid "All caches restructure"
+msgstr "キャッシュ再構築"
+
+#: ../../inc/customize.php:103
+msgid "Cache"
+msgstr "キャッシュ"
+
+#: ../../inc/customize.php:103
+msgid "Control"
+msgstr "コントロール"
+
+#: ../../inc/customize.php:110 ../../inc/customize.php:358
+msgid "htaccess for speed boost"
+msgstr "高速化用 htaccess"
+
+#: ../../inc/customize.php:121 ../../inc/customize.php:281
+#: ../../inc/theme-editor.php:43
+msgid "tag"
+msgstr "タグ"
+
+#: ../../inc/customize.php:123 ../../inc/customize.php:124
+msgid "Access Analytics"
+msgstr "アクセス解析"
+
+#: ../../inc/customize.php:127 ../../inc/design-editor.php:38
+#: ../../inc/theme-editor.php:85
+msgid "Stylesheet for AMP"
+msgstr "AMP 用スタイル"
+
+#: ../../inc/customize.php:128 ../../inc/customize.php:327
+#: ../../inc/theme-editor.php:90
+msgid "Visual Editor"
+msgstr "ビジュアルエディタ"
+
+#: ../../inc/customize.php:275
+msgid "Mobile Theme"
+msgstr "モバイル用テーマ"
+
+#: ../../inc/customize.php:277
+msgid "Manifest"
+msgstr "マニフェスト"
+
+#: ../../inc/customize.php:281 ../../inc/customize.php:309
+#: ../../inc/customize.php:313 ../../inc/customize.php:314
+#: ../../inc/customize.php:315 ../../inc/customize.php:323
+#: ../../inc/customize.php:400 ../../inc/sections/amp.php:20
+#: ../../inc/sections/amp.php:71 ../../inc/sections/design-create.php:38
+#: ../../inc/sections/ogp.php:20 ../../inc/sections/ogp.php:27
+#: ../../inc/sections/ogp.php:36 ../../inc/sections/ogp.php:54
+#: ../../inc/sections/others.php:113 ../../inc/sections/pwa.php:33
+#: ../../inc/sections/recaptcha.php:30 ../../inc/sections/recaptcha.php:40
+#: ../../inc/sections/seo.php:51 ../../inc/sections/seo.php:558
+#, php-format
+msgid "Setting of %s"
+msgstr "%sの設定"
+
+#: ../../inc/customize.php:285 ../../inc/sections/pagination.php:20
+msgid "Blog pages show at most"
+msgstr "1ページに表示する最大投稿数"
+
+#: ../../inc/customize.php:289
+msgid "Compression of HTML"
+msgstr "HTML の圧縮"
+
+#: ../../inc/customize.php:290
+msgid "Optimization of CSS"
+msgstr "CSS の最適化"
+
+#: ../../inc/customize.php:291
+msgid "Optimization of Javascript"
+msgstr "Javascript の最適化"
+
+#: ../../inc/customize.php:295
+msgid "Mode select"
+msgstr "モード選択"
+
+#: ../../inc/customize.php:296
+msgid "Direct output of external CSS"
+msgstr "外部 CSS の直接出力"
+
+#: ../../inc/customize.php:297
+msgid "CSS of child theme"
+msgstr "子テーマの CSS"
+
+#: ../../inc/customize.php:298
+msgid "CSS of icon fonts"
+msgstr "アイコンフォントの CSS"
+
+#: ../../inc/customize.php:299
+msgid "CSS of widgets"
+msgstr "ウィジェット用の CSS"
+
+#: ../../inc/customize.php:304
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: ../../inc/customize.php:305
+msgid "Other setting of Javascript"
+msgstr "その他の Javascript 設定"
+
+#: ../../inc/customize.php:309
+msgid "Search Widget"
+msgstr "検索ウィジェット"
+
+#: ../../inc/customize.php:319
+msgid "Format of copyright"
+msgstr "コピーライトの書式"
+
+#: ../../inc/customize.php:328
+msgid "Text Editor"
+msgstr "テキストエディタ"
+
+#: ../../inc/customize.php:332 ../../inc/sections/widget-area.php:27
+#: ../../inc/sections/widget-body.php:35 ../../inc/sections/widget-css.php:26
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: ../../inc/customize.php:333
+msgid "Widget Area"
+msgstr "ウィジェット領域"
+
+#: ../../inc/customize.php:341
+msgid "Regenerate all thumbnails"
+msgstr "サムネイル一括再作成"
+
+#: ../../inc/customize.php:345
+msgid "Back up or restore Luxeritas all settings"
+msgstr "Luxeritas 全カスタマイズのバックアップとリストア"
+
+#: ../../inc/customize.php:347
+msgid "Back up or restore Luxeritas appearance settings"
+msgstr "Luxeritas 外観カスタマイズのバックアップとリストア"
+
+#: ../../inc/customize.php:348
+msgid "Back up Child Theme"
+msgstr "子テーマのバックアップ"
+
+#: ../../inc/customize.php:352
+msgid "RESET all the customizations of Luxeritas"
+msgstr "Luxeritas 全設定のオールクリア"
+
+#: ../../inc/customize.php:353 ../../inc/customize.php:401
+msgid "Clean up of SNS count cache"
+msgstr "SNS カウントキャッシュのクリーンアップ"
+
+#: ../../inc/customize.php:354
+msgid "Clean up of Blog Card cache"
+msgstr "ブログカードキャッシュのクリーンアップ"
+
+#: ../../inc/customize.php:366
+msgid "Registration fixed phrases"
+msgstr "定型文登録"
+
+#: ../../inc/customize.php:370
+msgid "Registration shortcodes"
+msgstr "ショートコード登録"
+
+#: ../../inc/customize.php:374 ../../inc/customize.php:379
+msgid " sample"
+msgstr "サンプル"
+
+#: ../../inc/customize.php:375 ../../inc/customize.php:380
+msgid " For luxeritas only"
+msgstr " ( Luxeritas 専用 )"
+
+#: ../../inc/customize.php:388 ../../inc/sections/design-create.php:48
+msgid "Create Zip file"
+msgstr "Zip ファイル作成"
+
+#: ../../inc/customize.php:400
+msgid "cache"
+msgstr "キャッシュ"
+
+#: ../../inc/customize.php:405
+msgid "Download CSV"
+msgstr "CSV ダウンロード"
+
+#: ../../inc/customize.php:409
+msgid "Restructure of all SNS count caches"
+msgstr "全 SNS カウントキャッシュの一括再構築"
+
+#: ../../inc/customize.php:427
+msgid "Setting selection"
+msgstr "設定選択"
+
+#: ../../inc/customize.php:428
+msgid "Setting items"
+msgstr "設定項目"
+
+#: ../../inc/defaults.php:764 ../../inc/defaults.php:765
+#: ../../inc/defaults.php:766
+msgid "User thumbnail"
+msgstr "ユーザーサムネイル"
+
+#: ../../inc/design-editor.php:33 ../../inc/theme-editor.php:33
+msgid "Stylesheet"
+msgstr "スタイルシート"
+
+#: ../../inc/design-editor.php:46 ../../inc/theme-editor.php:98
+msgid "You do not have sufficient permissions to edit templates for this site."
+msgstr "このサイトのテンプレートを編集する権限がありません。"
+
+#: ../../inc/design-editor.php:49 ../../inc/design-editor.php:52
+#: ../../inc/theme-editor.php:101 ../../inc/theme-editor.php:104
+msgid "The requested theme does not exist."
+msgstr "選択したテーマはありません。"
+
+#: ../../inc/design-editor.php:83
+msgid "An editable design file is not activated"
+msgstr "編集可能なデザインファイルが有効化されてません"
+
+#: ../../inc/design-editor.php:84
+msgid "Please select design."
+msgstr "デザインを選択してください。"
+
+#: ../../inc/design-editor.php:102 ../../inc/theme-editor.php:148
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr ""
+"そのようなファイルは存在しません！名前をもう一度確認して試してください。"
+
+#: ../../inc/design-upload.php:49
+msgid "Invalid file"
+msgstr "無効なファイル"
+
+#: ../../inc/design-upload.php:66
+msgid "Stylesheets were not included"
+msgstr "スタイルシートが含まれていません"
+
+#: ../../inc/design-upload.php:71
+msgid "File for customization were not included"
+msgstr "カスタマイズ用のファイルが含まれていません"
+
+#: ../../inc/design-upload.php:114
+msgid "Directory with the same name already exists."
+msgstr "同じ名前のディレクトリが既に存在しています。"
+
+#: ../../inc/design-upload.php:127
+msgid "Installation suspended because a suspicious file was found."
+msgstr "疑わしいファイルが見つかったため、インストールを中断しました。"
+
+#: ../../inc/filters.php:739 ../../languages/site/translations.php:76
+#: ../../pages/sitemap.php:39
+msgid "Pages"
+msgstr "ページ"
+
+#: ../../inc/filters.php:795
+#, php-format
+msgid "%s Tag"
+msgstr "%sタグ記事一覧"
+
+#: ../../inc/luxe-amp-mu.php:131
+#, php-format
+msgid "File deletion failed. Please remove <code>%s</code>."
+msgstr ""
+"ファイルの削除に失敗しました。以下のファイルを手動で削除してください。<br /"
+"><code>%s</code>"
+
+#: ../../inc/phrase-post.php:57
+msgid "Insert fixed phrase"
+msgstr "定型文を挿入"
+
+#: ../../inc/phrase-post.php:75 ../../inc/phrase-post.php:129
+msgid "There is no fixed phrase registered."
+msgstr "登録されている定型文がありません"
+
+#: ../../inc/phrase-post.php:170
+msgid "Text not selected."
+msgstr "テキストが選択されてませんでした"
+
+#: ../../inc/phrase-post.php:272 ../../inc/sections/phrase-regist.php:255
+#: ../../inc/sections/shortcode-regist.php:339
+msgid "Failed to read."
+msgstr "読み込みに失敗しました。"
+
+#: ../../inc/phrase-regist.php:36 ../../inc/shortcode-regist.php:56
+#, php-format
+msgid "This %s has already been registered."
+msgstr "この%sはすでに登録されています。"
+
+#: ../../inc/phrase-regist.php:36
+msgid "label"
+msgstr "ラベル"
+
+#: ../../inc/phrase-regist.php:48 ../../inc/restore.php:32
+#: ../../inc/shortcode-regist.php:122
+msgid "Could not create directory."
+msgstr "ディレクトリの作成に失敗しました。"
+
+#: ../../inc/phrase-sample.php:18 ../../inc/sections/phrase-sample.php:25
+msgid "Quote"
+msgstr "引用"
+
+#: ../../inc/phrase-sample.php:19 ../../inc/sections/phrase-sample.php:30
+msgid "Preformatted text"
+msgstr "整形済みテキスト"
+
+#: ../../inc/phrase-sample.php:22 ../../inc/sections/phrase-sample.php:45
+msgid "Heading 2"
+msgstr "見出し2"
+
+#: ../../inc/phrase-sample.php:23 ../../inc/sections/phrase-sample.php:50
+msgid "Heading 3"
+msgstr "見出し3"
+
+#: ../../inc/phrase-sample.php:24 ../../inc/sections/phrase-sample.php:55
+msgid "Heading 4"
+msgstr "見出し4"
+
+#: ../../inc/phrase-sample.php:26 ../../inc/phrase-sample.php:27
+#: ../../inc/shortcode-sample.php:21 ../../inc/shortcode-sample.php:22
+#: ../../inc/sections/phrase-luxeritas.php:34
+#: ../../inc/sections/phrase-luxeritas.php:37
+#: ../../inc/sections/phrase-luxeritas.php:42
+#: ../../inc/sections/shortcode-luxeritas.php:98
+#: ../../inc/sections/shortcode-luxeritas.php:102
+#: ../../inc/sections/shortcode-luxeritas.php:153
+msgid "Speech balloon"
+msgstr "吹き出し"
+
+#: ../../inc/post-meta-boxes.php:56
+msgid ""
+"* If you would like to add &lt;style&gt;, &lt;javascript&gt;, &lt;meta&gt;, "
+"&lt;link&gt; and other tags in the head tag in post, please write it here."
+msgstr ""
+"※ 投稿単位でheadタグ内に &lt;style&gt;、&lt;javascript&gt;、&lt;meta&gt;、"
+"&lt;link&gt; その他タグ類を追加したい場合はここに記述してください。"
+
+#: ../../inc/post-meta-boxes.php:57
+msgid ""
+"* You can change the title by describing &lt;title&gt; ~ &lt;/title&gt;."
+msgstr "※ &lt;title&gt; ~ &lt;/title&gt; を記述するとタイトルを変更できます。"
+
+#: ../../inc/post-meta-boxes.php:76
+msgid ""
+"* If you would like to change the meta description, please write it here."
+msgstr "※ 説明（meta description）を変更したい場合はここに記述してください。"
+
+#: ../../inc/post-meta-boxes.php:95
+msgid ""
+"* If there are meta keywords you want to add other than category names and "
+"tags, please write them here (comma separated)."
+msgstr ""
+"※ カテゴリ名、タグ以外に追加したいキーワード（meta keywords）がある場合はここ"
+"に記述してください（カンマ区切り）。"
+
+#: ../../inc/post-meta-boxes.php:114
+msgid ""
+"* If you would like to add CSS for AMP in post, please write it here. ( No "
+"&lt;style&gt; tag required )"
+msgstr ""
+"※ 投稿単位で AMP 用の CSS を追加したい場合はここに記述してください。  ( &lt;"
+"style&gt; タグは不要です )"
+
+#: ../../inc/post-meta-boxes.php:153 ../../inc/sections/amp.php:101
+#: ../../inc/sections/design-create.php:44 ../../inc/sections/ogp.php:71
+#: ../../inc/sections/seo.php:499 ../../inc/sections/seo.php:541
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: ../../inc/post-meta-boxes.php:182
+msgid "Additional headers"
+msgstr "追加ヘッダー"
+
+#: ../../inc/post-meta-boxes.php:187
+msgid "Change description"
+msgstr "説明の変更"
+
+#: ../../inc/post-meta-boxes.php:192
+msgid "Add keywords"
+msgstr "追加キーワード"
+
+#: ../../inc/post-meta-boxes.php:198
+msgid "Additional AMP styles"
+msgstr "追加 AMP 用スタイル"
+
+#: ../../inc/post-meta-boxes.php:207
+msgid "&quot;og:image / twitter:image&quot;"
+msgstr "&quot;og:image / twitter:image&quot; の画像"
+
+#: ../../inc/post-side-boxes.php:23
+msgid "Update method"
+msgstr "更新方法"
+
+#: ../../inc/post-side-boxes.php:44
+msgid "Normal update"
+msgstr "通常更新"
+
+#: ../../inc/post-side-boxes.php:45
+msgid "Quick fix (No change to modify date)"
+msgstr "修正のみ(更新日時を変更せず記事更新)"
+
+#: ../../inc/post-side-boxes.php:46
+msgid "Erase modify date (Publish date and modify date becomes the same)"
+msgstr "更新日時消去(公開日時と同じにする)"
+
+#: ../../inc/post-side-boxes.php:47
+msgid "Set the modify date manually"
+msgstr "更新日時を手動で変更"
+
+#: ../../inc/post-side-boxes.php:50 ../../inc/post-side-boxes.php:53
+msgid "Modified on:"
+msgstr "更新日時:"
+
+#: ../../inc/post-side-boxes.php:50
+msgid "M j, Y @ H:i"
+msgstr "Y年n月j日 H:i"
+
+#: ../../inc/post-side-boxes.php:53
+msgid "Not updated"
+msgstr "未更新"
+
+#: ../../inc/post-side-boxes.php:84 ../../inc/post-side-boxes.php:86
+msgid "Year"
+msgstr "年"
+
+#: ../../inc/post-side-boxes.php:88
+msgid "Month"
+msgstr "月"
+
+#: ../../inc/post-side-boxes.php:98 ../../inc/post-side-boxes.php:100
+msgid "Day"
+msgstr "日"
+
+#: ../../inc/post-side-boxes.php:101
+msgid "Hour"
+msgstr "時"
+
+#: ../../inc/post-side-boxes.php:104
+msgid "Minute"
+msgstr "分"
+
+#: ../../inc/post-side-boxes.php:150 ../../inc/post-side-boxes.php:151
+msgid "Search Engine Visibility"
+msgstr "検索エンジンへの指示"
+
+#: ../../inc/post-side-boxes.php:169
+msgid "Noindex tells search engines not to index."
+msgstr "インデクスしないよう指示します"
+
+#: ../../inc/post-side-boxes.php:175
+msgid "Nofollow tells search engines not to follow the links."
+msgstr "リンクをたどらないよう指示します"
+
+#: ../../inc/post-side-boxes.php:181
+msgid "Noarchive tells search engines not to store a cache."
+msgstr "キャッシュを保存しないよう指示します"
+
+#: ../../inc/post-side-boxes.php:187
+msgid "Noimageindex tells search engines not to index images on this page."
+msgstr "このページの画像を画像検索に表示しないよう指示します"
+
+#: ../../inc/post-side-boxes.php:200 ../../inc/post-side-boxes.php:201
+msgid "Disable jQuery Asynchronous"
+msgstr "jQuery 非同期解除"
+
+#: ../../inc/post-side-boxes.php:217
+msgid "Disable jQuery Asynchronous on this page"
+msgstr "このページで jQuery の非同期化を無効にする"
+
+#: ../../inc/post-side-boxes.php:232 ../../inc/post-side-boxes.php:233
+msgid "Disable AMP"
+msgstr "AMP 無効化"
+
+#: ../../inc/post-side-boxes.php:249
+msgid "Disable AMP on this page"
+msgstr "このページで AMP を無効にする"
+
+#: ../../inc/regenerate-thumbnail.php:57 ../../inc/sns-cache-all-get.php:53
+msgid "Processing started."
+msgstr "処理を開始しました。"
+
+#: ../../inc/regenerate-thumbnail.php:65 ../../inc/sns-cache-all-get.php:61
+msgid "Processing is completed"
+msgstr "処理が完了しました。"
+
+#: ../../inc/restore.php:152
+#, php-format
+msgid "Restored %s settings"
+msgstr "%s 項目の設定を復元しました"
+
+#: ../../inc/restore.php:155
+msgid "Restore failed"
+msgstr "復元に失敗しました"
+
+#: ../../inc/restore.php:159
+msgid "Not file selected"
+msgstr "ファイルが選択されていません"
+
+#: ../../inc/shortcode-post.php:56
+msgid "Insert Shortcode"
+msgstr "ショートコードを挿入"
+
+#: ../../inc/shortcode-post.php:80 ../../inc/shortcode-post.php:143
+msgid "There is no active shortcode."
+msgstr "登録されているショートコードがありません"
+
+#: ../../inc/shortcode-regist.php:32 ../../inc/shortcode-regist.php:38
+#: ../../inc/sections/shortcode-regist.php:218
+#: ../../inc/sections/shortcode-regist.php:224
+msgid "This shortcode name is not available in WordPress"
+msgstr "このショートコード名は WordPress では利用できません。"
+
+#: ../../inc/shortcode-regist.php:56
+msgid "shortcode"
+msgstr "ショートコード"
+
+#: ../../inc/shortcode-sample.php:18
+#: ../../inc/sections/shortcode-sample.php:26
+msgid "Sample that simply displays a character string"
+msgstr "単純に文字列を表示するだけのサンプル"
+
+#: ../../inc/shortcode-sample.php:19
+#: ../../inc/sections/shortcode-sample.php:30
+msgid "Sample using enclosing shortcode"
+msgstr "囲み型ショートコードを利用するサンプル"
+
+#: ../../inc/shortcode-sample.php:20
+#: ../../inc/sections/shortcode-sample.php:34
+msgid "Sample to display argument given to shortcode"
+msgstr "ショートコードに引数を与えて表示するサンプル"
+
+#: ../../inc/sns-cache.php:64
+msgid "Could not create cache file."
+msgstr "キャッシュファイルの作成に失敗しました。"
+
+#: ../../inc/sns-count-view.php:77
+msgid "Published date"
+msgstr "投稿日時"
+
+#: ../../inc/sns-count-view.php:215
+msgid "Not cached"
+msgstr "キャッシュされてません"
+
+#: ../../inc/theme-editor-script.php:70
+msgid "Svae"
+msgstr "保存"
+
+#: ../../inc/theme-editor-script.php:73
+msgid "Jump"
+msgstr "ジャンプ"
+
+#: ../../inc/theme-editor-script.php:78
+msgid "RegEx"
+msgstr "正規表現"
+
+#: ../../inc/theme-editor-script.php:84
+msgid "Replace All"
+msgstr "全て置換"
+
+#: ../../inc/theme-editor.php:34
+msgid ""
+"* Deleting the original comment may malfunction to have the theme not work "
+"as the child theme."
+msgstr ""
+"※ 元から書かれているコメント部分を削除すると子テーマとして機能しなくなるため"
+"ご注意ください。"
+
+#: ../../inc/theme-editor.php:44
+msgid ""
+"* Write here the Sytle or Javascript which wants to be placed in the head "
+"tag."
+msgstr ""
+"※ head タグ内に記述したい Style や Javascript がある場合は、ここに記述してく"
+"ださい。"
+
+#: ../../inc/theme-editor.php:49
+msgid ""
+"* Write here the Sytle or Javascript which wants to be placed in the footer."
+msgstr ""
+"※ フッターに記述したい Style や Javascript がある場合は、ここに記述してくださ"
+"い。"
+
+#: ../../inc/theme-editor.php:54
+msgid ""
+"* When inserting the tracking code in &lt;body&gt; tag, please write it here."
+msgstr ""
+"※ アクセス解析のトラッキングコードを &lt;body&gt; タグ内に挿入する場合はここ"
+"に記述してください。"
+
+#: ../../inc/theme-editor.php:55
+msgid ""
+"* Recommended to add Google Analytics code (analytics.js / ga.js) and other "
+"tracking code here."
+msgstr ""
+"※ Google Analytics (analytics.js / ga.js) 等のアクセス解析は、ここに記述する"
+"ことをお勧めします。"
+
+#: ../../inc/theme-editor.php:57
+msgid "Tracking code position"
+msgstr "トラッキングコードの挿入位置"
+
+#: ../../inc/theme-editor.php:58 ../../inc/theme-editor.php:79
+#, php-format
+msgid "Top of %s"
+msgstr "%s の最上部"
+
+#: ../../inc/theme-editor.php:59 ../../inc/theme-editor.php:80
+#, php-format
+msgid "Bottom of %s"
+msgstr "%s の最下部"
+
+#: ../../inc/theme-editor.php:65
+msgid ""
+"* When inserting the tracking code in &lt;head&gt; tag, please write it here."
+msgstr ""
+"※ アクセス解析のトラッキングコードを &lt;head&gt; タグ内に挿入する場合はここ"
+"に記述してください。"
+
+#: ../../inc/theme-editor.php:66
+msgid ""
+"* Recommended to add Google Analytics code (gtag.js) and other tracking code "
+"here."
+msgstr ""
+"※ Google Analytics (gtag.js) 等のアクセス解析は、ここに記述することをお勧めし"
+"ます。"
+
+#: ../../inc/theme-editor.php:70
+msgid "Child Theme Functions"
+msgstr "子テーマの関数"
+
+#: ../../inc/theme-editor.php:71
+msgid ""
+"* Miss writing the functions.php may lead to malfunctin of Wordpress, so be "
+"careful!!!"
+msgstr ""
+"※ functions.php を書き間違えると、WordPress そのものが動作しなくなるためご注"
+"意ください。"
+
+#: ../../inc/theme-editor.php:76
+msgid ""
+"* Please insert amp-auto-ads tag here when using Auto ads for AMP. The head "
+"tag script is unnecessary as it is automatically loaded."
+msgstr ""
+"※ AMP 自動広告を使用する際は、amp-auto-ads タグをここに挿入してください。 "
+"head タグのスクリプトは自動で読み込まれるので不要です。"
+
+#: ../../inc/theme-editor.php:78
+msgid "Insertion position"
+msgstr "挿入位置"
+
+#: ../../inc/thk-zip.php:27
+msgid "In the PHP environment you are using, ZipArchive could not be handled."
+msgstr "ご利用中の PHP 環境では ZipArchive を扱えませんでした。"
+
+#: ../../inc/thk-zip.php:40
+msgid "Temporary file creation failed."
+msgstr "一時ファイルへの書き込みに失敗しました。"
+
+#: ../../inc/thumbnail-images.php:48
+msgid "Micro thumbnail"
+msgstr "極小サムネイル"
+
+#: ../../inc/thumbnail-images.php:55
+msgid "Small thumbnail"
+msgstr "小サムネイル"
+
+#: ../../inc/thumbnail-images.php:62
+msgid "Horizontal thumbnail"
+msgstr "横長サムネイル"
+
+#: ../../inc/thumbnail-images.php:69 ../../inc/thumbnail-images.php:76
+msgid "Small size"
+msgstr "小サイズ"
+
+#: ../../inc/thumbnail-images.php:69 ../../inc/thumbnail-images.php:83
+msgid "Side bar with 336 px"
+msgstr "サイドバー336px対応"
+
+#: ../../inc/thumbnail-images.php:76 ../../inc/thumbnail-images.php:90
+msgid "Side bar with 300 px"
+msgstr "サイドバー300px対応"
+
+#: ../../inc/thumbnail-images.php:83 ../../inc/thumbnail-images.php:90
+msgid "Large size"
+msgstr "大サイズ"
+
+#: ../../inc/tinymce-before-init.php:144
+msgid "Paragraph <p>"
+msgstr "段落 <p>"
+
+#: ../../inc/tinymce-before-init.php:145
+msgid "Block <div>"
+msgstr "ブロック <div>"
+
+#: ../../inc/tinymce-before-init.php:146
+msgid "Heading 2 <h2>"
+msgstr "見出し2 <h2>"
+
+#: ../../inc/tinymce-before-init.php:147
+msgid "Heading 3 <h3>"
+msgstr "見出し3 <h3>"
+
+#: ../../inc/tinymce-before-init.php:148
+msgid "Heading 4 <h4>"
+msgstr "見出し4 <h4>"
+
+#: ../../inc/tinymce-before-init.php:149
+msgid "Heading 5 <h5>"
+msgstr "見出し5 <h5>"
+
+#: ../../inc/tinymce-before-init.php:150
+msgid "Heading 6 <h6>"
+msgstr "見出し6 <h6>"
+
+#: ../../inc/tinymce-before-init.php:151
+msgid "Blockquote <blockquote>"
+msgstr "引用 <blockquote>"
+
+#: ../../inc/tinymce-before-init.php:152
+msgid "Preformatted <pre>"
+msgstr "整形済みテキスト <pre>"
+
+#: ../../inc/tinymce-before-init.php:153
+msgid "Address <address>"
+msgstr "連絡先・問合せ先 <address>"
+
+#: ../../inc/tinymce-before-init.php:161
+msgid "Sans-serif"
+msgstr "Sans-serif (ゴシック)"
+
+#: ../../inc/tinymce-before-init.php:162
+msgid "serif"
+msgstr "serif (明朝)"
+
+#: ../../inc/tinymce-before-init.php:163
+msgid "Monospaced font"
+msgstr "等幅フォント"
+
+#: ../../inc/tinymce-before-init.php:164
+msgid "Yu Gothic"
+msgstr "游ゴシック"
+
+#: ../../inc/tinymce-before-init.php:165
+msgid "Yu Mincho"
+msgstr "游明朝"
+
+#: ../../inc/tinymce-settings.php:37
+msgid "* These settings will be activated after reloading the screen."
+msgstr "※ これらの設定は画面のリロード後に反映されます。"
+
+#: ../../inc/tinymce-settings.php:41 ../../inc/sections/balloon-css.php:73
+msgid "Max width"
+msgstr "最大幅"
+
+#: ../../inc/tinymce-settings.php:42 ../../inc/sections/balloon-css.php:74
+msgid "When input is 0, 100%"
+msgstr "0 で 100%"
+
+#: ../../inc/tinymce-settings.php:53
+msgid "Behavior of enter key"
+msgstr "エンターキーの動作"
+
+#: ../../inc/tinymce-settings.php:62 ../../inc/tinymce-settings.php:75
+msgid "Newline"
+msgstr "改行"
+
+#: ../../inc/tinymce-settings.php:85
+msgid "Show Menu bar"
+msgstr "メニューバーを表示"
+
+#: ../../inc/tinymce-settings.php:89
+msgid "Auto reload after saving"
+msgstr "保存後に自動リロード"
+
+#: ../../inc/widget.php:23 ../../inc/widget.php:24 ../../inc/widget.php:31
+#: ../../inc/widget.php:49 ../../inc/widget.php:53
+#: ../../inc/sections/widget-css.php:40
+#: ../../languages/site/translations.php:55
+msgid "QR Code"
+msgstr "QR コード"
+
+#: ../../inc/widget.php:24 ../../inc/widget.php:69 ../../inc/widget.php:198
+#: ../../inc/widget.php:323 ../../inc/widget.php:577 ../../inc/widget.php:630
+#: ../../inc/widget.php:963 ../../inc/widget.php:1319
+#: ../../inc/sections/widget-css.php:35 ../../inc/sections/widget-css.php:36
+#: ../../inc/sections/widget-css.php:37 ../../inc/sections/widget-css.php:40
+msgid "by Luxeritas"
+msgstr "Luxeritas オリジナル"
+
+#: ../../inc/widget.php:55 ../../inc/widget.php:182 ../../inc/widget.php:305
+#: ../../inc/widget.php:526 ../../inc/widget.php:608 ../../inc/widget.php:886
+#: ../../inc/widget.php:1186 ../../inc/widget.php:1361
+#: ../../languages/site/translations.php:56
+msgid "Title:"
+msgstr "タイトル:"
+
+#: ../../inc/widget.php:56
+msgid "Size of QR Code"
+msgstr "QR コードのサイズ"
+
+#: ../../inc/widget.php:68 ../../inc/widget.php:69
+#: ../../inc/sections/widget-css.php:37
+#: ../../languages/site/translations.php:57
+msgid "Recent Comments"
+msgstr "最近のコメント"
+
+#: ../../inc/widget.php:116 ../../languages/site/translations.php:61
+msgid "Anonymous"
+msgstr "匿名"
+
+#: ../../inc/widget.php:125 ../../inc/widget.php:128
+#: ../../languages/site/translations.php:58
+#, php-format
+msgid "%s&apos; website"
+msgstr "%sのウェブサイト"
+
+#: ../../inc/widget.php:148 ../../languages/site/translations.php:59
+msgid "Post of this comment"
+msgstr "このコメントの投稿"
+
+#: ../../inc/widget.php:179 ../../languages/site/translations.php:60
+msgid "The latest comments to all posts"
+msgstr "最近のコメント"
+
+#: ../../inc/widget.php:184
+msgid "Number of comments to show:"
+msgstr "表示するコメント数:"
+
+#: ../../inc/widget.php:197 ../../inc/widget.php:198 ../../inc/widget.php:270
+#: ../../inc/widget.php:301 ../../inc/sections/widget-css.php:35
+#: ../../languages/site/translations.php:62
+msgid "Recent posts"
+msgstr "新着記事"
+
+#: ../../inc/widget.php:281 ../../languages/site/translations.php:63
+msgid "No new posts"
+msgstr "新しい投稿はありません"
+
+#: ../../inc/widget.php:307
+msgid "Number of posts to show:"
+msgstr "表示する記事数"
+
+#: ../../inc/widget.php:310
+msgid "No Thumbnail"
+msgstr "サムネイル非表示"
+
+#: ../../inc/widget.php:322 ../../inc/widget.php:323
+msgid "SNS Follow Button"
+msgstr "SNS フォローボタン"
+
+#: ../../inc/widget.php:463 ../../languages/site/translations.php:64
+msgid "Follow me!"
+msgstr "フォローする"
+
+#: ../../inc/widget.php:529
+msgid "Button appearance:"
+msgstr "ボタンの外観:"
+
+#: ../../inc/widget.php:576 ../../inc/widget.php:577
+msgid "RSS / Feedly Button"
+msgstr "RSS / Feedly 購読ボタン"
+
+#: ../../inc/widget.php:606 ../../languages/site/translations.php:65
+msgid "Subscribe to this blog"
+msgstr "このブログを購読"
+
+#: ../../inc/widget.php:627
+msgid ""
+"It&#x27;s mainly for adsense, but you can write whatever you like text, HTML "
+"etc."
+msgstr "主にアドセンス用だけど、テキスト・HTML 等、なんでも書けます。"
+
+#: ../../inc/widget.php:628
+msgid ""
+"This widget can be switched between &quot;show / hide&quot; on the specified "
+"page."
+msgstr "このウィジェットは指定したページで表示・非表示を切り替えられます。"
+
+#: ../../inc/widget.php:630 ../../inc/sections/widget-css.php:36
+msgid "Adsense Widget"
+msgstr "アドセンス"
+
+#: ../../inc/widget.php:634
+msgid "Preview page"
+msgstr "投稿・編集プレビュー"
+
+#: ../../inc/widget.php:635
+msgid "Customize preview page"
+msgstr "カスタマイズプレビュー"
+
+#: ../../inc/widget.php:636
+msgid "404 Not Found page"
+msgstr "404 Not Found ページ"
+
+#: ../../inc/widget.php:637 ../../inc/sections/pagination.php:74
+#: ../../inc/sections/widget-area.php:33 ../../inc/sections/widget-area.php:55
+#: ../../inc/sections/widget-body.php:41 ../../inc/sections/widget-body.php:63
+msgid "Search result page"
+msgstr "検索結果ページ"
+
+#: ../../inc/widget.php:643 ../../inc/widget.php:978
+msgid "Specified page"
+msgstr "指定ページ"
+
+#: ../../inc/widget.php:643 ../../inc/widget.php:978
+msgid "Specify post IDs separated by commas or line feeds"
+msgstr "投稿ID をカンマ区切りまたは改行区切りで指定"
+
+#: ../../inc/widget.php:658 ../../inc/widget.php:660
+msgid "Dual Ad horizon"
+msgstr "広告２つ横並び"
+
+#: ../../inc/widget.php:659 ../../inc/widget.php:661
+msgid "Dual Ad vertical"
+msgstr "広告２つ縦並び"
+
+#: ../../inc/widget.php:665 ../../inc/widget.php:739
+#: ../../languages/site/translations.php:3
+msgid "Sponsored Links"
+msgstr "スポンサーリンク"
+
+#: ../../inc/widget.php:666 ../../inc/widget.php:736
+#: ../../languages/site/translations.php:4
+msgid "Advertisement"
+msgstr "広告"
+
+#: ../../inc/widget.php:888
+msgid "Content:"
+msgstr "内容:"
+
+#: ../../inc/widget.php:890
+msgid "* Google Adsense please paste responsive ads."
+msgstr ""
+"※ 自動的にサイズ調整をするため、広告サイズに関わらず Google Adsense はレスポ"
+"ンシブ広告を貼ってください。"
+
+#: ../../inc/widget.php:893
+msgid "Adsense Size"
+msgstr "広告サイズ"
+
+#: ../../inc/widget.php:909 ../../inc/sections/phrase-regist.php:49
+#: ../../inc/sections/phrase-regist.php:65
+#: ../../inc/sections/phrase-regist.php:105
+#: ../../inc/sections/shortcode-regist.php:84
+#: ../../inc/sections/shortcode-regist.php:141
+msgid "Label"
+msgstr "ラベル"
+
+#: ../../inc/widget.php:919
+msgid "Center the label"
+msgstr "ラベル中央寄せ"
+
+#: ../../inc/widget.php:922
+msgid "Structured data"
+msgstr "構造化データ"
+
+#: ../../inc/widget.php:924
+msgid "Add structured data representing advertisements"
+msgstr "広告を表す構造化データを付与する"
+
+#: ../../inc/widget.php:926
+msgid "Surrounded by &lt;aside&gt; tag"
+msgstr "&lt;aside&gt; タグで囲む"
+
+#: ../../inc/widget.php:929
+msgid "Pages not to display this widget:"
+msgstr "このウィジェットを表示しないページ :"
+
+#: ../../inc/widget.php:961
+msgid "High feature carousel slider. This widget is not displayed in AMP."
+msgstr ""
+"高機能なカルーセルスライダーです。 このウィジェットは AMP では表示されませ"
+"ん。"
+
+#: ../../inc/widget.php:963
+msgid "Carousel Slider"
+msgstr "カルーセルスライダー"
+
+#: ../../inc/widget.php:974
+msgid "Latest list of categories to belong"
+msgstr "属するカテゴリの最新一覧"
+
+#: ../../inc/widget.php:975
+msgid "Latest list of tags to belong"
+msgstr "属するタグの最新一覧"
+
+#: ../../inc/widget.php:976
+msgid "Latest list of all posts"
+msgstr "全投稿の最新一覧"
+
+#: ../../inc/widget.php:977
+msgid "Latest list of static pages"
+msgstr "固定ページの最新一覧"
+
+#: ../../inc/widget.php:997
+msgid "Bullets"
+msgstr "バレット"
+
+#: ../../inc/widget.php:998
+msgid "Fraction"
+msgstr "ページ数"
+
+#: ../../inc/widget.php:999
+msgid "Progress bar"
+msgstr "プログレスバー"
+
+#: ../../inc/widget.php:1003
+msgid "Always display"
+msgstr "常に表示"
+
+#: ../../inc/widget.php:1004
+msgid "Displayed only when mouse hover"
+msgstr "マウスホバー時のみ表示"
+
+#: ../../inc/widget.php:1008
+msgid "3D animation"
+msgstr "立体アニメーション"
+
+#: ../../inc/widget.php:1009
+msgid "Rotate on mouse over"
+msgstr "マウスオーバー時に回転"
+
+#: ../../inc/widget.php:1010
+msgid "Display active slide a little larger"
+msgstr "アクティブなスライドを少し大きめに表示"
+
+#: ../../inc/widget.php:1013
+msgid "Display the displayed post in the center"
+msgstr "表示している投稿を中央に表示"
+
+#: ../../inc/widget.php:1014
+msgid "Display the latest post in the center"
+msgstr "最新の投稿を中央に表示"
+
+#: ../../inc/widget.php:1015
+msgid "Display in order of posting date / time"
+msgstr "投稿日時順に表示"
+
+#: ../../inc/widget.php:1188
+msgid "Page display this widget"
+msgstr "このウィジェットを表示するページ"
+
+#: ../../inc/widget.php:1198
+msgid "Item type and number of display items"
+msgstr "アイテムの種類と表示件数"
+
+#: ../../inc/widget.php:1210
+msgid ""
+" : Maximum display number ( * a number smaller than the number of items )"
+msgstr " : 最大表示件数 ( * アイテム数未満の数字)"
+
+#: ../../inc/widget.php:1213
+msgid " : Maximum number of items"
+msgstr " : 最大アイテム数"
+
+#: ../../inc/widget.php:1228
+msgid "Automatic width"
+msgstr "横幅自動"
+
+#: ../../inc/widget.php:1230
+msgid "Stretch the image to full-width"
+msgstr "スライドの幅いっぱいに広げる"
+
+#: ../../inc/widget.php:1232
+msgid "Height"
+msgstr "高さ"
+
+#: ../../inc/widget.php:1235
+msgid "Automatic height"
+msgstr "高さ自動"
+
+#: ../../inc/widget.php:1235
+msgid "It will be the height of the largest thumbnail size"
+msgstr "最も大きいサムネイルの高さに合わせる"
+
+#: ../../inc/widget.php:1237
+msgid "Stretch the image to full height"
+msgstr "スライドの高さいっぱいに広げる"
+
+#: ../../inc/widget.php:1239
+msgid "Fixed height"
+msgstr "高さ固定"
+
+#: ../../inc/widget.php:1241
+msgid "Margin color"
+msgstr "余白の色"
+
+#: ../../inc/widget.php:1245
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: ../../inc/widget.php:1268
+msgid "Efects"
+msgstr "エフェクト・効果"
+
+#: ../../inc/widget.php:1280
+msgid "Display non-active slides dark"
+msgstr "非アクティブなスライドを暗めに表示する"
+
+#: ../../inc/widget.php:1283
+msgid "Options"
+msgstr "オプション"
+
+#: ../../inc/widget.php:1294
+msgid "Autoplay"
+msgstr "自動再生"
+
+#: ../../inc/widget.php:1295
+msgid "sec"
+msgstr "秒"
+
+#: ../../inc/widget.php:1298
+msgid "Display post title "
+msgstr "記事タイトル表示"
+
+#: ../../inc/widget.php:1301
+msgid "Disable Lazy Load"
+msgstr "Lazy Load 無効化 (画像の高さ自動・固定で縦横比が崩れる場合)"
+
+#: ../../inc/widget.php:1317
+msgid "Insert table of contents."
+msgstr "目次を挿入します。"
+
+#: ../../inc/widget.php:1363
+msgid ""
+"The setting of this widget is in &quot;Table of Contents&quot; of appearance "
+"customization."
+msgstr "このウィジェットの設定は外観カスタマイズの「目次」の項目にあります。"
+
+#: ../../inc/widget.php:1365
+msgid "Hide widgets when there is no item"
+msgstr "項目が無いときはウィジェット非表示"
+
+#: ../../inc/widget.php:1490 ../../inc/widget.php:1499
+msgid "General-purpose sidebar"
+msgstr "汎用サイドバー"
+
+#: ../../inc/widget.php:1490 ../../inc/widget.php:1499
+#: ../../inc/widget.php:1508 ../../inc/widget.php:1517
+#: ../../inc/widget.php:1526 ../../inc/widget.php:1535
+#: ../../inc/widget.php:1760 ../../inc/widget.php:1769
+#, php-format
+msgid "title %s type"
+msgstr "タイトル%sタイプ"
+
+#: ../../inc/widget.php:1491 ../../inc/widget.php:1500
+#: ../../inc/widget.php:1509 ../../inc/widget.php:1518
+#: ../../inc/widget.php:1527 ../../inc/widget.php:1536
+#: ../../inc/widget.php:1761 ../../inc/widget.php:1770
+#, php-format
+msgid "If you want the title to have %s tag."
+msgstr "レイアウト上、タイトルを %s タグにしたい場合"
+
+#: ../../inc/widget.php:1508 ../../inc/widget.php:1517
+msgid "Front page sidebar"
+msgstr "トップページ用サイドバー"
+
+#: ../../inc/widget.php:1509 ../../inc/widget.php:1518
+msgid "Front page dedicated."
+msgstr "トップページ専用。"
+
+#: ../../inc/widget.php:1526 ../../inc/widget.php:1535
+msgid "Other than the front page sidebar"
+msgstr "トップ以外のサイドバー"
+
+#: ../../inc/widget.php:1527 ../../inc/widget.php:1536
+msgid "Pages other than the front page."
+msgstr "トップページ以外のページ。"
+
+#: ../../inc/widget.php:1544
+msgid "Scroll follow sidebar (H4 type)"
+msgstr "スクロール追従サイドバー (H4タイプ)"
+
+#: ../../inc/widget.php:1545
+msgid "Widget to follow the scroll. The title is only h4."
+msgstr "スクロールに追従するウィジェット。タイトルは h4 のみ。"
+
+#: ../../inc/widget.php:1553
+msgid "AMP sidebar (H4 type)"
+msgstr "AMP 用サイドバー (H4タイプ)"
+
+#: ../../inc/widget.php:1554
+msgid "AMP dedicated. The title is only h4."
+msgstr "AMP 専用。タイトルは h4 のみ。"
+
+#: ../../inc/widget.php:1562 ../../inc/widget.php:1571
+msgid "Under Header Widget"
+msgstr "ヘッダー下ウィジェット"
+
+#: ../../inc/widget.php:1563 ../../inc/widget.php:1572
+msgid "Place the widget just below the header."
+msgstr "ヘッダーの直下にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1571 ../../inc/widget.php:1589
+#: ../../inc/widget.php:1607 ../../inc/widget.php:1625
+#: ../../inc/widget.php:1643 ../../inc/widget.php:1661
+#: ../../inc/widget.php:1733 ../../inc/widget.php:1751
+msgid "for AMP"
+msgstr "AMP 用"
+
+#: ../../inc/widget.php:1580 ../../inc/widget.php:1589
+msgid "Above Post Title Widget"
+msgstr "記事タイトル上ウィジェット"
+
+#: ../../inc/widget.php:1581 ../../inc/widget.php:1590
+msgid "Place the widget above the post title."
+msgstr "記事タイトル上にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1598 ../../inc/widget.php:1607
+msgid "Under Post Title Widget"
+msgstr "記事タイトル下ウィジェット"
+
+#: ../../inc/widget.php:1599 ../../inc/widget.php:1608
+msgid "Place the widget under the post title."
+msgstr "記事タイトル下にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1616 ../../inc/widget.php:1625
+msgid "Above the first H2 tag in the post"
+msgstr "投稿内で最初に見つかった H2 タグ の上"
+
+#: ../../inc/widget.php:1617 ../../inc/widget.php:1626
+msgid "Place the widget above first H2 tag in the post."
+msgstr "投稿内で一番最初に見つかった H2 タグ の上にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1634 ../../inc/widget.php:1643
+msgid "Above Related Posts Widget"
+msgstr "関連記事上ウィジェット"
+
+#: ../../inc/widget.php:1635 ../../inc/widget.php:1644
+msgid "Place the widget above the related posts."
+msgstr "関連記事上にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1652 ../../inc/widget.php:1661
+msgid "Under Related Posts Widget"
+msgstr "関連記事下ウィジェット"
+
+#: ../../inc/widget.php:1653 ../../inc/widget.php:1662
+msgid "Place the widget under the related posts."
+msgstr "関連記事下にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1670
+msgid "Above Posts List Widget"
+msgstr "記事一覧上ウィジェット"
+
+#: ../../inc/widget.php:1671
+msgid "Place the widget above the posts list."
+msgstr "記事一覧の一番上にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1679
+msgid "Middle of Posts List Widget"
+msgstr "記事一覧中央ウィジェット"
+
+#: ../../inc/widget.php:1680
+msgid "Place the widget middle of the posts list."
+msgstr "記事一覧の中央部にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1688
+msgid "Under Posts List Widget"
+msgstr "記事一覧下ウィジェット"
+
+#: ../../inc/widget.php:1689
+msgid "Place the widget under the posts list."
+msgstr "記事一覧の一番下にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1697
+msgid "Footer left"
+msgstr "フッター左"
+
+#: ../../inc/widget.php:1697 ../../inc/widget.php:1706
+#: ../../inc/widget.php:1715
+msgid "Title H4"
+msgstr "タイトル H4"
+
+#: ../../inc/widget.php:1698 ../../inc/widget.php:1707
+#: ../../inc/widget.php:1716
+msgid "When the sidebar is offscreen, it will be not shown."
+msgstr "サイドバーが画面下にある時は非表示になります。"
+
+#: ../../inc/widget.php:1706
+msgid "Footer center"
+msgstr "フッター中央"
+
+#: ../../inc/widget.php:1715
+msgid "Footer right"
+msgstr "フッター右"
+
+#: ../../inc/widget.php:1724 ../../inc/widget.php:1733
+msgid "Under Post Widget"
+msgstr "記事下ウィジェット"
+
+#: ../../inc/widget.php:1725 ../../inc/widget.php:1734
+msgid "Place the widget under the post."
+msgstr "記事下にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1742 ../../inc/widget.php:1751
+msgid "Further below &quot;Under Post Widget&quot;"
+msgstr "記事下ウィジェットよりさらに下"
+
+#: ../../inc/widget.php:1743 ../../inc/widget.php:1752
+msgid "Place the widget further below &quot;Under Post Widget&quot;."
+msgstr "記事下ウィジェットよりもさらに下にウィジェットを配置します。"
+
+#: ../../inc/widget.php:1760 ../../inc/widget.php:1769
+msgid "3 Column Left Sidebar"
+msgstr "3カラム左サイドバー"
+
+#: ../../inc/wpfunc.php:1143 ../../inc/wpfunc.php:1146
+#: ../../inc/wpfunc.php:1207 ../../languages/site/translations.php:74
+msgid "Could not delete cache directory."
+msgstr "キャッシュディレクトリの削除に失敗しました。"
+
+#: ../../inc/sections/all_clear.php:21
+msgid "RESET all the customizations"
+msgstr "カスタマイズ内容のオールクリア"
+
+#: ../../inc/sections/all_clear.php:22
+msgid "* This will reset all customizations of luxe."
+msgstr "Luxeritas のカスタマイズ内容を全てリセットします。"
+
+#: ../../inc/sections/amp.php:23 ../../inc/sections/pwa.php:36
+#, php-format
+msgid "Enable %s"
+msgstr "%s 有効化"
+
+#: ../../inc/sections/amp.php:29
+msgid "Do not show comment list"
+msgstr "コメント一覧を表示しない"
+
+#: ../../inc/sections/amp.php:33
+msgid "Plug-in to be activated with AMP"
+msgstr "AMP で有効化するプラグイン"
+
+#: ../../inc/sections/amp.php:34
+msgid ""
+"* If you activate a plugin that inserts elements forbidden by AMP, an AMP "
+"error occurs."
+msgstr ""
+"※ AMPで禁止されている要素を挿入するプラグインをアクティブにすると AMP エラー"
+"が発生します。"
+
+#: ../../inc/sections/amp.php:35
+msgid ""
+"* It is not necessary to activate the plugin which is necessary only in the "
+"management screen."
+msgstr "※ 管理画面だけで必要になるプラグインは有効化する必要はありません。"
+
+#: ../../inc/sections/amp.php:71
+msgid "AMP Logo image"
+msgstr "AMP 用ロゴ画像"
+
+#: ../../inc/sections/amp.php:74
+msgid "Same as the site logo"
+msgstr "サイトロゴと同じ"
+
+#: ../../inc/sections/amp.php:78
+msgid "Set the AMP logo separately"
+msgstr "AMP ロゴを別に設定する"
+
+#: ../../inc/sections/backup-appearance.php:24
+msgid ""
+"* Will only back up customized data for the appearance design. (Image, "
+"various ID etc excluded)"
+msgstr ""
+"※ 外観カスタマイズの内容だけをバックアップします。 (画像や各種 ID 等は除く)"
+
+#: ../../inc/sections/backup-appearance.php:25
+#: ../../inc/sections/backup-child.php:25 ../../inc/sections/backup.php:25
+#, php-format
+msgid "* File will be saved in %s format."
+msgstr "※ ファイルは %s 形式で保存されます。"
+
+#: ../../inc/sections/backup-appearance.php:28
+#: ../../inc/sections/design-select.php:37
+msgid "Appearance Backup"
+msgstr "外観のバックアップ"
+
+#: ../../inc/sections/backup-appearance.php:41
+msgid ""
+"* Will restore Luxeritas appearance customized setting from JSON backed up "
+"file."
+msgstr ""
+"※ 保存した JSON ファイルから Luxeritas の外観カスタマイズを復元します。"
+
+#: ../../inc/sections/backup-appearance.php:42
+#: ../../inc/sections/backup-appearance.php:47
+#: ../../inc/sections/design-select.php:47
+#: ../../inc/sections/design-select.php:52
+msgid "Appearance Restore"
+msgstr "外観のリストア (復元)"
+
+#: ../../inc/sections/backup-child.php:24
+msgid "* Will create backup file of child theme."
+msgstr "※ 子テーマのバックアップを作成します。"
+
+#: ../../inc/sections/backup-child.php:26
+msgid "* If the filename contains multibyte characters, it may be skipped."
+msgstr ""
+"※ ファイル名にマルチバイト文字が含まれている場合は、スキップされることがあり"
+"ます。"
+
+#: ../../inc/sections/backup.php:24
+msgid "* Will create the back up for all the Luxeritas customized data."
+msgstr "※ Luxeritas のカスタマイズ内容をバックアップします。"
+
+#: ../../inc/sections/backup.php:28
+msgid "All Backup"
+msgstr "全てバックアップ"
+
+#: ../../inc/sections/backup.php:41
+msgid "* Will restore Luxeritas customized setting from JSON backed up file."
+msgstr ""
+"※ 保存した JSON ファイルから Luxeritas のカスタマイズ内容を復元します。"
+
+#: ../../inc/sections/backup.php:42
+msgid "All Restore"
+msgstr "全てリストア (復元)"
+
+#: ../../inc/sections/balloon-css.php:31
+msgid "Load CSS for speech balloon"
+msgstr "吹き出し用の CSS を読み込む"
+
+#: ../../inc/sections/balloon-css.php:31
+msgid "If speech balloon shortcode is registered, it will be sure to loaded."
+msgstr "吹き出しショートコードが登録されている場合は必ず読み込まれます。"
+
+#: ../../inc/sections/balloon-css.php:43 ../../inc/sections/balloon-css.php:62
+msgid "Border"
+msgstr "枠線"
+
+#: ../../inc/sections/balloon-css.php:49 ../../inc/sections/balloon-css.php:68
+msgid "Shadow"
+msgstr "影"
+
+#: ../../inc/sections/blogcard-cache-cleanup.php:21
+msgid "Clear all Blog Card cache"
+msgstr "ブログカードキャッシュのオールクリア"
+
+#: ../../inc/sections/blogcard-cache-cleanup.php:22
+msgid ""
+"* This will delete the whole cache directory including cache expiration time "
+"infomation."
+msgstr "※ キャッシュを有効期限の情報も含めてディレクトリごと完全に削除します。"
+
+#: ../../inc/sections/blogcard-cache-cleanup.php:26
+msgid "Clear only the cache expiration time information of Blog Card"
+msgstr "ブログカードのキャッシュ有効期限の削除"
+
+#: ../../inc/sections/blogcard-cache-cleanup.php:27
+msgid "* This will delete only the cache expiration time information."
+msgstr "※ キャッシュの有効期限の情報だけを削除します。"
+
+#: ../../inc/sections/bootstrap.php:20
+msgid "How to load bootstrap.js"
+msgstr "bootstrap.js の読み込み方法"
+
+#: ../../inc/sections/bootstrap.php:22 ../../inc/sections/bootstrap.php:23
+#: ../../inc/sections/bootstrap.php:24 ../../inc/sections/fontawesome.php:23
+msgid "Asynchronous"
+msgstr "非同期"
+
+#: ../../inc/sections/bootstrap.php:25 ../../inc/sections/fontawesome.php:22
+msgid "Synchronism"
+msgstr "同期"
+
+#: ../../inc/sections/bootstrap.php:26 ../../inc/sections/css-to-style.php:32
+#: ../../inc/sections/fontawesome.php:24
+#: ../../inc/sections/optimize-script.php:26
+#: ../../inc/sections/speedup-items.php:43
+#: ../../inc/sections/speedup-items.php:55
+msgid "Not required (no load)"
+msgstr "必要ない (読み込まない)"
+
+#: ../../inc/sections/bootstrap.php:28
+msgid "* It is necessary only when using Bootstrap components, plugins, etc."
+msgstr ""
+"※ Bootstrap のコンポーネントやプラグイン等を利用する場合にのみ必要となりま"
+"す。"
+
+#: ../../inc/sections/bootstrap.php:29
+msgid ""
+"* Even if Bootstrap mode is selected, bootstrap.js is not always necessary."
+msgstr ""
+"※ Bootstrap モードを選択していても、必ずしも bootstrap.js が必要とは限りませ"
+"ん。"
+
+#: ../../inc/sections/captcha.php:20
+msgid "Image authentication type for comments"
+msgstr "コメント画像認証の種類"
+
+#: ../../inc/sections/captcha.php:23 ../../inc/sections/captcha.php:27
+#, php-format
+msgid "Enable Google reCAPTCHA %s"
+msgstr "Google reCAPTCHA %s による画像認証を使用する"
+
+#: ../../inc/sections/captcha.php:31
+msgid "Enable Securimage PHP CAPTCHA"
+msgstr "Securimage PHP CAPTCHA による画像認証を使用する"
+
+#: ../../inc/sections/captcha.php:35
+msgid "Do not use image authentication"
+msgstr "画像認証を使わない"
+
+#: ../../inc/sections/child-css.php:21
+msgid "Load the child theme CSS"
+msgstr "子テーマの CSS を読み込む"
+
+#: ../../inc/sections/copyright.php:20
+msgid "Web site start year"
+msgstr "Web サイトの開始年"
+
+#: ../../inc/sections/copyright.php:24
+msgid "Author name"
+msgstr "著者名"
+
+#: ../../inc/sections/copyright.php:28
+msgid "Format"
+msgstr "書式"
+
+#: ../../inc/sections/copyright.php:67 ../../inc/sections/copyright.php:71
+msgid "Free Format"
+msgstr "自由書式"
+
+#: ../../inc/sections/css-to-style.php:20
+msgid "Theme&apos;s CSS"
+msgstr "テーマの CSS"
+
+#: ../../inc/sections/css-to-style.php:23
+#: ../../inc/sections/speedup-items.php:50
+msgid "Include theme&apos;s CSS in HTML"
+msgstr "テーマの CSS を HTML に埋め込む"
+
+#: ../../inc/sections/css-to-style.php:23
+msgid "Accelerate"
+msgstr "高速化"
+
+#: ../../inc/sections/css-to-style.php:25
+msgid ""
+"* It will include the style.css code directly in the HTML file. You can "
+"reduce HTTP requests."
+msgstr ""
+"※ style.css の内容を直接  HTML に埋め込んで出力します。HTTP リクエスト回数を"
+"削減できます。"
+
+#: ../../inc/sections/css-to-style.php:26
+msgid ""
+"* Since the CSS will not be cached in the browser, if you have many visitors "
+"circulating within your site, it may end up counterproductive."
+msgstr ""
+"※ CSS がブラウザキャッシュされないため、閲覧者のページ遷移回数が多い 時は、逆"
+"効果になる場合もあります。"
+
+#: ../../inc/sections/css-to-style.php:29
+#: ../../inc/sections/speedup-items.php:52
+msgid "CSS for WordPress block library"
+msgstr "WordPress のブロックライブラリ用 CSS"
+
+#: ../../inc/sections/css-to-style.php:31
+#: ../../inc/sections/speedup-items.php:54
+msgid "Include CSS in HTML"
+msgstr "CSS を HTML に埋め込む"
+
+#: ../../inc/sections/css-to-style.php:33
+#: ../../inc/sections/speedup-items.php:56
+msgid "Leave initial setting of WordPress"
+msgstr "WordPress の初期設定のまま"
+
+#: ../../inc/sections/design-create.php:25
+msgid "Create a design file based on the following contents."
+msgstr "以下の内容をベースにデザインファイルを作成します。"
+
+#: ../../inc/sections/design-create.php:27
+msgid "Customize (Appearance) settings (Image, various ID etc excluded)"
+msgstr "外観カスタマイズの設定内容 (画像や各種 ID 等は除く)"
+
+#: ../../inc/sections/design-create.php:28
+msgid "Stylesheet of currently selected design file"
+msgstr "現在、選択中のデザインファイルのスタイルシート"
+
+#: ../../inc/sections/design-create.php:29
+msgid "Child theme&apos;s stylesheet"
+msgstr "子テーマのスタイルシート"
+
+#: ../../inc/sections/design-create.php:31
+msgid ""
+"* Images set in &quot;Customize (Appearance)&quot; are copied to the images "
+"directory, but they are not applicable in the style sheet. If necessary, "
+"please append later."
+msgstr ""
+"※ 外観カスタマイズで設定されている画像は images ディレクトリにコピーされます"
+"がスタイルシートには反映されません。必要な場合は後から追記してください。"
+
+#: ../../inc/sections/design-create.php:32
+msgid ""
+"* In order to use this feature, the server must be compatible with "
+"ZipArchive."
+msgstr ""
+"※ 本機能を使用するには、サーバーが ZipArchive に対応している必要があります。"
+
+#: ../../inc/sections/design-create.php:33
+msgid "Design file name"
+msgstr "デザインファイル名"
+
+#: ../../inc/sections/design-create.php:34
+msgid ""
+"* 20 characters or less. The characters that can be used are alphanumeric "
+"and - (hyphen) and _ (underscore)."
+msgstr ""
+"※ 20文字以内。使用できる文字は英数字、- (ハイフン)、_ (アンダースコア)です "
+"(全て半角)。"
+
+#: ../../inc/sections/design-create.php:38
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+#: ../../inc/sections/design-create.php:39
+msgid ""
+"* Aspect ratio 4: 3 recommended ( e.g. 600 x 450 px, 720 x 540 px, 800 x 600 "
+"px, 1200 x 900 px )"
+msgstr "※ 縦横比 4:3 推奨 ( 例: 600x450px、720x540px、800x600px、1200x900px )"
+
+#: ../../inc/sections/design-select.php:25
+#: ../../inc/sections/phrase-regist.php:24
+#: ../../inc/sections/shortcode-regist.php:24
+msgid "Add New"
+msgstr "新規追加"
+
+#: ../../inc/sections/design-select.php:70
+msgid ""
+"(Caution) Settings of appearance customization will be rewritten to the "
+"value specified in the design file. (Image, various ID etc excluded)"
+msgstr ""
+"(注意) 外観カスタマイズの設定内容がデザインファイル内で指定された値に書き換わ"
+"ります。 (画像や各種 ID 等は除く)"
+
+#: ../../inc/sections/design-select.php:71
+msgid "Recommend that you backup appearance customization before changing."
+msgstr "外観カスタマイズのバックアップを取っておくことをお勧めします。"
+
+#: ../../inc/sections/design-select.php:136
+#: ../../inc/sections/design-select.php:190
+#: ../../inc/sections/phrase-regist.php:83
+#: ../../inc/sections/shortcode-regist.php:108
+#: ../../inc/sections/shortcode-regist.php:118
+msgid "Delete"
+msgstr "削除"
+
+#: ../../inc/sections/design-select.php:153
+msgid "Initialization of appearance"
+msgstr "外観の初期化"
+
+#: ../../inc/sections/design-select.php:160
+#: ../../inc/sections/design-select.php:185
+#: ../../inc/sections/shortcode-regist.php:85
+#: ../../inc/sections/shortcode-regist.php:112
+#: ../../inc/sections/shortcode-regist.php:176
+msgid "Activate"
+msgstr "有効化"
+
+#: ../../inc/sections/design-select.php:198
+msgid "Rewrite the setting of appearance customization. Is it OK?"
+msgstr "外観カスタマイズの設定内容を書き換えます。よろしいですか？"
+
+#: ../../inc/sections/design-select.php:204
+msgid "You are about to delete the design file. Is it OK?"
+msgstr "デザインファイルを削除ししようとしています。よろしいですか？"
+
+#: ../../inc/sections/design-select.php:210
+msgid "Reset stylesheet of the design file.. Is it OK?"
+msgstr "デザインファイルのスタイルシートをリセットします。よろしいですか？"
+
+#: ../../inc/sections/editor-t-settings.php:108
+msgid ""
+"* You can set display / non-display of button with drag &amp; drop. ( Sort "
+"is not possible )"
+msgstr ""
+"※ ドラッグ & ドロップでボタンの表示・非表示を設定できます ( 並び替え不可 )。"
+
+#: ../../inc/sections/editor-t-settings.php:120
+#: ../../inc/sections/editor-v-settings.php:221
+msgid "Trash can"
+msgstr "ごみ箱"
+
+#: ../../inc/sections/editor-t-settings.php:132
+#: ../../inc/sections/editor-v-settings.php:234
+msgid "Saved"
+msgstr "保存しました"
+
+#: ../../inc/sections/editor-t-settings.php:136
+#: ../../inc/sections/editor-v-settings.php:238
+msgid "Restore initial settings"
+msgstr "初期設定に戻す"
+
+#: ../../inc/sections/editor-v-settings.php:194
+msgid "* You can set display / hide / sort of buttons by drag & drop."
+msgstr "※ ドラッグ & ドロップでボタンの表示・非表示・並び替えを設定できます。"
+
+#: ../../inc/sections/fontawesome.php:20
+msgid "How to load CSS ( Font Awesome )"
+msgstr "CSS ( Font Awesome ) の読み込み方法"
+
+#: ../../inc/sections/fontawesome.php:22
+msgid "No delays in icon font"
+msgstr "アイコンフォントが遅延しない"
+
+#: ../../inc/sections/fontawesome.php:23
+msgid "High rendering speed"
+msgstr "レンダリング高速"
+
+#: ../../inc/sections/fontawesome.php:26
+msgid "* Usually, icon font is required."
+msgstr "※ 通常、アイコンフォントは必須です。"
+
+#: ../../inc/sections/fontawesome.php:26
+msgid "Please select the &quot;synchronous&quot; or &quot;asynchronous&quot;."
+msgstr "「同期」もしくは「非同期」を選択してください。"
+
+#: ../../inc/sections/fontawesome.php:42
+msgid "Size of CSS"
+msgstr "CSS の構成"
+
+#: ../../inc/sections/fontawesome.php:45
+msgid "Minimum CSS required by Luxeritas"
+msgstr "Luxeritas で必要最小限の CSS のみ"
+
+#: ../../inc/sections/fontawesome.php:49
+msgid "Font Awesome Original CSS"
+msgstr "Font Awesome オリジナルの CSS"
+
+#: ../../inc/sections/fontawesome.php:54
+msgid "How to load font file"
+msgstr "Font Awesome のフォントファイル本体の読み込み方法"
+
+#: ../../inc/sections/fontawesome.php:61
+msgid "Local"
+msgstr "ローカル"
+
+#: ../../inc/sections/htaccess.php:30
+msgid ""
+"By adding the below lines on your .htaccess, it will enable Gzip compression "
+"and browser cache and will boost rendering speed."
+msgstr ""
+".htaccess に以下を追記するとで、Gzip 圧縮とブラウザキャッシュを有効にし、ペー"
+"ジの表示を高速化します。"
+
+#: ../../inc/sections/htaccess.php:31
+msgid ""
+"<span class=\"bold\">Do not overwrite/replace with your .htaccess, but ADD "
+"these lines !</span>"
+msgstr ""
+".htaccess に以下の記述を <span class=\"bold\">&quot;追記&quot;</span> してく"
+"ださい <span class=\"bold\">(上書きは不可)</span>"
+
+#: ../../inc/sections/jquery.php:20 ../../inc/sections/speedup-items.php:61
+msgid "How to load jQuery"
+msgstr "jQuery の読み込み方法"
+
+#: ../../inc/sections/jquery.php:22 ../../inc/sections/speedup-items.php:63
+msgid "Stable"
+msgstr "安定"
+
+#: ../../inc/sections/jquery.php:23 ../../inc/sections/jquery.php:24
+#: ../../inc/sections/jquery.php:26 ../../inc/sections/speedup-items.php:64
+#: ../../inc/sections/speedup-items.php:65
+#: ../../inc/sections/speedup-items.php:67
+msgid "High speed"
+msgstr "高速"
+
+#: ../../inc/sections/jquery.php:23 ../../inc/sections/jquery.php:24
+#: ../../inc/sections/speedup-items.php:64
+#: ../../inc/sections/speedup-items.php:65
+msgid "Not supported before IE8"
+msgstr "IE8以下未対応"
+
+#: ../../inc/sections/jquery.php:25 ../../inc/sections/jquery.php:26
+#: ../../inc/sections/speedup-items.php:66
+#: ../../inc/sections/speedup-items.php:67
+msgid "WordPress Built In jQuery"
+msgstr "WordPress 内蔵 jQuery"
+
+#: ../../inc/sections/jquery.php:25 ../../inc/sections/speedup-items.php:66
+msgid "Most stable"
+msgstr "最安定"
+
+#: ../../inc/sections/jquery.php:25 ../../inc/sections/speedup-items.php:66
+msgid "Default behavior of WordPress."
+msgstr "WordPress のデフォルト"
+
+#: ../../inc/sections/jquery.php:26 ../../inc/sections/speedup-items.php:67
+msgid "Combine jQuery and Luxeritas's script"
+msgstr "jQuery と Luxeritas 関連スクリプトを全て結合する"
+
+#: ../../inc/sections/jquery.php:26 ../../inc/sections/speedup-items.php:67
+msgid "More stable"
+msgstr "高安定"
+
+#: ../../inc/sections/jquery.php:27 ../../inc/sections/speedup-items.php:68
+msgid "Not load jQuery"
+msgstr "jQuery を読み込まない"
+
+#: ../../inc/sections/jquery.php:29
+msgid "* JQuery loading from CDN is not designed to avoid conflicts."
+msgstr "※ CDN から読み込んだ JQuery は、競合を回避する設計にはなっていません。"
+
+#: ../../inc/sections/jquery.php:33
+msgid "Load jQuery-Migrate"
+msgstr "jQuery-Migrate を読み込む"
+
+#: ../../inc/sections/jquery.php:34
+msgid "* Older plugins that have not been updated may require jQuery-Migrate."
+msgstr ""
+"※ 更新されてない古いプラグインは jQuery-Migrate を必要とするかもしれません。"
+
+#: ../../inc/sections/jquery.php:38 ../../inc/sections/speedup-items.php:73
+msgid ""
+"Make jQuery asynchronous ( It will boost speed, be careful when using this. )"
+msgstr "jQuery を非同期にする ( 高速化するが注意が必要 )"
+
+#: ../../inc/sections/jquery.php:39
+msgid ""
+"* When you are combining jQuery and other scripts, Will add &quot;"
+"async&quot; property for jQuery and add &quot;defer&quot; property for "
+"external script plugin files."
+msgstr ""
+"※ jQuery と他のスクリプトを結合してる場合は、jQuery に async 属性を付与し、そ"
+"の他、プラグインで読み込む外部スクリプトの全てに defer 属性を付与します。"
+
+#: ../../inc/sections/jquery.php:40
+msgid ""
+"* Otherwise, Will add &quot;defer&quot; property for jQuery and external "
+"script plugin files. ( &quot;async&quot; property will not be added )"
+msgstr ""
+"※ それ以外の時は、jQuery と、その他プラグインで読み込む外部スクリプトの全て"
+"に defer 属性を付与します ( async 属性は付与しません )。"
+
+#: ../../inc/sections/jquery.php:41 ../../inc/sections/speedup-items.php:74
+msgid "Please do not check if you do not have knowledge."
+msgstr "知識のない方はチェックを付けないでください。"
+
+#: ../../inc/sections/jquery.php:41 ../../inc/sections/speedup-items.php:74
+msgid "Some plugin may not work correctly when this option is enabled."
+msgstr "一部のプラグインは正常に動作しなくなるかもしれません。"
+
+#: ../../inc/sections/mode-select.php:20
+msgid ""
+"* Both has the same design layout but Luxeritas mode is faster and lighter.  "
+"Bootstrap mode should be chosen if you want to use the functions or classes "
+"of Bootstrap."
+msgstr ""
+"見た目は同じですが、Luxeritas モードは高速・軽量です。Bootstrap の機能やクラ"
+"スを使いたい場合は Bootstrap モードを選択してください。"
+
+#: ../../inc/sections/ogp-jetpack.php:23
+msgid "Disable Jetpack&apos;s OGP"
+msgstr "Jetpack の OGP を無効化する"
+
+#: ../../inc/sections/ogp.php:23 ../../inc/sections/ogp.php:39
+#: ../../inc/sections/seo.php:23 ../../inc/sections/seo.php:29
+#: ../../inc/sections/seo.php:35 ../../inc/sections/seo.php:41
+#, php-format
+msgid "Add %s"
+msgstr "%sを追加"
+
+#: ../../inc/sections/ogp.php:28
+msgid "Depreciated: Unnecessary if app_id exists"
+msgstr "非推奨 app_id あれば不要"
+
+#: ../../inc/sections/ogp.php:32
+msgid "Recommended"
+msgstr "推奨"
+
+#: ../../inc/sections/ogp.php:36 ../../inc/sections/ogp.php:39
+#: ../../inc/sections/ogp.php:43
+msgid "Twitter Card"
+msgstr "Twitter カード"
+
+#: ../../inc/sections/ogp.php:43
+#, php-format
+msgid "Type of %s"
+msgstr "%sのタイプ"
+
+#: ../../inc/sections/ogp.php:45
+msgid "summary"
+msgstr "サマリー (summary)"
+
+#: ../../inc/sections/ogp.php:46
+msgid "summary_large_image"
+msgstr "サマリー (summary_large_image)"
+
+#: ../../inc/sections/ogp.php:50
+msgid "No need"
+msgstr "不要"
+
+#: ../../inc/sections/ogp.php:54
+msgid "default og:image"
+msgstr "デフォルト og:image "
+
+#: ../../inc/sections/ogp.php:55
+msgid ""
+"* When og:image is not set in the post, the default image set here will be "
+"applied."
+msgstr ""
+"※ 投稿に og:image が設定されていない場合に、ここで設定したデフォルト画像が適"
+"用されます。"
+
+#: ../../inc/sections/ogp.php:84
+msgid "* The above image is a reduced version."
+msgstr "※ 上記画像は縮小版を表示しています。"
+
+#: ../../inc/sections/optimize-css.php:20
+#: ../../inc/sections/speedup-items.php:31
+msgid "CSS compression of child theme"
+msgstr "子テーマの CSS 圧縮"
+
+#: ../../inc/sections/optimize-css.php:21
+msgid ""
+"* If other than &quot;do not compress&quot; is selected, it will compress "
+"&amp; combine and create a file named style.min.css."
+msgstr ""
+"※ 「圧縮しない」以外が選択されている場合は、子テーマの CSS が圧縮・結合され、"
+"style.min.css というファイル名で保存されます。"
+
+#: ../../inc/sections/optimize-css.php:22
+msgid ""
+"* If other than &quot;do not compress&quot; is selected, it will load the "
+"style.min.css."
+msgstr ""
+"※ 「圧縮しない」以外が選択されている場合は、自動的に style.min.css を読み込む"
+"ようになります。"
+
+#: ../../inc/sections/optimize-css.php:23
+msgid ""
+"* If you merged with Parent Theme, it will no longer load Parent Theme CSS."
+msgstr ""
+"※ 親テーマと結合した場合、自動的に親テーマの CSS は読み込まれなくなります。"
+
+#: ../../inc/sections/optimize-css.php:24
+msgid "* CSS of parent theme will always be compressed."
+msgstr "※ 親テーマの CSS は常に圧縮されます。"
+
+#: ../../inc/sections/optimize-css.php:26
+#: ../../inc/sections/optimize-html.php:23
+#: ../../inc/sections/optimize-script.php:24
+#: ../../inc/sections/speedup-items.php:25
+#: ../../inc/sections/speedup-items.php:33
+#: ../../inc/sections/speedup-items.php:41
+msgid "Do not compress"
+msgstr "圧縮しない"
+
+#: ../../inc/sections/optimize-css.php:27
+#: ../../inc/sections/speedup-items.php:34
+msgid "Compress only the child theme CSS"
+msgstr "子テーマの CSS を圧縮する"
+
+#: ../../inc/sections/optimize-css.php:28
+#: ../../inc/sections/speedup-items.php:35
+msgid "Compression after combining CSS of parent and child"
+msgstr "親と子の CSS を結合して圧縮する"
+
+#: ../../inc/sections/optimize-html.php:20
+#: ../../inc/sections/speedup-items.php:23
+msgid "Compression ratio of HTML"
+msgstr "HTML の圧縮率"
+
+#: ../../inc/sections/optimize-html.php:21
+msgid ""
+"* &quot;Compression rate high&quot;, is the compression level which is still "
+"readable, and will not compress to the limit."
+msgstr ""
+"※ 「圧縮率・高」でも、可読性のある圧縮レベルです。極限までは圧縮しません。"
+
+#: ../../inc/sections/optimize-html.php:24
+#: ../../inc/sections/speedup-items.php:26
+msgid "Compression rate low"
+msgstr "圧縮率・低"
+
+#: ../../inc/sections/optimize-html.php:25
+#: ../../inc/sections/speedup-items.php:27
+msgid "Compression rate high"
+msgstr "圧縮率・高"
+
+#: ../../inc/sections/optimize-script.php:20
+#: ../../inc/sections/speedup-items.php:39
+msgid "Javascript compression of child theme"
+msgstr "子テーマの Javascript 圧縮"
+
+#: ../../inc/sections/optimize-script.php:21
+msgid ""
+"* It will compress the file luxech.js in the child theme folder and create a "
+"new file of luxech.min.js."
+msgstr ""
+"※ 子テーマフォルダにある luxech.js が圧縮され、luxech.min.js という名前で保存"
+"されます。"
+
+#: ../../inc/sections/optimize-script.php:22
+msgid ""
+"* If you select the &quot;compress&quot;, it will automatically load the "
+"luxech.min.js."
+msgstr ""
+"※ 「圧縮する」が選択されている場合は、自動的に luxech.min.js を読み込むように"
+"なります。"
+
+#: ../../inc/sections/optimize-script.php:25
+msgid "Compress (you can also compress with combined additional files)"
+msgstr "圧縮する（追加ファイルも結合して圧縮できます）"
+
+#: ../../inc/sections/optimize-script.php:30
+msgid "Additional Javascript file names to combine &amp; compress"
+msgstr "追加して圧縮・結合する Javascript ファイル名"
+
+#: ../../inc/sections/optimize-script.php:31
+msgid ""
+"* In addition to luxech.js, it can be combine and compress any three files "
+"directly under the child theme folder."
+msgstr ""
+"※ luxech.js 以外に、子テーマフォルダ直下のファイルを3つまで追加して圧縮・結合"
+"できます。"
+
+#: ../../inc/sections/optimize-script.php:32
+msgid ""
+"* The extension must be &quot;.js&quot;  (Please do not input the extension "
+"in the below boxes)."
+msgstr "※ 拡張子は「.js」固定です (拡張子は記入しないでください)"
+
+#: ../../inc/sections/others.php:21
+msgid "404 Not Found Page"
+msgstr "404 Not Found ページ"
+
+#: ../../inc/sections/others.php:26
+msgid "Default"
+msgstr "デフォルト"
+
+#: ../../inc/sections/others.php:35
+msgid "Site display settings"
+msgstr "サイトの表示設定"
+
+#: ../../inc/sections/others.php:38 ../../inc/sections/speedup-items.php:116
+msgid "To enable the sequential output of buffering"
+msgstr "バッファリングの逐次出力を有効にする"
+
+#: ../../inc/sections/others.php:40
+msgid "* It will improve the speed if you check this."
+msgstr "※ チェックを付けると体感速度が向上します。"
+
+#: ../../inc/sections/others.php:41 ../../inc/sections/speedup-items.php:118
+msgid "* If you use cache related plugins, it may conflict one another."
+msgstr ""
+"※ キャッシュ系プラグインを使用してる場合は正常に動作しなくなる場合がありま"
+"す。"
+
+#: ../../inc/sections/others.php:44
+msgid "Add the role attribute for a barrier-free"
+msgstr "バリアフリーのための role 属性を追加"
+
+#: ../../inc/sections/others.php:51
+msgid "Remove hentry class"
+msgstr "hentry クラスを除去する"
+
+#: ../../inc/sections/others.php:53
+msgid ""
+"* Checking this will avoid getting hetnry errors from Google Webmasters even "
+"if you have the post dates, update dates, and author information not "
+"displayed."
+msgstr ""
+"※ チェックを付けると、「投稿日時」「更新日時」「author(投稿者名)」を非表示に"
+"しても Google Webmasters で hentry エラーが出なくなります。"
+
+#: ../../inc/sections/others.php:56
+msgid "Allow multi byte characters for slugs"
+msgstr "マルチバイト文字 (日本語など) のスラッグを許可する"
+
+#: ../../inc/sections/others.php:56
+msgid "Not recommended"
+msgstr "非推奨"
+
+#: ../../inc/sections/others.php:64 ../../inc/sections/speedup-items.php:105
+msgid "Disable Jetpack&apos;s Lazy Load"
+msgstr "Jetpack の Lazy Load を無効化する"
+
+#: ../../inc/sections/others.php:85
+msgid "Media"
+msgstr "メディア"
+
+#: ../../inc/sections/others.php:88
+msgid ""
+"Enable automatic entry of alternative text (ALT attribute) on media screen"
+msgstr "メディア画面で代替テキスト ( ALT 属性 ) の自動入力を有効にする"
+
+#: ../../inc/sections/others.php:93
+msgid "Prevent automatic conversion to link"
+msgstr "リンクへの自動変換防止"
+
+#: ../../inc/sections/others.php:96
+msgid "Prevent detected phone numbers turning into links."
+msgstr "電話番号が自動でリンクに変換されるのを防ぐ。"
+
+#: ../../inc/sections/others.php:96 ../../inc/sections/others.php:100
+#: ../../inc/sections/others.php:104
+#, php-format
+msgid "Mainly %s"
+msgstr "主に%s"
+
+#: ../../inc/sections/others.php:96 ../../inc/sections/others.php:100
+#: ../../inc/sections/others.php:104
+msgid "Smartphone"
+msgstr "スマホ"
+
+#: ../../inc/sections/others.php:100
+msgid "Prevent detected email address turning into links."
+msgstr "メールアドレスが自動でリンクに変換されるのを防ぐ。"
+
+#: ../../inc/sections/others.php:104
+msgid "Prevent detected address turning into links."
+msgstr "住所が自動でリンクに変換されるのを防ぐ。"
+
+#: ../../inc/sections/others.php:108
+msgid "Prevent URLs written in comments turning into links."
+msgstr "コメントに書かれた URL が自動でリンクに変換されるのを防ぐ。"
+
+#: ../../inc/sections/others.php:114
+msgid ""
+"* If you choose NO, the older version of Androids will be able to have "
+"sticky menus.  But it will  <span style=\"font-weight:bold\">disalllow zoom "
+"function on smartphones</span>."
+msgstr ""
+"※ no に設定すると古い Android 等でも、グローバルナビやヘッダー上部の帯メ"
+"ニューを固定できます。ただし、スマホの<span style=\"font-weight:bold\">ズーム"
+"機能は使えなくなります</span>。"
+
+#: ../../inc/sections/others.php:126
+#, php-format
+msgid "Setting for %s"
+msgstr "%sの設定"
+
+#: ../../inc/sections/others.php:126
+msgid "design purpose"
+msgstr "デザイン用"
+
+#: ../../inc/sections/others.php:129
+msgid ""
+"Place the number of posts inside the &lt;a&gt; tag in the category widget"
+msgstr "カテゴリウィジェットの投稿数を a タグの内側にする"
+
+#: ../../inc/sections/others.php:136
+msgid ""
+"Place the number of posts inside the &lt;a&gt; tag in the archive widget"
+msgstr "アーカイブウィジェットの投稿数を a タグの内側にする"
+
+#: ../../inc/sections/others.php:143
+msgid "Non-compression for Parent Theme (for debugging)"
+msgstr "親テーマ CSS 非圧縮 (デバッグ用)"
+
+#: ../../inc/sections/others.php:148
+msgid "Measures to be taken when the widget cannot be saved"
+msgstr "ウィジェットの保存ができない場合の対策"
+
+#: ../../inc/sections/others.php:149
+msgid "* It may be worth a try if you can not save with WAF or plug-ins."
+msgstr "※ WAF やプラグインのせいで保存できない場合に試してみる価値はあるかも"
+
+#: ../../inc/sections/others.php:152
+msgid ""
+"Measures to be taken when the widget save button cannot be saved by spinning "
+"around."
+msgstr "ウィジェット保存ボタンがクルクル回ってセーブできない場合の対策"
+
+#: ../../inc/sections/pagination.php:20
+msgid "Reading Settings"
+msgstr "表示設定"
+
+#: ../../inc/sections/pagination.php:35 ../../inc/sections/pagination.php:52
+#: ../../inc/sections/pagination.php:69 ../../inc/sections/pagination.php:86
+msgid "posts"
+msgstr "件"
+
+#: ../../inc/sections/phrase-luxeritas.php:35
+msgid ""
+"* After registration, please rewrite URL and Caption of the image from the "
+"fixed phrase edit screen as necessary."
+msgstr ""
+"※ 登録後、必要に応じて定型文の編集画面から画像の URL とキャプションを書き換え"
+"て下さい。"
+
+#: ../../inc/sections/phrase-luxeritas.php:47
+#: ../../inc/sections/shortcode-luxeritas.php:202
+msgid "CSS settings for speech balloon"
+msgstr "吹き出し用の CSS 設定"
+
+#: ../../inc/sections/phrase-luxeritas.php:48
+msgid "* This item is CSS settings for speech balloon shortcode and shared."
+msgstr "※ この項目はショートコードの吹き出し用 CSS との共有項目です。"
+
+#: ../../inc/sections/phrase-regist.php:25
+#: ../../inc/sections/shortcode-regist.php:25
+msgid "Import"
+msgstr "インポート"
+
+#: ../../inc/sections/phrase-regist.php:49
+#: ../../inc/sections/shortcode-regist.php:60
+#, php-format
+msgid "* %s names with the same name can not be registered."
+msgstr "※ 同じ名前の%s名は登録できません。"
+
+#: ../../inc/sections/phrase-regist.php:66
+#: ../../inc/sections/phrase-regist.php:118
+msgid "Enclosing"
+msgstr "囲み型"
+
+#: ../../inc/sections/phrase-regist.php:80
+#: ../../inc/sections/shortcode-regist.php:88
+#: ../../inc/sections/shortcode-regist.php:115
+#: ../../inc/sections/shortcode-regist.php:167
+msgid "Enclose"
+msgstr "囲み型"
+
+#: ../../inc/sections/phrase-regist.php:82
+#: ../../inc/sections/shortcode-regist.php:107
+#: ../../inc/sections/shortcode-regist.php:117
+msgid "Edit"
+msgstr "編集"
+
+#: ../../inc/sections/phrase-regist.php:84
+#: ../../inc/sections/shortcode-regist.php:109
+#: ../../inc/sections/shortcode-regist.php:119
+msgid "Export"
+msgstr "エクスポート"
+
+#: ../../inc/sections/phrase-regist.php:99
+msgid "Fixed phrase Edit"
+msgstr "定型文編集"
+
+#: ../../inc/sections/phrase-regist.php:105
+#: ../../inc/sections/shortcode-regist.php:145
+msgid "required"
+msgstr "必須"
+
+#: ../../inc/sections/phrase-regist.php:158
+msgid "Required items are not entered"
+msgstr "必須項目が入力されていません。"
+
+#: ../../inc/sections/phrase-regist.php:185
+#: ../../inc/sections/shortcode-regist.php:252
+msgid "You are about to delete the selected item. Is it OK?"
+msgstr "選択された項目を削除しようとしています。よろしいですか？"
+
+#: ../../inc/sections/phrase-sample.php:64
+#: ../../inc/sections/shortcode-sample.php:40
+msgid "Please edit contents after registration."
+msgstr "登録後、中身を編集してください"
+
+#: ../../inc/sections/pwa-manifest.php:23
+msgid "Even if PWA is invalid, create and load manifest"
+msgstr "PWA が無効でもマニフェストファイルを作成して読み込む"
+
+#: ../../inc/sections/pwa-manifest.php:27
+msgid "Start Page"
+msgstr "スタートページ"
+
+#: ../../inc/sections/pwa-manifest.php:32 ../../inc/sections/pwa.php:67
+msgid "Top Page"
+msgstr "トップページ"
+
+#: ../../inc/sections/pwa-manifest.php:38
+msgid "* It is the first page displayed when the application is launched."
+msgstr "※ アプリケーション登録後の起動時に最初に表示されるページです。"
+
+#: ../../inc/sections/pwa-manifest.php:41
+msgid "Application name"
+msgstr "アプリケーション名"
+
+#: ../../inc/sections/pwa-manifest.php:45
+msgid "Application short name"
+msgstr "短いアプリケーション名"
+
+#: ../../inc/sections/pwa-manifest.php:47
+msgid ""
+"* <code class=\"normal-family\">12 characters or less</code>. Used when "
+"there is insufficient space to display the full name of the application."
+msgstr ""
+"※ <code class=\"normal-family\">12 文字以内推奨</code>。アプリケーション名を"
+"表示するためのスペースが不足している場合に使用される名前です。"
+
+#: ../../inc/sections/pwa-manifest.php:50
+msgid "Description"
+msgstr "説明"
+
+#: ../../inc/sections/pwa-manifest.php:54
+msgid "Application and Splash screen icon"
+msgstr "アイコン"
+
+#: ../../inc/sections/pwa-manifest.php:55
+msgid "Please set from &quot;Site icon&quot; of appearance customization."
+msgstr "外観カスタマイズの「サイトアイコン」から設定してください。"
+
+#: ../../inc/sections/pwa-manifest.php:58
+msgid "Display mode"
+msgstr "画面表示モード"
+
+#: ../../inc/sections/pwa-manifest.php:60
+msgid "No UI"
+msgstr "ユーザーインターフェースなし"
+
+#: ../../inc/sections/pwa-manifest.php:61
+msgid "Minimal UI"
+msgstr "最小限のユーザーインターフェース"
+
+#: ../../inc/sections/pwa-manifest.php:62
+msgid "Same UI as browser"
+msgstr "ブラウザと同じユーザーインターフェース"
+
+#: ../../inc/sections/pwa-manifest.php:66
+msgid "Orientation of screen"
+msgstr "画面の向き"
+
+#: ../../inc/sections/pwa-manifest.php:68
+msgid "Allow rotation"
+msgstr "回転を許可"
+
+#: ../../inc/sections/pwa-manifest.php:69
+msgid "Fixed in portrait"
+msgstr "縦向きに固定"
+
+#: ../../inc/sections/pwa-manifest.php:70
+msgid "Fixed in landscape"
+msgstr "横向きに固定"
+
+#: ../../inc/sections/pwa-theme.php:32
+msgid "* Set the color of mobile browser."
+msgstr "※ モバイル用ブラウザの色を設定します。"
+
+#: ../../inc/sections/pwa-theme.php:36
+msgid "Theme color"
+msgstr "テーマの色"
+
+#: ../../inc/sections/pwa.php:26
+msgid "Your website is not served over SSL"
+msgstr "SSL サイトの条件を満たしていません"
+
+#: ../../inc/sections/pwa.php:29
+msgid "Your website is served over SSL"
+msgstr "SSL サイトの条件を満たしています"
+
+#: ../../inc/sections/pwa.php:38
+msgid ""
+"* When checked, users will be able to appear and operate your site like web "
+"application on mobile device."
+msgstr ""
+"※ このチェックボックスをオンにすると、モバイル上でサイトを Web アプリケーショ"
+"ンのように表示・操作できるようになります。"
+
+#: ../../inc/sections/pwa.php:43
+msgid "Enable PWA only for access from mobile device"
+msgstr "モバイルからのアクセス時のみ PWA を有効にする"
+
+#: ../../inc/sections/pwa.php:45
+msgid "* If cache plugin is installed, it may not behavior properly."
+msgstr ""
+"※ キャッシュ系プラグインが導入されていると、正常に動作しない可能性がありま"
+"す。"
+
+#: ../../inc/sections/pwa.php:48
+msgid "Offline Page"
+msgstr "オフラインページ"
+
+#: ../../inc/sections/pwa.php:51
+msgid "Allow browsing offline by caching"
+msgstr "キャッシュによるオフラインでの閲覧を許可する"
+
+#: ../../inc/sections/pwa.php:57
+msgid "Display application install button"
+msgstr "アプリケーションのインストールボタンを表示する"
+
+#: ../../inc/sections/pwa.php:59
+msgid ""
+"* In order to display installation button, display mode must be &quot;"
+"minimal-ui&quot; or &quot;standalone&quot;."
+msgstr ""
+"※ インストールボタンを表示するには、画面表示モードが「minimal-ui」もしくは"
+"「standalone」である必要があります。"
+
+#: ../../inc/sections/pwa.php:60
+msgid ""
+"* Installation button is automatically displayed under certain conditions "
+"such as user&apos;s visit frequency. ( The condition depends on browser "
+"specs )"
+msgstr ""
+"※ インストールボタンはユーザーの訪問回数などの一定条件下で自動的に表示されま"
+"す。（条件はブラウザの仕様によって異なります）"
+
+#: ../../inc/sections/pwa.php:73
+msgid ""
+"* Offline page is displayed when the device is offline and the requested "
+"page is not already cached."
+msgstr ""
+"※ オフライン時に要求されたページがまだキャッシュされていない場合に表示する"
+"ページです。"
+
+#: ../../inc/sections/pwa.php:74
+msgid ""
+"* Please check <code class=\"normal-family\">&quot;Include theme&apos;s CSS "
+"in HTML&quot;</code> in CSS setting to display page with CSS applied in "
+"cache."
+msgstr ""
+"※ CSS を適用したページをキャッシュで 表示するにため、CSS 設定で<code class="
+"\"normal-family\">「外部 CSS の直接出力」</code>にチェックを付けてください。"
+
+#: ../../inc/sections/recaptcha.php:26
+msgid ""
+"* To use Google reCAPCHA, you will need Site Key and Secrect Key. Please go "
+"to <a href=\"https://www.google.com/recaptcha\" target=\"_blank\">Google "
+"reCAPTCHA</a> page and get yours."
+msgstr ""
+"※ Goolge reCHAPTCHA を使用するには、Site key と Secret key が必要になります。"
+"<a href=\"https://www.google.com/recaptcha\" target=\"_blank\">Google "
+"reCAPTCHA</a> ページの 「Get reCAPTCHA」 からキーを取得してください。"
+
+#: ../../inc/sections/recaptcha.php:27
+msgid ""
+"* It might take some time till you are abel to use the feature after getting "
+"your keys."
+msgstr ""
+"※ キーを取得してから、実際に使用できるまで少し時間がかかる場合があります。"
+
+#: ../../inc/sections/recaptcha.php:31
+msgid "Position of reCAPTCHA button and Page Top button"
+msgstr "reCAPTCHA ボタンと Page Top ボタンの位置関係"
+
+#: ../../inc/sections/recaptcha.php:34
+msgid "Slide the Page Top button to the left"
+msgstr "Page Top ボタンを左にずらす"
+
+#: ../../inc/sections/recaptcha.php:35
+msgid "Slide the Page Top button up"
+msgstr "Page Top ボタンを上にずらす"
+
+#: ../../inc/sections/recaptcha.php:37
+msgid "* Hiding the reCAPTCHA button (Privacy &amp; Terms) violates the terms."
+msgstr ""
+"※ reCAPTCHA ボタン (プライバシー・利用規約) を非表示にすると reCAPTCHA の規約"
+"違反になります。"
+
+#: ../../inc/sections/recaptcha.php:41
+msgid "Theme"
+msgstr "テーマ"
+
+#: ../../inc/sections/recaptcha.php:43
+msgid "light"
+msgstr "ライト"
+
+#: ../../inc/sections/recaptcha.php:44
+msgid "dark"
+msgstr "ダーク"
+
+#: ../../inc/sections/recaptcha.php:48
+msgid "Size"
+msgstr "サイズ"
+
+#: ../../inc/sections/recaptcha.php:50
+msgid "normal"
+msgstr "ノーマル"
+
+#: ../../inc/sections/recaptcha.php:51
+msgid "compact"
+msgstr "コンパクト"
+
+#: ../../inc/sections/recaptcha.php:55
+msgid "Type of authentication"
+msgstr "認証タイプ"
+
+#: ../../inc/sections/recaptcha.php:57
+msgid "image"
+msgstr "画像"
+
+#: ../../inc/sections/recaptcha.php:58
+msgid "audio"
+msgstr "音声"
+
+#: ../../inc/sections/regenerate-thumbnail.php:25
+msgid "* Regenerate all thumbnails being used."
+msgstr "※ 使用されている全てのサムネイルを再作成します。"
+
+#: ../../inc/sections/regenerate-thumbnail.php:26
+msgid ""
+"* Processing takes time. Please do not move to another page during "
+"processing."
+msgstr "※ 処理に時間がかかります。処理中は他のページへ移動しないでください。"
+
+#: ../../inc/sections/regenerate-thumbnail.php:27
+#: ../../inc/sections/sns-cache-all-get.php:26
+msgid ""
+"* Do not use this function consecutively because this function is burdens "
+"the server."
+msgstr "※ サーバーに負荷がかかるため、連続で使用することは避けてください。"
+
+#: ../../inc/sections/regenerate-thumbnail.php:30
+msgid "Regenerate started"
+msgstr "再作成開始"
+
+#: ../../inc/sections/regenerate-thumbnail.php:33
+#: ../../inc/sections/sns-cache-all-get.php:33
+msgid "Stop"
+msgstr "停止"
+
+#: ../../inc/sections/regenerate-thumbnail.php:36
+msgid ""
+"Delete thumbnails that are not checked in &quot;Thumbnail Management&quot;"
+msgstr ""
+"「サムネイル管理」でチェックのついてないサムネイル画像は削除しながら処理する"
+
+#: ../../inc/sections/regenerate-thumbnail.php:55
+#: ../../inc/sections/sns-cache-all-get.php:44
+msgid "Count"
+msgstr "件数"
+
+#: ../../inc/sections/script.php:23
+msgid "Do not load javascript of child theme ( luxech.js )"
+msgstr "子テーマの Javascript ( luxech.js ) を読み込まない"
+
+#: ../../inc/sections/script.php:25
+msgid ""
+"* If you are not going to customly add anything on the luxech.js, enabling "
+"this will streamline the page resource."
+msgstr ""
+"※ luxech.js に何も記述しないなら、チェックを付けた方が無駄がなくなります。"
+
+#: ../../inc/sections/script.php:30
+msgid "Adapt to HTML5 for IE8 or lower"
+msgstr "IE8 以下で HTML5 に対応させる ( 遅い )"
+
+#: ../../inc/sections/script.php:36
+msgid "Adapt to responsive for IE8 or lower"
+msgstr "IE8 以下でレスポンシブに対応させる ( 遅い )"
+
+#: ../../inc/sections/script.php:42
+msgid "Do not load the emoji script for WordPress"
+msgstr "WordPress の絵文字用スクリプトを読み込まないようにする"
+
+#: ../../inc/sections/script.php:44
+msgid "* If you do not use emoji, not loading it will make things faster !"
+msgstr "※ 絵文字を使わないなら読み込まない方が無駄がなくなります。"
+
+#: ../../inc/sections/script.php:49
+msgid "Turn OFF the WordPress Embed function"
+msgstr "WordPress の Embed 機能を OFF にする"
+
+#: ../../inc/sections/script.php:51
+msgid ""
+"* If you do not use emded functions, this will also make things faster !"
+msgstr "※ Embed を使わないなら OFF にした方が無駄がなくなります。"
+
+#: ../../inc/sections/search.php:20
+msgid "Layout of search result"
+msgstr "検索結果の表示方法"
+
+#: ../../inc/sections/search.php:23
+msgid "Show excerpt based on word matching"
+msgstr "検索でマッチした語句を中心に、その前後の文章を抜粋する"
+
+#: ../../inc/sections/search.php:27
+msgid "Show normal excerpts"
+msgstr "通常の抜粋を表示する"
+
+#: ../../inc/sections/search.php:32
+msgid "Number of letters when #1 is chosen"
+msgstr "1 を選択した時の抜粋文字数"
+
+#: ../../inc/sections/search.php:33
+msgid ""
+"When #2 is chosen, the number of letters set in &quot;Customizing "
+"(Appearance)  -&gt; Style Details&quot; will apply."
+msgstr ""
+"2 を選択した場合は、「外観カスタマイズ -&gt; 細部の見た目」で設定した文字数に"
+"なります。"
+
+#: ../../inc/sections/search.php:36
+msgid "Two-byte and One-byte character distinction"
+msgstr "半角・全角・ひらがな・カタカナの区別"
+
+#: ../../inc/sections/search.php:39
+msgid "Apply the WordPress&apos;s MySQL / Maria DB setting"
+msgstr "WordPress で使用している MySQL / MariaDB の設定に従う"
+
+#: ../../inc/sections/search.php:43
+msgid "Do not distinguish Two/One-Byte and search"
+msgstr "半角・全角・ひらがな・カタカナを区別せず広範囲に検索する"
+
+#: ../../inc/sections/search.php:47
+msgid "Distinguish Two/One-Byte and search"
+msgstr "半角・全角・ひらがな・カタカナを区別して検索する"
+
+#: ../../inc/sections/search.php:51
+msgid "Extended Function"
+msgstr "拡張機能"
+
+#: ../../inc/sections/search.php:54
+msgid "Include Comments as search results"
+msgstr "コメントを検索対象に含める"
+
+#: ../../inc/sections/search.php:60
+msgid "Use search string autocomplete function"
+msgstr "検索文字列のオートコンプリート機能を使う"
+
+#: ../../inc/sections/search.php:60
+msgid "* It can not be used with smartphones etc."
+msgstr "※ スマホ等では使用できません"
+
+#: ../../inc/sections/search.php:66
+msgid "Highlight the searched words"
+msgstr "検索ワードをハイライトする"
+
+#: ../../inc/sections/search.php:70
+msgid "Highlight decoration style"
+msgstr "ハイライトの文字装飾"
+
+#: ../../inc/sections/search.php:77
+msgid "Oblique"
+msgstr "斜体"
+
+#: ../../inc/sections/search.php:81
+msgid "Apply background color"
+msgstr "背景に色をつける"
+
+#: ../../inc/sections/securimage.php:24
+msgid "Image Size (Width : Height)"
+msgstr "画像サイズ ( 幅 : 高さ )"
+
+#: ../../inc/sections/securimage.php:30
+msgid "Number of characters (Min - Max)"
+msgstr "文字数 ( 最小 - 最大 )"
+
+#: ../../inc/sections/securimage.php:36
+msgid "Character Set"
+msgstr "字体"
+
+#: ../../inc/sections/securimage.php:38
+msgid "Number"
+msgstr "数字"
+
+#: ../../inc/sections/securimage.php:39 ../../inc/sections/securimage.php:40
+#: ../../inc/sections/securimage.php:41
+msgid "Alphabet"
+msgstr "英字"
+
+#: ../../inc/sections/securimage.php:40 ../../inc/sections/securimage.php:43
+msgid "upper"
+msgstr "大文字"
+
+#: ../../inc/sections/securimage.php:41 ../../inc/sections/securimage.php:44
+msgid "lower"
+msgstr "小文字"
+
+#: ../../inc/sections/securimage.php:42 ../../inc/sections/securimage.php:43
+#: ../../inc/sections/securimage.php:44
+msgid "Alphanumeric"
+msgstr "英数字"
+
+#: ../../inc/sections/securimage.php:52
+msgid "Image color"
+msgstr "画像の色"
+
+#: ../../inc/sections/securimage.php:81
+msgid "Character distortion"
+msgstr "文字の歪み"
+
+#: ../../inc/sections/securimage.php:85
+msgid "Background noise"
+msgstr "背景のノイズ"
+
+#: ../../inc/sections/securimage.php:100
+msgid "Noise color"
+msgstr "ノイズの色"
+
+#: ../../inc/sections/securimage.php:104
+msgid "Number of lines above the image to make it obscure"
+msgstr "見えにくくするために画像上に引く線の数"
+
+#: ../../inc/sections/securimage.php:118
+msgid "Line color"
+msgstr "線の色"
+
+#: ../../inc/sections/seo.php:20
+msgid "To add tags"
+msgstr "追加するタグ"
+
+#: ../../inc/sections/seo.php:45
+msgid "The front page meta description"
+msgstr "トップページの meta description"
+
+#: ../../inc/sections/seo.php:47
+msgid ""
+"* You can change meta description of each post by writing it in &quot;"
+"Excerpt&quot; on New Post / Edit Post page."
+msgstr ""
+"※ 各投稿の description は投稿・編集画面の「抜粋」に書くことで変更できます。"
+
+#: ../../inc/sections/seo.php:48
+msgid ""
+"* You can change meta description of category and tag page by writing it in "
+"&quot;Description&quot; on Edit Categories or Tags page."
+msgstr ""
+"※ 各カテゴリ・タグページの description はカテゴリ編集・タグ編集画面の「説明」"
+"に書くことで変更できます。"
+
+#: ../../inc/sections/seo.php:51
+msgid "Structured data "
+msgstr "構造化データ"
+
+#: ../../inc/sections/seo.php:52
+msgid "Types of site names recognized by the search engine"
+msgstr "検索エンジンに認識させるサイト名のタイプ"
+
+#: ../../inc/sections/seo.php:55
+msgid "Web site name"
+msgstr "Web サイト名"
+
+#: ../../inc/sections/seo.php:59
+msgid "Organization name"
+msgstr "組織名"
+
+#: ../../inc/sections/seo.php:62
+msgid "Organization"
+msgstr "組織"
+
+#: ../../inc/sections/seo.php:66
+msgid "Airline"
+msgstr "航空"
+
+#: ../../inc/sections/seo.php:67
+msgid "Corporation"
+msgstr "会社"
+
+#: ../../inc/sections/seo.php:68
+msgid "EducationalOrganization"
+msgstr "教育機関"
+
+#: ../../inc/sections/seo.php:77
+msgid "CollegeOrUniversity"
+msgstr "大学"
+
+#: ../../inc/sections/seo.php:78
+msgid "ElementarySchool"
+msgstr "小学校"
+
+#: ../../inc/sections/seo.php:79
+msgid "HighSchool"
+msgstr "高校"
+
+#: ../../inc/sections/seo.php:80
+msgid "MiddleSchool"
+msgstr "中学校"
+
+#: ../../inc/sections/seo.php:81
+msgid "Preschool"
+msgstr "幼稚園"
+
+#: ../../inc/sections/seo.php:82
+msgid "School"
+msgstr "学校"
+
+#: ../../inc/sections/seo.php:91
+msgid "GovernmentOrganization"
+msgstr "政府組織"
+
+#: ../../inc/sections/seo.php:92
+msgid "LocalBusiness"
+msgstr "ローカルビジネス"
+
+#: ../../inc/sections/seo.php:101
+msgid "AnimalShelter"
+msgstr "動物事業"
+
+#: ../../inc/sections/seo.php:102
+msgid "AutomotiveBusiness"
+msgstr "自動車産業"
+
+#: ../../inc/sections/seo.php:111
+msgid "AutoBodyShop"
+msgstr "自動車整備"
+
+#: ../../inc/sections/seo.php:112
+msgid "AutoDealer"
+msgstr "自動車ディーラー"
+
+#: ../../inc/sections/seo.php:113
+msgid "AutoPartsStore"
+msgstr "自動車部品店"
+
+#: ../../inc/sections/seo.php:114
+msgid "AutoRental"
+msgstr "レンタカー"
+
+#: ../../inc/sections/seo.php:115
+msgid "AutoRepair"
+msgstr "自動車修理"
+
+#: ../../inc/sections/seo.php:116
+msgid "AutoWash"
+msgstr "洗車"
+
+#: ../../inc/sections/seo.php:117
+msgid "GasStation"
+msgstr "ガソリンスタンド"
+
+#: ../../inc/sections/seo.php:118
+msgid "MotorcycleDealer"
+msgstr "バイクディーラー"
+
+#: ../../inc/sections/seo.php:119
+msgid "MotorcycleRepair"
+msgstr "バイク修理"
+
+#: ../../inc/sections/seo.php:128
+msgid "ChildCare"
+msgstr "育児事業"
+
+#: ../../inc/sections/seo.php:129
+msgid "DryCleaningOrLaundry"
+msgstr "洗濯、クリーニング事業"
+
+#: ../../inc/sections/seo.php:130
+msgid "EmergencyService"
+msgstr "緊急サービス"
+
+#: ../../inc/sections/seo.php:139
+msgid "FireStation"
+msgstr "消防署"
+
+#: ../../inc/sections/seo.php:140
+msgid "PoliceStation"
+msgstr "警察署"
+
+#: ../../inc/sections/seo.php:149
+msgid "EmploymentAgency"
+msgstr "雇用関連事業"
+
+#: ../../inc/sections/seo.php:150
+msgid "EntertainmentBusiness"
+msgstr "娯楽産業"
+
+#: ../../inc/sections/seo.php:159
+msgid "AdultEntertainment"
+msgstr "風俗"
+
+#: ../../inc/sections/seo.php:160
+msgid "AmusementPark"
+msgstr "遊園地、アミューズメントパーク"
+
+#: ../../inc/sections/seo.php:161
+msgid "ArtGallery"
+msgstr "画廊、アートギャラリー"
+
+#: ../../inc/sections/seo.php:162
+msgid "Casino"
+msgstr "カジノ"
+
+#: ../../inc/sections/seo.php:163
+msgid "ComedyClub"
+msgstr "コメディクラブ"
+
+#: ../../inc/sections/seo.php:164
+msgid "MovieTheater"
+msgstr "映画館"
+
+#: ../../inc/sections/seo.php:165
+msgid "NightClub"
+msgstr "ナイトクラブ"
+
+#: ../../inc/sections/seo.php:174
+msgid "FinancialService"
+msgstr "金融サービス"
+
+#: ../../inc/sections/seo.php:183
+msgid "AccountingService"
+msgstr "会計業務"
+
+#: ../../inc/sections/seo.php:184
+msgid "AutomatedTeller"
+msgstr "現金自動預け払い機"
+
+#: ../../inc/sections/seo.php:185
+msgid "BankOrCreditUnion"
+msgstr "銀行、信用組合"
+
+#: ../../inc/sections/seo.php:186
+msgid "InsuranceAgency"
+msgstr "保険代理店"
+
+#: ../../inc/sections/seo.php:195
+msgid "FoodEstablishment"
+msgstr "食品産業"
+
+#: ../../inc/sections/seo.php:204
+msgid "Bakery"
+msgstr "パン、菓子類"
+
+#: ../../inc/sections/seo.php:205
+msgid "BarOrPub"
+msgstr "酒場、飲み屋、バー、パブ"
+
+#: ../../inc/sections/seo.php:206
+msgid "Brewery"
+msgstr "ビール、お酒"
+
+#: ../../inc/sections/seo.php:207
+msgid "CafeOrCoffeeShop"
+msgstr "喫茶店、カフェ、コーヒーショップ"
+
+#: ../../inc/sections/seo.php:208
+msgid "FastFoodRestaurant"
+msgstr "ファストフード"
+
+#: ../../inc/sections/seo.php:209
+msgid "IceCreamShop"
+msgstr "アイスクリームショップ"
+
+#: ../../inc/sections/seo.php:210
+msgid "Restaurant"
+msgstr "レストラン、飲食店"
+
+#: ../../inc/sections/seo.php:211
+msgid "Winery"
+msgstr "ワイン"
+
+#: ../../inc/sections/seo.php:220
+msgid "GovernmentOffice"
+msgstr "官庁"
+
+#: ../../inc/sections/seo.php:229
+msgid "PostOffice"
+msgstr "郵便局"
+
+#: ../../inc/sections/seo.php:238
+msgid "HealthAndBeautyBusiness"
+msgstr "健康、美容ビジネス"
+
+#: ../../inc/sections/seo.php:247
+msgid "BeautySalon"
+msgstr "美容、ビューティーサロン"
+
+#: ../../inc/sections/seo.php:248
+msgid "DaySpa"
+msgstr "デイ・スパ"
+
+#: ../../inc/sections/seo.php:249
+msgid "HairSalon"
+msgstr "美容院、ヘアサロン"
+
+#: ../../inc/sections/seo.php:250 ../../inc/sections/seo.php:348
+msgid "HealthClub"
+msgstr "ヘルスクラブ"
+
+#: ../../inc/sections/seo.php:251
+msgid "NailSalon"
+msgstr "ネイルサロン"
+
+#: ../../inc/sections/seo.php:252
+msgid "TattooParlor"
+msgstr "入れ墨、タトゥー・パーラー"
+
+#: ../../inc/sections/seo.php:261
+msgid "HomeAndConstructionBusiness"
+msgstr "建設事業"
+
+#: ../../inc/sections/seo.php:270
+msgid "Electrician"
+msgstr "電気工、電気技師"
+
+#: ../../inc/sections/seo.php:271
+msgid "GeneralContractor"
+msgstr "ゼネコン、建設請負"
+
+#: ../../inc/sections/seo.php:272
+msgid "HVACBusiness"
+msgstr "空調設備 (HVAC)"
+
+#: ../../inc/sections/seo.php:273
+msgid "HousePainter"
+msgstr "塗装、ペンキ"
+
+#: ../../inc/sections/seo.php:274
+msgid "Locksmith"
+msgstr "鍵屋、鍵師"
+
+#: ../../inc/sections/seo.php:275
+msgid "MovingCompany"
+msgstr "引っ越し、運送"
+
+#: ../../inc/sections/seo.php:276
+msgid "Plumber"
+msgstr "配管工"
+
+#: ../../inc/sections/seo.php:277
+msgid "RoofingContractor"
+msgstr "防水工事、屋根ふき"
+
+#: ../../inc/sections/seo.php:286
+msgid "InternetCafe"
+msgstr "インターネットカフェ"
+
+#: ../../inc/sections/seo.php:287
+msgid "LegalService"
+msgstr "法律事業"
+
+#: ../../inc/sections/seo.php:296
+msgid "Attorney"
+msgstr "法律家、弁護士"
+
+#: ../../inc/sections/seo.php:297
+msgid "Notary"
+msgstr "公証人"
+
+#: ../../inc/sections/seo.php:306
+msgid "Library"
+msgstr "図書"
+
+#: ../../inc/sections/seo.php:307
+msgid "LodgingBusiness"
+msgstr "宿泊業"
+
+#: ../../inc/sections/seo.php:316
+msgid "BedAndBreakfast"
+msgstr "宿泊、ベッド・アンド・ブレックファスト"
+
+#: ../../inc/sections/seo.php:317
+msgid "Campground"
+msgstr "キャンプ場、野外集会場"
+
+#: ../../inc/sections/seo.php:318
+msgid "Hostel"
+msgstr "ホステル、簡易宿泊所"
+
+#: ../../inc/sections/seo.php:319
+msgid "Hotel"
+msgstr "ホテル、旅館"
+
+#: ../../inc/sections/seo.php:320
+msgid "Motel"
+msgstr "モーテル"
+
+#: ../../inc/sections/seo.php:321
+msgid "Resort"
+msgstr "リゾート"
+
+#: ../../inc/sections/seo.php:330
+msgid "ProfessionalService"
+msgstr "専門サービス"
+
+#: ../../inc/sections/seo.php:331
+msgid "RadioStation"
+msgstr "ラジオ放送局"
+
+#: ../../inc/sections/seo.php:332
+msgid "RealEstateAgent"
+msgstr "不動産業"
+
+#: ../../inc/sections/seo.php:333
+msgid "RecyclingCenter"
+msgstr "リサイクル業"
+
+#: ../../inc/sections/seo.php:334
+msgid "SelfStorage"
+msgstr "倉庫サービス"
+
+#: ../../inc/sections/seo.php:335
+msgid "ShoppingCenter"
+msgstr "ショッピングセンター"
+
+#: ../../inc/sections/seo.php:336
+msgid "SportsActivityLocation"
+msgstr "スポーツセンター"
+
+#: ../../inc/sections/seo.php:345
+msgid "BowlingAlley"
+msgstr "ボウリング場"
+
+#: ../../inc/sections/seo.php:346
+msgid "ExerciseGym"
+msgstr "ジム"
+
+#: ../../inc/sections/seo.php:347
+msgid "GolfCourse"
+msgstr "ゴルフコース"
+
+#: ../../inc/sections/seo.php:349
+msgid "PublicSwimmingPool"
+msgstr "プール"
+
+#: ../../inc/sections/seo.php:350
+msgid "SkiResort"
+msgstr "スキー場"
+
+#: ../../inc/sections/seo.php:351
+msgid "SportsClub"
+msgstr "スポーツクラブ"
+
+#: ../../inc/sections/seo.php:352
+msgid "StadiumOrArena"
+msgstr "スタジアム、アリーナ"
+
+#: ../../inc/sections/seo.php:353
+msgid "TennisComplex"
+msgstr "テニス施設"
+
+#: ../../inc/sections/seo.php:362
+msgid "Store"
+msgstr "お店"
+
+#: ../../inc/sections/seo.php:371
+msgid "BikeStore"
+msgstr "自転車、バイク店"
+
+#: ../../inc/sections/seo.php:372
+msgid "BookStore"
+msgstr "本屋"
+
+#: ../../inc/sections/seo.php:373
+msgid "ClothingStore"
+msgstr "衣料、服飾店"
+
+#: ../../inc/sections/seo.php:374
+msgid "ComputerStore"
+msgstr "コンピューター販売"
+
+#: ../../inc/sections/seo.php:375
+msgid "ConvenienceStore"
+msgstr "コンビニエンスストア"
+
+#: ../../inc/sections/seo.php:376
+msgid "DepartmentStore"
+msgstr "デパート、百貨店"
+
+#: ../../inc/sections/seo.php:377
+msgid "ElectronicsStore"
+msgstr "電器店"
+
+#: ../../inc/sections/seo.php:378
+msgid "Florist"
+msgstr "花屋"
+
+#: ../../inc/sections/seo.php:379
+msgid "FurnitureStore"
+msgstr "家具店"
+
+#: ../../inc/sections/seo.php:380
+msgid "GardenStore"
+msgstr "園芸店"
+
+#: ../../inc/sections/seo.php:381
+msgid "GroceryStore"
+msgstr "食料品店"
+
+#: ../../inc/sections/seo.php:382
+msgid "HardwareStore"
+msgstr "金物屋、工具店、ホームセンター"
+
+#: ../../inc/sections/seo.php:383
+msgid "HobbyShop"
+msgstr "模型、手芸、ホビー店"
+
+#: ../../inc/sections/seo.php:384
+msgid "HomeGoodsStore"
+msgstr "家庭用品店"
+
+#: ../../inc/sections/seo.php:385
+msgid "JewelryStore"
+msgstr "宝石店"
+
+#: ../../inc/sections/seo.php:386
+msgid "LiquorStore"
+msgstr "酒屋、酒店"
+
+#: ../../inc/sections/seo.php:387
+msgid "MensClothingStore"
+msgstr "紳士服"
+
+#: ../../inc/sections/seo.php:388
+msgid "MobilePhoneStore"
+msgstr "携帯電話、モバイル"
+
+#: ../../inc/sections/seo.php:389
+msgid "MovieRentalStore"
+msgstr "映画レンタル"
+
+#: ../../inc/sections/seo.php:390
+msgid "MusicStore"
+msgstr "楽器"
+
+#: ../../inc/sections/seo.php:391
+msgid "OfficeEquipmentStore"
+msgstr "オフィス、事務用品"
+
+#: ../../inc/sections/seo.php:392
+msgid "OutletStore"
+msgstr "直販、直売、アウトレット"
+
+#: ../../inc/sections/seo.php:393
+msgid "PawnShop"
+msgstr "質屋"
+
+#: ../../inc/sections/seo.php:394
+msgid "PetStore"
+msgstr "ペットショップ"
+
+#: ../../inc/sections/seo.php:395
+msgid "ShoeStore"
+msgstr "靴屋"
+
+#: ../../inc/sections/seo.php:396
+msgid "SportingGoodsStore"
+msgstr "スポーツ用品店"
+
+#: ../../inc/sections/seo.php:397
+msgid "TireShop"
+msgstr "タイヤショップ"
+
+#: ../../inc/sections/seo.php:398
+msgid "ToyStore"
+msgstr "おもちゃ、玩具"
+
+#: ../../inc/sections/seo.php:399
+msgid "WholesaleStore"
+msgstr "卸売店"
+
+#: ../../inc/sections/seo.php:408
+msgid "TelevisionStation"
+msgstr "テレビ局"
+
+#: ../../inc/sections/seo.php:409
+msgid "TouristInformationCenter"
+msgstr "観光案内"
+
+#: ../../inc/sections/seo.php:410
+msgid "TravelAgency"
+msgstr "旅行会社"
+
+#: ../../inc/sections/seo.php:419
+msgid "MedicalOrganization"
+msgstr "医療組織"
+
+#: ../../inc/sections/seo.php:428
+msgid "Dentist"
+msgstr "歯科医"
+
+#: ../../inc/sections/seo.php:429
+msgid "Hospital"
+msgstr "病院"
+
+#: ../../inc/sections/seo.php:430
+msgid "Pharmacy"
+msgstr "薬局"
+
+#: ../../inc/sections/seo.php:431
+msgid "Physician"
+msgstr "医師"
+
+#: ../../inc/sections/seo.php:440
+msgid "NGO"
+msgstr "非政府組織（NGO）"
+
+#: ../../inc/sections/seo.php:441
+msgid "PerformingGroup"
+msgstr "芸能、芸術関連"
+
+#: ../../inc/sections/seo.php:450
+msgid "DanceGroup"
+msgstr "ダンスグループ"
+
+#: ../../inc/sections/seo.php:451
+msgid "MusicGroup"
+msgstr "音楽グループ"
+
+#: ../../inc/sections/seo.php:452
+msgid "TheaterGroup"
+msgstr "劇団"
+
+#: ../../inc/sections/seo.php:461
+msgid "SportsOrganization"
+msgstr "スポーツ団体"
+
+#: ../../inc/sections/seo.php:470
+msgid "SportsTeam"
+msgstr "スポーツチーム"
+
+#: ../../inc/sections/seo.php:483
+msgid "Site logo"
+msgstr "サイトロゴ"
+
+#: ../../inc/sections/seo.php:516
+msgid "Organization logo"
+msgstr "組織ロゴ"
+
+#: ../../inc/sections/seo.php:516
+msgid ""
+"Only when &quoValid only when &quot;Organization name&quot; is selected as "
+"the type of site name"
+msgstr "サイト名のタイプで「組織名」を選択した時のみ有効"
+
+#: ../../inc/sections/seo.php:517
+msgid "* Required depending on the selected organization"
+msgstr "※ 選択した組織によっては必須"
+
+#: ../../inc/sections/seo.php:520
+msgid "There is no organization logo. Or don&apos;t need such a setting"
+msgstr "組織ロゴなんてない。もしくはそんな設定はいらない"
+
+#: ../../inc/sections/seo.php:524
+msgid ""
+"Make the search engine recognize the following image as &quot;Organization "
+"logo&quot;"
+msgstr "検索エンジンに以下の画像を「組織ロゴ」として認識させる"
+
+#: ../../inc/sections/seo.php:526
+msgid "* The image must be at least 112 px wide and at least 112 px high."
+msgstr "※ 画像は幅 112px 以上、高さ 112px 以上の必要があります。"
+
+#: ../../inc/sections/seo.php:561
+msgid "Put tags and category names into meta keywords"
+msgstr "タグとカテゴリ名を keywords にする"
+
+#: ../../inc/sections/seo.php:565
+msgid "Do not need any meta keywords!"
+msgstr "keywords なんて要らない"
+
+#: ../../inc/sections/seo.php:569
+msgid "Date to display in Google search results"
+msgstr "Google の検索結果に表示させる日付"
+
+#: ../../inc/sections/seo.php:571
+msgid "publish date"
+msgstr "公開日"
+
+#: ../../inc/sections/seo.php:572
+msgid "updated date"
+msgstr "更新日"
+
+#: ../../inc/sections/seo.php:574
+msgid ""
+"* It is a setting of the date to display in Google search results when there "
+"is both a publish date and an update date."
+msgstr ""
+"※ 公開日と更新日の両方がある場合に Google の検索結果に表示させる日付の設定で"
+"す。"
+
+#: ../../inc/sections/seo.php:577
+msgid "category and tag pages"
+msgstr "カテゴリ・タグページ"
+
+#: ../../inc/sections/seo.php:578
+msgid "* For SEO reasons, you can only select either category or tag page."
+msgstr ""
+"※ SEO 上の観点より、カテゴリページとタグページの両方は選択できないようにして"
+"あります。"
+
+#: ../../inc/sections/seo.php:581
+msgid "Index category page."
+msgstr "カテゴリページをインデクスさせる"
+
+#: ../../inc/sections/seo.php:581 ../../inc/sections/seo.php:585
+msgid "Only the first page"
+msgstr "最初の１ページのみ"
+
+#: ../../inc/sections/seo.php:585
+msgid "Index tag page."
+msgstr "タグページをインデクスさせる"
+
+#: ../../inc/sections/seo.php:589
+msgid "Prohibit crawlers to index either"
+msgstr "どちらもインデクスさせない"
+
+#: ../../inc/sections/seo.php:593
+msgid "Splitting Content for blog posts and pages"
+msgstr "投稿・固定ページのページ分割"
+
+#: ../../inc/sections/seo.php:596
+msgid ""
+"Prohibit crawlers to index second page onward when contents are split using "
+"&lt;!--nextpage--&gt; tag."
+msgstr ""
+"投稿・固定ページを &lt;!--nextpage--&gt; で分割した時、2ページ目以降を検索エ"
+"ンジンにインデクスさせない"
+
+#: ../../inc/sections/shortcode-luxeritas.php:36
+msgid "Syntax Highlighter"
+msgstr "シンタックスハイライター"
+
+#: ../../inc/sections/shortcode-luxeritas.php:37
+msgid ""
+"* Since it distinguish shortcode in post page and loads only script of "
+"language to highlight, even if it registers all, it will work lightly."
+msgstr ""
+"※ 投稿ページ内のショートコードを認識し、ハイライトする言語のスクリプトだけを"
+"読み込むため、全登録しても軽快に動作します。"
+
+#: ../../inc/sections/shortcode-luxeritas.php:38
+msgid "* It is not highlighted in AMP."
+msgstr "※ AMP ではハイライトされません。"
+
+#: ../../inc/sections/shortcode-luxeritas.php:40
+msgid "Check all"
+msgstr "全選択"
+
+#: ../../inc/sections/shortcode-luxeritas.php:41
+msgid "Uncheck all"
+msgstr "全解除"
+
+#: ../../inc/sections/shortcode-luxeritas.php:99
+msgid ""
+"* If speech balloon shortcode is registered, CSS for speech balloon will be "
+"automatically loaded."
+msgstr ""
+"※ 吹き出しショートコードが登録されている場合、自動的に吹き出し用の CSS が読み"
+"込まれるようになります。"
+
+#: ../../inc/sections/shortcode-luxeritas.php:109
+#: ../../inc/sections/shortcode-luxeritas.php:160
+msgid "Image"
+msgstr "画像"
+
+#: ../../inc/sections/shortcode-luxeritas.php:114
+#: ../../inc/sections/shortcode-luxeritas.php:137
+#: ../../inc/sections/shortcode-luxeritas.php:165
+#: ../../inc/sections/shortcode-luxeritas.php:188
+msgid "Registered"
+msgstr "登録済み"
+
+#: ../../inc/sections/shortcode-luxeritas.php:123
+#: ../../inc/sections/shortcode-luxeritas.php:174
+msgid "Select image"
+msgstr "画像を選択"
+
+#: ../../inc/sections/shortcode-luxeritas.php:124
+#: ../../inc/sections/shortcode-luxeritas.php:175
+#, php-format
+msgid "Width %s recommended"
+msgstr "幅 %s 推奨"
+
+#: ../../inc/sections/shortcode-luxeritas.php:132
+#: ../../inc/sections/shortcode-luxeritas.php:183
+msgid "Caption"
+msgstr "キャプション"
+
+#: ../../inc/sections/shortcode-luxeritas.php:142
+msgid "Left caption"
+msgstr "左キャプション"
+
+#: ../../inc/sections/shortcode-luxeritas.php:193
+msgid "Right caption"
+msgstr "右キャプション"
+
+#: ../../inc/sections/shortcode-luxeritas.php:203
+msgid "* This item can be changed even after shortcode registration."
+msgstr "※ この項目はショートコード登録後でも変更することができます。"
+
+#: ../../inc/sections/shortcode-regist.php:61
+msgid ""
+"* Import is self responsible, please import only from the trustworthy file."
+msgstr ""
+"※ インポートは自己の責任において、信頼できるファイルからのみインポートしてく"
+"ださい。"
+
+#: ../../inc/sections/shortcode-regist.php:62
+msgid "* Shortcode is stored in shortcodes directory of the child theme."
+msgstr ""
+"※ ショートコード本体は子テーマの shortcodes ディレクトリに保存されます。"
+
+#: ../../inc/sections/shortcode-regist.php:63
+msgid ""
+"* Except for Luxeritas special shortcode, you can use it for other themes by "
+"porting the contents stored in the shortcodes directory to functions.php."
+msgstr ""
+"※ Luxeritas 専用ショートコード以外は shortcodes ディレクトリに保存されている"
+"中身を functions.php に移植することで他テーマにも流用できます。"
+
+#: ../../inc/sections/shortcode-regist.php:134
+msgid "Shortcode Edit"
+msgstr "ショートコード編集"
+
+#: ../../inc/sections/shortcode-sample.php:23
+msgid "Tutorial"
+msgstr "チュートリアル"
+
+#: ../../inc/sections/shortcode-sample.php:41
+msgid "* This adsense shortcode is hidden on the preview screen."
+msgstr "※ このアドセンスショートコードはプレビュー画面では非表示になります。"
+
+#: ../../inc/sections/sns-cache-all-get.php:24
+msgid ""
+"* It will retrieve the SNS count number of all posts and restructure the "
+"cache."
+msgstr "※ 全ての投稿の SNS カウントを取得してキャッシュを再構築します。"
+
+#: ../../inc/sections/sns-cache-all-get.php:25
+msgid "* Normally you do not need to use this function."
+msgstr "※ 通常、この機能を使用する必要はありません。"
+
+#: ../../inc/sections/sns-cache-all-get.php:30
+msgid "Restructure started"
+msgstr "再構築開始"
+
+#: ../../inc/sections/sns-cache-cleanup.php:21
+msgid "Clear all SNS count cache"
+msgstr "SNS カウント数キャッシュのオールクリア"
+
+#: ../../inc/sections/sns-cache-cleanup.php:22
+msgid "* This will delete the whole cache directory including cache settings."
+msgstr "※ キャッシュを有効期限の情報も含めてディレクトリごと完全に削除します。"
+
+#: ../../inc/sections/sns-cache-csv.php:24
+msgid "* Download the list of SNS count caches in CSV format."
+msgstr "※ SNS カウントキャッシュの一覧を CSV 形式でダウンロードします。"
+
+#: ../../inc/sections/sns-cache-csv.php:27
+msgid "Download"
+msgstr "ダウンロード"
+
+#: ../../inc/sections/speedup-items.php:42
+msgid "Compress"
+msgstr "圧縮する"
+
+#: ../../inc/sections/speedup-items.php:121
+msgid "SNS count cache"
+msgstr "SNS カウントキャッシュ"
+
+#: ../../inc/sections/speedup-items.php:141
+#: ../../inc/sections/speedup-items.php:145
+msgid "* Please setting this item yourself."
+msgstr "※ こちらの項目はご自身で設定してください。"
+
+#: ../../inc/sections/speedup-set.php:21
+msgid "* Using cache plugin with Luxeritas may be rather slow."
+msgstr ""
+"※ Luxeritas でキャッシュプラグインを導入すると、むしろ遅くなる可能性がありま"
+"す。"
+
+#: ../../inc/sections/speedup-set.php:22
+msgid "Recommended settings"
+msgstr "推奨設定"
+
+#: ../../inc/sections/speedup-set.php:23
+msgid "Extreme settings"
+msgstr "極限設定"
+
+#: ../../inc/sections/speedup-set.php:23
+msgid "Caution"
+msgstr "注意"
+
+#: ../../inc/sections/speedup-set.php:24
+msgid "Initial settings"
+msgstr "初期設定"
+
+#: ../../inc/sections/speedup-set.php:25
+msgid "You selected the item."
+msgstr "項目を選択しました。"
+
+#: ../../inc/sections/speedup-set.php:25
+msgid "Please press save button"
+msgstr "保存ボタンを押してください"
+
+#: ../../inc/sections/thumbnail-manage.php:19
+msgid ""
+"* For checked size, thumbnails will be created when uploading images on the "
+"Media Library."
+msgstr ""
+"※ チェックの付いてるサイズは、メディア画面で画像をアップロードした際にサムネ"
+"イルが作成されます。"
+
+#: ../../inc/sections/thumbnail-manage.php:20
+msgid ""
+"* Crop = When the aspect ratio does not match, the protruding part is cut "
+"away."
+msgstr "※ Crop = 縦横比が合わない時、はみ出した部分が切り取られます。"
+
+#: ../../inc/sections/thumbnail-manage.php:21
+msgid ""
+"* Selectable = On post, you can select &quot;ATTACHMENT DISPLAY "
+"SETTINGS&quot; in the Media Library."
+msgstr ""
+"※ Selectable = 投稿時にメディア画面で「添付ファイルの表示設定」で選択できま"
+"す。"
+
+#: ../../inc/sections/thumbnail-manage.php:25
+msgid "Generate"
+msgstr "作成"
+
+#: ../../inc/sections/thumbnail-manage.php:26
+msgid "Max size"
+msgstr "最大サイズ"
+
+#: ../../inc/sections/thumbnail-manage.php:125
+msgid ""
+"* To use user thumbnails with existing images, you need to regenerate "
+"thumbnails."
+msgstr ""
+"※ ユーザーサムネイルを既存の画像で利用するにはサムネイルの再作成が必要になり"
+"ます。"
+
+#: ../../inc/sections/title.php:20
+msgid "Separator of title"
+msgstr "タイトルのセパレーター"
+
+#: ../../inc/sections/title.php:23
+msgid "The pipe symbol"
+msgstr "パイプ記号"
+
+#: ../../inc/sections/title.php:27
+msgid "The hyphen symbol"
+msgstr "ハイフン記号"
+
+#: ../../inc/sections/title.php:31
+msgid "Page title when Front Page is post pages"
+msgstr "一覧型トップページのタイトル"
+
+#: ../../inc/sections/title.php:38 ../../inc/sections/title.php:49
+msgid "Tagline"
+msgstr "キャッチフレーズ"
+
+#: ../../inc/sections/title.php:42
+msgid "Page title when Front Page is static pages"
+msgstr "固定ページ型トップページのタイトル"
+
+#: ../../inc/sections/title.php:53 ../../inc/sections/title.php:57
+#: ../../inc/sections/title.php:64 ../../inc/sections/title.php:68
+#: ../../inc/sections/title.php:72
+msgid "Page title"
+msgstr "ページタイトル"
+
+#: ../../inc/sections/title.php:61
+msgid "Other page title"
+msgstr "その他のページのタイトル"
+
+#: ../../inc/sections/version.php:54
+msgid "Current Theme"
+msgstr "現在のテーマ"
+
+#: ../../inc/sections/version.php:55 ../../inc/sections/version.php:61
+#, php-format
+msgid "Version: %s"
+msgstr "バージョン: %s"
+
+#: ../../inc/sections/version.php:58
+#, php-format
+msgid "This is a child theme of %s."
+msgstr "これは %s の子テーマです。"
+
+#: ../../inc/sections/version.php:60
+msgid "Parent Theme"
+msgstr "親テーマ"
+
+#: ../../inc/sections/version.php:65
+#, php-format
+msgid "By %s"
+msgstr "作者: %s"
+
+#: ../../inc/sections/version.php:68
+msgid "Tags"
+msgstr "タグ"
+
+#: ../../inc/sections/widget-area.php:21
+msgid "* When checked, hide the widget area."
+msgstr "※ チェックをつけるとウィジェット領域を非表示にします。"
+
+#: ../../inc/sections/widget-area.php:34 ../../inc/sections/widget-area.php:56
+#: ../../inc/sections/widget-body.php:42 ../../inc/sections/widget-body.php:64
+msgid "Preview"
+msgstr "プレビュー"
+
+#: ../../inc/sections/widget-body.php:29
+msgid "* When checked, hides the widget."
+msgstr "※ チェックをつけるとウィジェットを非表示にします。"
+
+#: ../../inc/sections/widget-css.php:20
+msgid "Load CSS for widgets"
+msgstr "ウィジェット用 CSS の読み込み有無"
+
+#: ../../inc/sections/widget-css.php:21
+msgid ""
+"* If you are not using CSS for widgets, disabling its load will decrease the "
+"total filze size of the page and can make your page render faster."
+msgstr ""
+"※ 使用していないウィジェットの CSS を読み込まないようにすることで CSS の容量"
+"を小さくすることができます。"
+
+#: ../../inc/sections/widget-css.php:31
+msgid "Search Form Widget"
+msgstr "検索フォームウィジェット"
+
+#: ../../inc/sections/widget-css.php:32
+msgid "Categories &amp; Archive DropDown Widget"
+msgstr "カテゴリー / アーカイブウィジェット (ドロップダウン表示時)"
+
+#: ../../inc/sections/widget-css.php:33
+msgid "Calendar Widget"
+msgstr "カレンダーウィジェット"
+
+#: ../../inc/sections/widget-css.php:34
+msgid "Tag cloud Widget"
+msgstr "タグクラウドウィジェット"
+
+#: ../../inc/sections/widget-css.php:38
+msgid "SNS Follow Button (by Luxeritas)"
+msgstr "SNS フォローボタン (Luxeritas オリジナル)"
+
+#: ../../inc/sections/widget-css.php:39
+msgid "RSS / Feedly Button (by Luxeritas)"
+msgstr "RSS / Feedly 購読ボタン (Luxeritas オリジナル)"
+
+#: ../../languages/site/translations.php:66
+#, php-format
+msgid "Category: %s"
+msgstr "「%s」カテゴリーの一覧"
+
+#: ../../languages/site/translations.php:67
+#, php-format
+msgid "Tag: %s"
+msgstr "「%s」タグの一覧"
+
+#: ../../languages/site/translations.php:68
+#, php-format
+msgid "Author: %s"
+msgstr "「%s」の記事一覧"
+
+#: ../../languages/site/translations.php:69
+#, php-format
+msgid "Year: %s"
+msgstr "「%s」年別アーカイブの一覧"
+
+#: ../../languages/site/translations.php:70
+#, php-format
+msgid "Month: %s"
+msgstr "「%s」年別アーカイブの一覧"
+
+#: ../../languages/site/translations.php:71
+#, php-format
+msgid "Day: %s"
+msgstr "「%s」日別アーカイブの一覧"
+
+#: ../../languages/site/translations.php:72
+#, php-format
+msgid "Archives: %s"
+msgstr "「%s」アーカイブの一覧"
+
+#: ../../languages/site/translations.php:73
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: ../../languages/site/translations.php:75 ../../pages/sitemap.php:33
+msgid "Sitemap"
+msgstr "サイトマップ"

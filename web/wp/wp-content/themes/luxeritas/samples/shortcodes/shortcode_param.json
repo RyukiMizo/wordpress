@@ -1,0 +1,4 @@
+{"shortcode
+param par1=&quot;Hello,&quot; par2=&quot;World!&quot;":{"label":"","php":true,"close":false,"hide":false,"active":true,"contents":"s:153:\"<?php\nadd
+shortcode( 'shortcode
+param', function( $args, $contents ) {\n$contents = \"<p>\" . $args[\"par1\"] . $args[\"par2\"] . \"<\/p>\";\nreturn $contents;\n});\n\";"}}

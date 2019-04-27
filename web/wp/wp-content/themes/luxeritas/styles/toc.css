@@ -1,0 +1,55 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/* Table of Contents */
+#toc_container, .toc_widget {
+	max-width: 100%;
+	font-size: 13px; font-size: 1.3rem;
+}
+#toc_container {
+	display: table;
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid #ddd;
+	color: #333;
+	background: #fafafa;
+}
+#toc_container a {
+	color: #333;
+	text-decoration: none;
+}
+#toc_container a:hover {
+	text-decoration: underline;
+}
+.toc_toggle {
+	white-space: nowrap;
+}
+.toc_list {
+	margin: 0;
+	padding: 0;
+}
+ul.toc_list {
+	padding: 0 10px;
+}
+.widget ul.toc_list {
+	padding: 0 5px;
+}
+.toc_list ul {
+	padding: 0 0 0 15px;
+}
+.toc_list li {
+	padding: 2px;
+	list-style: none;
+}

@@ -1,0 +1,65 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/* Search Form */
+#search {
+	padding-bottom: 0;
+	position: relative;
+	width: 100%;
+}
+#search label {
+	width: 100%;
+	margin: 0;
+}
+.search-field {
+	width: 100%;
+	height: 32px;
+	margin: 0;
+	padding: 4px 6px;
+}
+
+[type="submit"].search-submit {
+	position: absolute;
+	top: 2px;
+	right: 2px;
+	height: 28px;
+	padding: 8px;
+	font-size: 12px; font-size: 1.2rem;
+}
+
+.search-field::-webkit-input-placeholder {
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	color: #ccc;
+	font-size: 14px; font-size: 1.4rem;
+}
+.search-field:-moz-placeholder {
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	color: #ccc;
+	font-size: 14px; font-size: 1.4rem;
+}
+.search-field:-ms-input-placeholder {
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	color: #ccc;
+	font-size: 14px; font-size: 1.4rem;
+}
+.search-field:placeholder-shown {
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	color: #ccc;
+	font-size: 14px; font-size: 1.4rem;
+}

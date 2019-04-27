@@ -1,0 +1,57 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+*/
+
+.modtime {
+	display: inline !important;
+	padding: 2px 0 1px 0;
+	height: auto !important;
+}
+.modtime:before {
+	font: normal 20px/1 'dashicons';
+	content: '\f145';
+	color: #888;
+	padding: 0 5px 0 0;
+	top: -1px;
+	left: -1px;
+	position: relative;
+	vertical-align: top;
+}
+#timestamp_mod_div {
+	padding-top: 5px;
+	line-height: 23px;
+}
+#timestamp_mod_div p {
+	margin: 8px 0 6px;
+}
+#timestamp_mod_div input {
+	border-width: 1px;
+	border-style: solid;
+}
+#timestamp_mod_div select {
+	height: 21px;
+	line-height: 14px;
+	padding: 0;
+	vertical-align: top;
+	font-size: 12px;
+}
+#aa_mod, #jj_mod, #hh_mod, #mn_mod {
+	padding: 1px;
+	font-size: 12px;
+}
+#jj_mod, #hh_mod, #mn_mod {
+	width: 2em;
+}
+#aa_mod {
+	width: 3.4em;
+}

@@ -1,0 +1,66 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+*/
+
+.blogcard {
+	margin: 0 0 1.6em;
+}
+.blogcard p {
+	font-size: 16px; font-size: 1.6rem;
+	line-height: 1.6;
+	margin: 0 0 0.5em;
+}
+.blogcard a {
+	font-size: 14px; font-size: 1.4rem;
+}
+a.blogcard-href {
+	display: block;
+	position: relative;
+	padding: 20px;
+	border: 1px solid #ddd;
+	background: #fff;
+	color: #111;
+	text-decoration: none;
+	max-width: 540px;
+	min-height: 140px;
+	transition: transform .4s ease;
+}
+a.blogcard-href:hover {
+	color: #ff811a;
+	background: #fcfcfc;
+	box-shadow: 3px 3px 8px rgba(0,0,0,.2);
+	transform: translateY(-4px);
+}
+p.blog-card-title {
+	color: #111;
+	font-weight: bold;
+}
+p.blog-card-desc {
+	font-size: 0.9em;
+	color: #666;
+}
+.blogcard-img {
+	float: right;
+	margin: 0 0 15px 20px;
+}
+p.blogcard-link {
+	clear: both;
+	font-size: 0.8em;
+	color: #999;
+	margin: 15px 0 0 0;
+}
+img.blogcard-icon, amp-img.blogcard-icon{
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+}
