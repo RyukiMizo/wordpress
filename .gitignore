@@ -9,7 +9,7 @@ web/app/themes/*
 !web/app/themes/.gitkeep
 
 # WordPress
-web/wp
+#web/wp
 web/.htaccess
 
 # Dotenv
