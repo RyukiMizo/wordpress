@@ -1,0 +1,113 @@
+/*! Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/*------------------------------------------------------------
+ ライン風の吹き出し
+-------------------------------------------------------------*/
+.balloon {
+	max-width: 65535px;
+	margin-bottom: 40px;
+}
+.balloon figure {
+	width: 60px;
+	height: auto;
+	margin: 0 auto;
+}
+.balloon-img-left {
+	float: left;
+}
+.balloon-img-right {
+	float: right;
+}
+.balloon-img-caption {
+	display: inline-block;
+	max-width: 100px;
+	padding: 5px 0 0;
+	font-size: 12px; font-size: 1.2rem;
+}
+[class^="balloon-"] {
+	word-break: break-all;
+	padding: 15px 20px;
+	position: relative;
+	border-radius: 10px;
+}
+[class^="balloon-img"] {
+	padding: 0;
+	text-align: center;
+}
+.balloon-left {
+	margin-left: 100px;
+}
+.balloon-right {
+	margin-right: 100px;
+}
+.balloon p {
+	margin: 0 0 20px;
+}
+.balloon p:last-child {
+	margin-bottom: 0;
+}
+.balloon-left::before, .balloon-left::after,
+.balloon-right::before, .balloon-right::after {
+	position: absolute;
+	content: '';
+	border: solid 10px transparent;
+	top: 12px;
+}
+.balloon-left::before {
+	left: -22px;
+}
+.balloon-left::after {
+	left: -21px;
+}
+.balloon-right::before { 
+	right: -22px;
+}
+.balloon-right::after {
+	right: -21px;
+}
+.balloon::after, .balloon::before {
+	clear: both;
+	content: '';
+	display: block;
+}
+
+/* 吹き出しの色 (左) */
+.balloon-left {
+	color: #000000;
+	background: #e4e8eb;
+	box-shadow: 4px 4px 5px rgba( 0, 0, 0, .3 );
+	border: solid 1px #e5e9ec;
+}
+.balloon-left::before{
+	border-right: solid 12px #e5e9ec;
+}
+.balloon-left::after {
+	border-right: solid 12px #e4e8eb;
+}
+
+/* 吹き出しの背景色 (右) */
+.balloon-right {
+	color: #111111;
+	background: #bef18c;
+	box-shadow: -4px 4px 5px rgba( 0, 0, 0, .3 );
+	border: solid 1px #bff28d;
+}
+.balloon-right::before {
+	border-left: solid 12px #bff28d;
+}
+.balloon-right::after {
+	border-left: solid 12px #bef18c;
+}

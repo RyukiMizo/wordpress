@@ -1,0 +1,174 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+*/
+
+div[class*="snsf-"] {
+	margin: 2px 0 0 0;
+	padding: 0;
+}
+div[class*="snsf-"] .clearfix {
+	padding: 0;
+}
+div[class*="snsf-"] i {
+	max-width: 16px;
+}
+.snsf-c ,
+.snsf-w {
+	display: table;
+	width: 100%;
+	table-layout: fixed;
+}
+.snsfb {
+	display: table-row;
+}
+.snsf-c li,
+.snsf-w li {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	width: 100%;
+	color: #fff;
+	padding: 1px 2px;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.snsf-c a,
+.snsf-w a,
+.snsf-c .snsfcnt,
+.snsf-w .snsfcnt {
+	display: block;
+	font-family: Verdana, Arial, Helvetica, Roboto;
+	text-align: center;
+	text-decoration: none;
+	width: 100%;
+	border-radius: 2px;
+}
+.snsf-c .fa-hatena,
+.snsf-w .fa-hatena {
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, Roboto;
+}
+.snsf-c a, .snsf-c a:hover,
+.snsf-w a, .snsf-w a:hover {
+	position: relative;
+	line-height: 1.0;
+	padding: 10px 0;
+	color: #fff;
+}
+.snsf-c .snsfb li a,
+.snsf-w .snsfb li a {
+	font-family: Verdana, Arial, Helvetica, Roboto;
+	font-size: 13px; font-size: 1.3rem;
+	letter-spacing: -1px;
+}
+.snsf-c .snsfb li a {
+	box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.2);
+}
+.snsf-w .snsfb li a {
+	box-sizing: border-box;
+	border: 1px solid #ddd;
+}
+.snsf-w .snsfcnt {
+}
+.snsf-c .snsfb li a:hover {
+	opacity: 0.6;
+}
+.snsf-w .snsfb li a:hover {
+	background: #f8f8f8;
+	opacity: 0.7;
+}
+.snsf-c .snsfb i,
+.snsf-w .snsfb i {
+	margin-right: 3px;
+}
+.snsfcnt {
+	display: block;
+	position: absolute;
+	right: 0;
+	top: -18px;
+	padding: 3px 0;
+	font-size: 11px; font-size: 1.1rem;
+	background: #fffefd;
+}
+.snsf-c .snsfcnt {
+	color: #333;
+	border: 2px solid #ddd;
+}
+.snsf-w .snsfcnt {
+	box-sizing: content-box;
+	top: -18px;
+	left: -1px;
+	border: 1px solid #ddd;
+	border-radius: 2px 2px 0 0;
+	color: #333;
+}
+.snsfcnt i {
+	margin: 0 !important;
+}
+.snsf-c .twitter a { background: #55acee; }
+.snsf-c .facebook a { background: #3b5998; }
+.snsf-c .google a { background: #dd4b39; }
+.snsf-c .linkedin a { background: #0479b4; }
+.snsf-c .pinit a  { background: #bd081c; }
+.snsf-c .hatena a { background: #3c7dd1; }
+.snsf-c .pocket a { background: #ee4257; }
+.snsf-c .line a   { background: #00c300; }
+.snsf-c .rss a    { background: #fe9900; }
+.snsf-c .feedly a { background: #87bd33; }
+
+.snsf-c .twitter .snsfcnt { border-color: #55acee; }
+.snsf-c .facebook .snsfcnt { border-color: #3b5998; }
+.snsf-c .google .snsfcnt { border-color: #dd4b39; }
+.snsf-c .linkedin .snsfcnt { border-color: #0479b4; }
+.snsf-c .pinit .snsfcnt  { border-color: #bd081c; }
+.snsf-c .hatena .snsfcnt { border-color: #3c7dd1; }
+.snsf-c .pocket .snsfcnt { border-color: #ee4257; }
+.snsf-c .line .snsfcnt   { border-color: #00c300; }
+.snsf-c .rss .snsfcnt    { border-color: #fe9900; }
+.snsf-c .feedly .snsfcnt { border-color: #87bd33; }
+
+.snsf-w .snsfb .twitter a { color: #55acee; }
+.snsf-w .snsfb .facebook a { color: #3b5998; }
+.snsf-w .snsfb .google a { color: #dd4b39; }
+.snsf-w .snsfb .linkedin a { color: #0479b4; }
+.snsf-w .snsfb .pinit a  { color: #bd081c; }
+.snsf-w .snsfb .hatena a { color: #3c7dd1; }
+.snsf-w .snsfb .pocket a { color: #ee4257; }
+.snsf-w .snsfb .line a   { color: #00c300; }
+.snsf-w .snsfb .rss a    { color: #fe9900; }
+.snsf-w .snsfb .feedly a { color: #87bd33; }
+
+@media screen and (max-width: 765px), screen and (min-width: 992px) and (max-width: 1200px) {
+	.snsf-c .snsfb li a,
+	.snsf-w .snsfb li a {
+		font-size: 14px; font-size: 1.4rem;
+		padding: 9px 6px 10px 6px;
+	}
+	.snsf-c .snsfb i,
+	.snsf-w .snsfb i {
+		margin-right: 0;
+	}
+	div[class*="snsf-"] .snsname {
+		display: none;
+	}
+}
+@media screen and (min-width: 992px) {
+	.snsfb li.line-sm {
+		display: none !important;
+	}
+}
+@media screen and (max-width: 991px) {
+	.snsfb li.line-pc {
+		display: none !important;
+	}
+}

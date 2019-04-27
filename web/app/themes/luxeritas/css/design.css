@@ -1,0 +1,230 @@
+.thk-design-browser .thk-designs {
+	clear: both;
+}
+
+.thk-design-browser .thk-design {
+	float: left;
+	margin: 0 4% 4% 0;
+	position: relative;
+	width: 30.6%;
+	border: 1px solid #ddd;
+	box-shadow: 0 1px 1px -1px rgba(0,0,0,0.1);
+	box-sizing: border-box;
+}
+
+.ie8 .thk-design-browser .thk-design {
+	width: 30%;
+	margin: 0 3% 4% 0;
+}
+
+.thk-design-browser .thk-design:nth-child(3n) {
+	margin-right: 0;
+}
+
+.thk-design-browser .thk-design:hover,
+.thk-design-browser .thk-design:focus {
+}
+
+.thk-design-browser .thk-design .thk-design-name {
+	font-size: 15px;
+	font-weight: 600;
+	height: 18px;
+	margin: 0;
+	padding: 15px;
+	box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	background: #fff;
+	background: rgba(255,255,255,0.65);
+}
+
+.thk-design-browser .thk-design .thk-design-actions {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	opacity: 0;
+	transition: opacity 0.1s ease-in-out;
+	height: auto;
+	background: rgba(244, 244, 244, 0.7);
+	border-left: 1px solid rgba(0,0,0,0.05);
+}
+
+.thk-design-browser .thk-design:hover .thk-design-actions,
+.thk-design-browser .thk-design.focus .thk-design-actions,
+.thk-design-browser .thk-design:focus .thk-design-actions {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+}
+
+.thk-design-browser .thk-design .thk-design-actions .button-primary {
+	margin-right: 3px;
+}
+
+.thk-design-browser .thk-design .thk-design-actions .button {
+	float: none;
+	margin-left: 3px;
+}
+
+.thk-design-browser .thk-design .thk-design-screenshot {
+	display: block;
+	overflow: hidden;
+	position: relative;
+	-webkit-backface-visibility: hidden; /* Prevents flicker of the screenshot on hover. */
+	transition: opacity 0.2s ease-in-out;
+}
+
+.thk-design-browser .thk-design .thk-design-screenshot:after {
+	content: "";
+	display: block;
+	padding-top: 66.66666%; /* using a 3/2 aspect ratio */
+}
+
+.thk-design-browser .thk-design .thk-design-screenshot img {
+	height: auto;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	transition: opacity 0.2s ease-in-out;
+}
+
+.thk-design-browser .thk-design:hover .thk-design-screenshot,
+.thk-design-browser .thk-design:focus .thk-design-screenshot {
+	background: #fff;
+}
+
+.thk-design-browser .thk-design:focus {
+	border-color: #5b9dd9;
+	box-shadow: 0 0 2px rgba( 30, 140, 190, 0.8 );
+}
+
+.thk-design-browser .thk-design.active:focus .thk-design-actions {
+	display: block;
+}
+
+.thk-design-browser .thk-design.active .thk-design-name {
+	background: #23282d;
+	color: #fff;
+	padding-right: 110px;
+	font-weight: 300;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.5);
+}
+
+.thk-design-browser .customize-control .thk-design.active .thk-design-name {
+	padding-right: 15px;
+}
+
+.thk-design-browser .thk-design.active .thk-design-name span {
+	font-weight: 600;
+}
+
+.thk-design-browser .thk-design.active .thk-design-actions {
+	background: rgba(49,49,49,0.7);
+	border-left: none;
+	opacity: 1;
+}
+
+.thk-design-id-container {
+	position: relative;
+}
+
+.thk-design-browser .thk-design.active .thk-design-actions,
+.thk-design-browser .thk-design .thk-design-actions {
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	right: 0;
+	padding: 10px 15px;
+	box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+}
+
+.thk-design-browser .thk-design.active .thk-design-actions .button-primary {
+	margin-right: 0;
+}
+
+/**
+ * Basic Responsive structure...
+ *
+ * Shuffles thk-design columns around based on screen width
+ */
+
+/* Maximum screenshot width reaches 440px */
+@media only screen and (min-width: 1640px) {
+	.thk-design-browser .thk-design {
+		width: 22.7%;
+		margin: 0 3% 3% 0;
+	}
+	.thk-design-browser .thk-design .thk-design-screenshot:after {
+		padding-top: 75%; /* using a 4/3 aspect ratio */
+	}
+
+	.thk-design-browser .thk-design:nth-child(3n) {
+		margin-right: 3%;
+	}
+
+	.thk-design-browser .thk-design:nth-child(4n) {
+		margin-right: 0;
+	}
+}
+/* Maximum screenshot width reaches 440px */
+@media only screen and (max-width: 1120px) {
+	.thk-design-browser .thk-design {
+		width: 47.5%;
+		margin-right: 0;
+	}
+
+	.thk-design-browser .thk-design:nth-child(even) {
+		margin-right: 0;
+	}
+
+	.thk-design-browser .thk-design:nth-child(odd) {
+		margin-right: 5%;
+	}
+}
+
+/* Admin menu is folded */
+@media only screen and (max-width: 780px) {
+	.thk-design-browser .thk-design.active .thk-design-name span {
+		/* Hide the "Active: " label on smaller screens. */
+		display: none;
+	}
+
+	.thk-design:not(.active):hover .thk-design-actions,
+	.thk-design:not(.active):focus .thk-design-actions {
+		/*display: none;*/
+	}
+
+	.thk-design-browser.rendered .thk-design:hover .thk-design-screenshot img,
+	.thk-design-browser.rendered .thk-design:focus .thk-design-screenshot img {
+		opacity: 1.0;
+	}
+
+	.thk-design-browser .thk-design.active .thk-design-actions,
+	.thk-design-browser .thk-design .thk-design-actions {
+		padding: 7px 15px 2px 15px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.thk-design-browser .thk-design {
+		width: 100%;
+		margin-right: 0;
+	}
+
+	.thk-design-browser .thk-design:nth-child(2n),
+	.thk-design-browser .thk-design:nth-child(3n) {
+		margin-right: 0;
+	}
+}
+
+@media only screen and (max-width: 650px) {
+	.thk-design-browser .thk-design.add-new-thk-design span:after {
+		font: normal 60px/90px dashicons;
+		width: 80px;
+		height: 80px;
+		top: 30%;
+		left: 50%;
+		text-indent: 0;
+		margin-left: -40px;
+	}
+}

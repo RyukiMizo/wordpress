@@ -1,0 +1,4 @@
+{"enclosing
+shortcode":{"label":"","php":true,"close":true,"hide":false,"active":true,"contents":"s:188:\"<?php\nadd
+shortcode( 'enclosing
+shortcode', function( $args, $contents ) {\n$contents = '<p style=\"font-weight:bold;font-size:2.0em;color:red\">' . $contents . '<\/p>';\nreturn $contents;\n});\n\";"}}

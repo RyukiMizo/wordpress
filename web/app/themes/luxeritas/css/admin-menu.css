@@ -1,0 +1,110 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+*/
+
+li[id*="_luxe"] .wp-menu-image::before {
+	color: #00a0dd !important;
+}
+
+#progress-bar {
+	position: relative;
+	height: 30px;
+	max-width: 600px;
+	border: 1px solid #ccc;
+	margin: 20px 0;
+}
+#progress-bar .progress-count-text {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+}
+#progress {
+	background: #8ecdf0;
+	height: 100%;
+	width: 0%;
+}
+#log-view {
+	box-sizing: border-box;
+	padding: 5px;
+	border: 1px solid #ccc;
+	height: 280px;
+	width: 100%;
+	overflow: scroll;
+}
+
+.thk-blog-card-icon,
+.thk-shortcode-icon,
+.thk-phrase-icon {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	vertical-align: text-top;
+	margin: 0 6px 0 0;
+}
+.thk-blog-card-icon:before,
+.thk-shortcode-icon:before,
+.thk-phrase-icon:before {
+	font: 400 18px/1 dashicons;
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #82878c;
+}
+.thk-blog-card-icon:before {
+	content: "\f233";
+}
+.thk-shortcode-icon:before {
+	content: "\f475";
+}
+.thk-phrase-icon:before {
+	content: "\f478";
+}
+
+body .ui-widget-overlay {
+	background: black;
+	opacity: .7;
+}
+body .ui-dialog {
+	z-index: 32766 !important;
+}
+
+/**
+------------------------------------
+ admin category list
+ ogp
+------------------------------------ */
+td.column-description img,
+#og-img-view img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
+}
+
+/**
+------------------------------------
+ admin category list
+------------------------------------ */
+td.column-description {
+	overflow: hidden;
+}
+
+/**
+------------------------------------
+ shortcode, phrase regitration popup
+------------------------------------ */
+#thk-code-form input[type*="text"],
+#thk-code-form textarea,
+#thk-code-form table {
+	width: 100%;
+	height: 100%;
+}

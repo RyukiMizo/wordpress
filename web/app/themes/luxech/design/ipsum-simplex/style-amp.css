@@ -1,0 +1,43 @@
+/* Stylesheet for Luxeritas design file (AMP) */
+
+div.toc:hover {
+	background: #fcfcfc;
+	transition: background 1.0s ease;
+}
+#breadcrumb {
+	margin-bottom: 30px;
+}
+#nav {
+	box-shadow: 0 3px 4px rgba( 128, 128, 128, .2 );
+}
+#list div[id^=card-] .term img {
+	margin-right: 40px;
+}
+div[id^=card-] .toc:not(#bottom-area):not(.posts-list-middle-widget):not(#bottom-area):not(.posts-list-under-widget) {
+    padding: 15px 30px;
+}
+.sitename, .entry-title, #breadcrumb, #breadcrumb a {
+	color: #666;
+}
+.entry-title a {
+	color: #666;
+	font-weight: bold;
+	font-size: 20px; font-size: 2.0rem;
+}
+#list .excerpt {
+	padding-top: 20px;
+}
+div[id^=card-] .meta {
+	margin-bottom: 20px;
+	border-bottom: 0;
+}
+.meta, .meta a, .post .meta, .post .meta a {
+	color: #ad8c5e;
+	padding-top :0;
+	border: 0;
+	text-decoration: none;
+}
+
+.desc, #side h3, #col3 h3, #side h4, #col3 h4 {
+	color: #ad8c5e;
+}

@@ -1,0 +1,6 @@
+{"simple
+line
+output":{"label":"","php":false,"close":false,"hide":false,"active":true,"contents":"s:177:\"<?php\nadd
+shortcode( 'simple
+line
+output', function() { return <<<EOF\n<p>\nFlout \u2019em and scout \u2019em<br \/>\nAnd scout \u2019em and flout \u2019em<br \/>\nThought is free.\n<\/p>\nEOF;\n});\n\";"}}

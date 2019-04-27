@@ -1,0 +1,167 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+*/
+
+div[class*="snsi-"] {
+	margin: 5px 0 0 0;
+	padding: 0;
+}
+div[class*="snsi-"] .clearfix {
+	padding: 0;
+}
+div[class*="snsi-"] i {
+	max-width: 16px;
+	font-size: 12px;
+}
+
+.snsi-c ,
+.snsi-w {
+	display: table;
+	width: 100%;
+	table-layout: fixed;
+}
+.snsib {
+	display: table-row;
+}
+.snsi-c li,
+.snsi-w li {
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	height: 36px;
+	color: #fff;
+	padding: 0 2px;
+	white-space: nowrap;
+	cursor: pointer;
+}
+
+.snsi-c a,
+.snsi-w a,
+.snsi-c .snsicnt,
+.snsi-w .snsicnt {
+	display: inline-block;
+	white-space: nowrap;
+	font-family: Verdana, Arial, Helvetica, Roboto;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	width: 100%;
+}
+.snsi-c .fa-hatena,
+.snsi-w .fa-hatena {
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, Roboto;
+}
+.snsi-c a, .snsi-c a:hover,
+.snsi-w a, .snsi-w a:hover {
+	position: relative;
+	line-height: 1.0;
+	color: #fff;
+	height: 36px;
+	border-radius: 3px;
+}
+.snsi-c .snsib li a {
+	box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.2);
+}
+.snsi-w .snsib li a {
+	border: 1px solid #ddd;
+}
+.snsi-c .snsib li a:hover {
+	opacity: 0.6;
+}
+.snsi-w .snsib li a:hover {
+	background: #f8f8f8;
+	opacity: 0.7;
+}
+.snsi-c .snsib i,
+.snsi-w .snsib i {
+	margin-right: 5px;
+}
+.snsicnt {
+	width: 26%!important;
+	height: 16px;
+	margin: 0 auto;
+	padding: 2px 0 2px 0!important;
+	font-size: 12px; font-size: 1.2rem;
+	color: #ddd;
+}
+.snsi-w .snsicnt {
+	color: #aaa;
+}
+
+div[class*="snsi-"] i:not(.fa-spinner) {
+	display: inline-block;
+	height: 32px;
+	margin: 3px;
+	padding: 6px 0;
+	font-size: 16px; font-size: 1.6rem;
+}
+.snsi-c .twitter a { background: #55acee; }
+.snsi-c .facebook a { background: #3b5998; }
+.snsi-c .google a { background: #dd4b39; }
+.snsi-c .linkedin a { background: #0479b4; }
+.snsi-c .pinit a  { background: #bd081c; }
+.snsi-c .hatena a { background: #3c7dd1; }
+.snsi-c .pocket a { background: #ee4257; }
+.snsi-c .line a   { background: #00c300; }
+.snsi-c .rss a    { background: #fe9900; }
+.snsi-c .feedly a { background: #87bd33; }
+
+.snsi-w .snsib .twitter a { color: #55acee; }
+.snsi-w .snsib .facebook a { color: #3b5998; }
+.snsi-w .snsib .google a { color: #dd4b39; }
+.snsi-w .snsib .linkedin a { color: #0479b4; }
+.snsi-w .snsib .pinit a  { color: #bd081c; }
+.snsi-w .snsib .hatena a { color: #3c7dd1; }
+.snsi-w .snsib .pocket a { color: #ee4257; }
+.snsi-w .snsib .line a   { color: #00c300; }
+.snsi-w .snsib .rss a    { color: #fe9900; }
+.snsi-w .snsib .feedly a { color: #87bd33; }
+
+@media screen and (max-width: 540px), screen and (min-width: 992px) and (max-width: 1200px) {
+	div[class*="snsi-"] i:not(.fa-spinner) {
+		font-size: 14px; font-size: 1.4rem;
+	}
+	div[class*="snsi-"] .snsicnt {
+		display: block;
+		position: absolute;
+		text-align: right;
+		width: 100% !important;
+		right: 2px;
+		bottom: 0;
+	}
+}
+@media screen and (max-width: 540px) {
+	.snsi-c li, .snsi-w li,
+	.snsi-c a, .snsi-w a {
+		height: 34px;
+		padding: 0 1px;
+	}
+	div[class*="snsi-"] i:not(.fa-spinner) {
+		padding: 7px 0;
+		height: 14px;
+	}
+	div[class*="snsi-"] .snsicnt {
+		bottom: -3px;
+	}
+}
+@media screen and (min-width: 992px) {
+	.snsib li.line-sm {
+		display: none !important;
+	}
+}
+@media screen and (max-width: 991px) {
+	.snsib li.line-pc {
+		display: none !important;
+	}
+}

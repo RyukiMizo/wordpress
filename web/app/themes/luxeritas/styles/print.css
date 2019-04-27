@@ -1,0 +1,148 @@
+/*! Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+@media print and (max-width: 991px) {
+	#side {
+		page-break-before: always;
+	}
+}
+@media print {
+	@page {
+		margin: 21.7mm;
+	}
+	*,
+	*:before,
+	*:after {
+		text-shadow: none !important;
+		background: transparent !important;
+		box-shadow: none !important;
+	}
+	body {
+		font-size: 11pt;
+	}
+
+	div[id*="header"] {
+		margin-top: 0px;
+	}
+
+	#primary,
+	#header,
+	#footer,
+	#main,
+	#side,
+	#col3,
+	div[id*="side-"],
+	#list .toc,
+	.head-cover,
+	.logo,
+	.container,
+	.container #header,
+	.container #footer {
+		display: block;
+		max-width: 100%;
+		width: 100%;
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	#primary,
+	#list .toc,
+	#core.lcore,
+	#core.pcore,
+	#side,
+	#col3,
+	#side .widget
+	#col3 .widget,
+	div[id*="side-"] {
+		border: none;
+	}
+
+	#header,
+	#head-in,
+	#footer,
+	#foot-in {
+		border-left: none;
+		border-right: none;
+	}
+
+	#header,
+	#head-in {
+		border-top: none;
+	}
+
+	#footer,
+	#head-in {
+		border-bottom: none;
+	}
+
+	#gnavi,
+	.band,
+	#breadcrumb,
+	.read-more,
+	.sns-msg,
+	div[id*="sns-"],
+	div[id*="snsf-"],
+	div[id*="snsi-"],
+	#page-top,
+	#adsense,
+	#paging,
+	.pnavi,
+	.reply,
+	#respond,
+	#trackback,
+	#search,
+	.thk_rss_feedly,
+	ins.adsbygoogle {
+		display: none !important;
+	}
+	#core {
+		page-break-after: always;
+	}
+	#footer div[class*="col-xs-"] {
+		float: none;
+	}
+	pre,
+	blockquote,
+	#side .widget {
+		page-break-inside: avoid;
+	}
+	thead {
+		display: table-header-group;
+	}
+	.toc, table, img {
+		page-break-inside: avoid;
+	}
+	img {
+		max-width: 100% !important;
+	}
+	#head-in p#sitename,
+	#head-in h1#sitename {
+		font-size: 20pt;
+	}
+	p, h1, h2, h3 {
+		orphans: 3;
+		widows: 3;
+	}
+	h2, h3 {
+		font-size: 14pt;
+		page-break-after: avoid;
+	}
+
+	/* bootstrap の印刷で不要な URL が出る奴の対策 */
+	a[href]:after,
+	abbr[title]:after {
+		content: "";
+	}
+}

@@ -1,0 +1,61 @@
+/* Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/* Widget RSS and Feedly button */
+#thk-rss-feedly {
+	display: table;
+	width: 100%;
+	table-layout: fixed;
+	border-collapse: separate;
+	border-spacing: 6px 0;
+}
+#thk-rss-feedly ul {
+	display: table-row;
+}
+#thk-rss-feedly li {
+	display: table-cell;
+}
+#thk-rss-feedly li a {
+	display: block;
+	overflow: hidden;
+	white-space: nowrap;
+	width: 100%;
+	font-size: 16px; font-size: 1.6rem;
+	line-height: 22px;
+	padding: 7px 0;
+	color: #fff;
+	border-radius: 3px;
+	text-align: center;
+	text-decoration: none;
+	box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.3);
+}
+#thk-rss-feedly a:hover {
+	color: #fff;
+	opacity: 0.7;
+}
+#thk-rss-feedly a.icon-rss-button {
+	background: #fe9900;
+}
+#thk-rss-feedly a.icon-feedly-button {
+	background: #87bd33;
+}
+#thk-rss-feedly a span {
+	font-family: Garamond, Palatino, Caslon, 'Century Oldstyle', Bodoni, 'Computer Modern', Didot, Baskerville, 'Times New Roman', Century, Egyptienne, Clarendon, Rockwell, serif;
+	font-weight: bold;
+}
+#thk-rss-feedly i {
+	margin: 0 10px 0 0;
+	color: #fff;
+}

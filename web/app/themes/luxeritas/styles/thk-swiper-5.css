@@ -1,0 +1,245 @@
+/*! Luxeritas WordPress Theme - free/libre wordpress platform
+ *
+ * @copyright Copyright (C) 2015 Thought is free.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later
+ * @author LunaNuko
+ * @link https://thk.kanzae.net/
+ * @translators rakeem( http://rakeem.jp/ )
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+/*!
+ * Swiper 3.4.2
+ * Most modern mobile touch slider and framework with hardware accelerated transitions
+ * 
+ * http://www.idangero.us/swiper/
+ * 
+ * Copyright 2017, Vladimir Kharlampidi
+ * The iDangero.us
+ * http://www.idangero.us/
+ * 
+ * Licensed under MIT
+ * 
+ * Released on: March 10, 2017
+ */
+.swiper-container {
+	padding-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	overflow: hidden;
+	/* Fix of Webkit flickering */
+	z-index: 1;
+}
+.swiper-container-no-flexbox .swiper-slide {
+	float: left;
+}
+.swiper-wrapper {
+	position: relative;
+	width: 100%;
+	height: auto;
+	z-index: 1;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-transition-property: -webkit-transform;
+	transition-property: transform;
+	box-sizing: border-box;
+}
+.swiper-container-android .swiper-slide,
+.swiper-wrapper {
+	-webkit-transform: translate3d(0px, 0, 0);
+	transform: translate3d(0px, 0, 0);
+}
+.swiper-slide {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex: 0 0 auto;
+	flex-shrink: 0;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	position: relative;
+	border: 1px solid #ddd;
+	text-align: center;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+a.swiper-slide img,
+a.swiper-slide img:hover {
+	padding: 0;
+	border: none;
+	opacity: 1.0;
+}
+p.swiper-title {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: 0;
+	padding: 8px 10px;
+	height: 48px;
+	line-height: 1.5;
+	font-size: 13px; font-size: 1.3rem;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+	background: rgba( 0, 0 ,0, 0.5 );
+	overflow: hidden;
+}
+
+/* a11y */
+.swiper-container .swiper-notification {
+	position: absolute;
+	left: 0;
+	top: 0;
+	pointer-events: none;
+	opacity: 0;
+	z-index: -1000;
+}
+/* IE10 Windows Phone 8 Fixes */
+.swiper-wp8-horizontal {
+	-ms-touch-action: pan-y;
+	touch-action: pan-y;
+}
+/* Arrows */
+.swiper-button-prev,
+.swiper-button-next {
+	position: absolute;
+	top: 40%;
+	width: 27px;
+	height: 44px;
+	margin-top: -22px;
+	z-index: 10;
+	cursor: pointer;
+	-moz-background-size: 27px 44px;
+	-webkit-background-size: 27px 44px;
+	background-size: 27px 44px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.swiper-button-prev::before,
+.swiper-button-next::before {
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	font-size: 32px;
+	line-height: 1;
+	opacity: .75;
+	text-shadow: 0 1px 15px #fff,  0 -1px 15px #fff,  -1px 0 15px #fff,  -1px -0 15px #fff, 1px 1px 15px #fff,  1px -1px 15px #fff,  -1px 1px 15px #fff,  -1px -1px 15px #fff;
+}
+.swiper-button-prev {
+	left: 10px;
+}
+.swiper-button-prev::before {
+	content: "\f137";
+}
+.swiper-button-next {
+	right: 10px;
+}
+.swiper-button-next::before {
+	content: "\f138";
+}
+/* Pagination Styles */
+.swiper-pagination {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	-webkit-transition: 300ms;
+	transition: 300ms;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	z-index: 10;
+}
+/* Bullets */
+.swiper-pagination-bullet {
+	width: 8px;
+	height: 8px;
+	display: inline-block;
+	border-radius: 100%;
+	background: #bbb;
+	box-shadow: 0 0 0 2px #fff;
+}
+button.swiper-pagination-bullet {
+	border: none;
+	margin: 0;
+	padding: 0;
+	box-shadow: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+.swiper-pagination-clickable .swiper-pagination-bullet {
+	cursor: pointer;
+}
+.swiper-container-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet {
+	margin: 0 7px;
+}
+
+/* Progress */
+.swiper-pagination-progress {
+	background: rgba(0, 0, 0, 0.25);
+	position: absolute;
+}
+.swiper-pagination-progress .swiper-pagination-progressbar {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	-webkit-transform-origin: left top;
+	transform-origin: left top;
+}
+.swiper-container-horizontal > .swiper-pagination-progress {
+	width: 100%;
+	height: 4px;
+	left: 0;
+	margin-bottom: 20px;
+}
+.swiper-pagination-progress.swiper-pagination-white {
+	background: rgba(255, 255, 255, 0.5);
+}
+/* 3D Container */
+.swiper-container-3d {
+	-webkit-perspective: 1200px;
+	perspective: 1200px;
+}
+.swiper-container-3d .swiper-wrapper,
+.swiper-container-3d .swiper-slide,
+.swiper-container-3d .swiper-slide-shadow-left,
+.swiper-container-3d .swiper-slide-shadow-right,
+.swiper-container-3d .swiper-slide-shadow-top,
+.swiper-container-3d .swiper-slide-shadow-bottom,
+.swiper-container-3d .swiper-cube-shadow {
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+.swiper-container-3d .swiper-slide-shadow-left,
+.swiper-container-3d .swiper-slide-shadow-right,
+.swiper-container-3d .swiper-slide-shadow-top,
+.swiper-container-3d .swiper-slide-shadow-bottom {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+	z-index: 10;
+}
+/* Coverflow */
+.swiper-container-coverflow .swiper-wrapper,
+.swiper-container-flip .swiper-wrapper {
+	/* Windows 8 IE 10 fix */
+	-ms-perspective: 1200px;
+}

@@ -1,0 +1,5 @@
+{"ads":{"label":"Google Adsense","php":true,"close":false,"hide":false,"active":true,"contents":"s:513:\"<?php\nadd
+shortcode('ads',function($args,$contents){\nif( is
+preview() === false && is
+customize
+preview() === false ) {\n\t$contents = <<< EOM\n<p>Sponsored Links<\/p>\n<script async src=\"\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js\"><\/script>\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-################\"\n     data-ad-slot=\"##########\"\n     data-ad-format=\"auto\"><\/ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n<\/script>\nEOM;\n}\nreturn $contents;\n});\n\";"}}
