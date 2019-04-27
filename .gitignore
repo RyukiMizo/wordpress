@@ -6,7 +6,7 @@ web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
 #web/app/themes/*
-#!web/app/themes/.gitkeep
+#!web/app/themes/.gitkeepa
 
 # WordPress
 #web/wp
