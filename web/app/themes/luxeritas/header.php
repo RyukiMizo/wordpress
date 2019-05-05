@@ -172,6 +172,10 @@ if( !isset( $luxe['amp'] ) ) {
 
 }
 ?>
+
+<meta name="google-site-verification" content="vlfW2jab3M9WyNmgHcJjrelKg94YOCkyVkru0EpcWEA" />
+
+
 </head>
 <body <?php body_class(); ?>>
 <?php
